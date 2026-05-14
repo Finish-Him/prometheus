@@ -1,0 +1,97 @@
+{
+    "version": "2.0.0",
+    "focus_league": "Europa Pro League",
+    "last_updated": "2025-12-08",
+    "total_predictions": 0,
+    "total_correct": 0,
+    "total_incorrect": 0,
+    "accuracy_rate": null,
+    "roi_percent": null,
+    "validation_entries": [],
+    "entry_schema": {
+        "id": "UUID",
+        "timestamp": "ISO 8601",
+        "match_id": "string",
+        "league": "EPL",
+        "team_radiant": "string",
+        "team_dire": "string",
+        "draft_radiant": [
+            "hero1",
+            "hero2",
+            "hero3",
+            "hero4",
+            "hero5"
+        ],
+        "draft_dire": [
+            "hero1",
+            "hero2",
+            "hero3",
+            "hero4",
+            "hero5"
+        ],
+        "prediction": {
+            "market": "match_winner | total_kills | duration | kill_handicap",
+            "selection": "string",
+            "confidence": "0-1",
+            "odds_at_prediction": "float",
+            "edge_calculated": "percentage",
+            "reasoning": "string"
+        },
+        "actual_result": {
+            "winner": "string",
+            "total_kills": "int",
+            "duration_minutes": "float",
+            "kill_difference": "int"
+        },
+        "validation": {
+            "prediction_correct": "boolean",
+            "error_margin": "float",
+            "profit_loss": "float"
+        },
+        "lesson_learned": {
+            "category": "model_error | data_gap | market_shift | correct_process",
+            "description": "string"
+        }
+    },
+    "aggregate_stats": {
+        "by_market": {
+            "match_winner": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            },
+            "total_kills": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            },
+            "duration": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            },
+            "kill_handicap": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            }
+        },
+        "by_confidence_range": {
+            "high_85_plus": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            },
+            "medium_70_84": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            },
+            "low_50_69": {
+                "total": 0,
+                "correct": 0,
+                "accuracy": null
+            }
+        }
+    }
+}

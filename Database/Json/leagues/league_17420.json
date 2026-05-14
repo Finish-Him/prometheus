@@ -1,0 +1,119 @@
+{
+  "league_id": 17420,
+  "name": "ESL One Bangkok 2025",
+  "short_name": "ESL Bangkok",
+  "tier": 1,
+  "region": "SEA",
+  "total_matches": 81,
+  "total_teams": 12,
+  "teams": [
+    {
+      "team_id": 8291895,
+      "name": "Tundra Esports",
+      "tag": "Tundra",
+      "wins": 10,
+      "losses": 1,
+      "games": 11,
+      "winrate": 90.9
+    },
+    {
+      "team_id": 9247354,
+      "name": "Team Falcons",
+      "tag": "FLCN",
+      "wins": 10,
+      "losses": 1,
+      "games": 11,
+      "winrate": 90.9
+    },
+    {
+      "team_id": 9338413,
+      "name": "MOUZ",
+      "tag": "MOUZ",
+      "wins": 9,
+      "losses": 5,
+      "games": 14,
+      "winrate": 64.3
+    },
+    {
+      "team_id": 2586976,
+      "name": "OG",
+      "tag": "OG",
+      "wins": 8,
+      "losses": 5,
+      "games": 13,
+      "winrate": 61.5
+    },
+    {
+      "team_id": 9823272,
+      "name": "Team Yandex",
+      "tag": "TY",
+      "wins": 8,
+      "losses": 6,
+      "games": 14,
+      "winrate": 57.1
+    },
+    {
+      "team_id": 36,
+      "name": "Natus Vincere",
+      "tag": "NAVI",
+      "wins": 7,
+      "losses": 6,
+      "games": 13,
+      "winrate": 53.8
+    },
+    {
+      "team_id": 8261500,
+      "name": "Xtreme Gaming",
+      "tag": "XG",
+      "wins": 7,
+      "losses": 10,
+      "games": 17,
+      "winrate": 41.2
+    },
+    {
+      "team_id": 9640842,
+      "name": "Team Tidebound",
+      "tag": "TT",
+      "wins": 5,
+      "losses": 8,
+      "games": 13,
+      "winrate": 38.5
+    },
+    {
+      "team_id": 9303484,
+      "name": "HEROIC",
+      "tag": "HEROIC",
+      "wins": 5,
+      "losses": 8,
+      "games": 13,
+      "winrate": 38.5
+    },
+    {
+      "team_id": 9351740,
+      "name": "Yakult Brothers",
+      "tag": "YB",
+      "wins": 6,
+      "losses": 10,
+      "games": 16,
+      "winrate": 37.5
+    },
+    {
+      "team_id": 8254145,
+      "name": "Execration",
+      "tag": "XctN",
+      "wins": 4,
+      "losses": 9,
+      "games": 13,
+      "winrate": 30.8
+    },
+    {
+      "team_id": 9927796,
+      "name": "Tearlaments",
+      "tag": "TT",
+      "wins": 2,
+      "losses": 12,
+      "games": 14,
+      "winrate": 14.3
+    }
+  ]
+}

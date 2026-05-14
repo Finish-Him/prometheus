@@ -1,0 +1,101 @@
+{
+  "league_id": 18866,
+  "name": "League 18866",
+  "short_name": "L18866",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 50,
+  "total_teams": 10,
+  "teams": [
+    {
+      "team_id": 9928746,
+      "name": "Most Wanted",
+      "tag": "MW",
+      "wins": 10,
+      "losses": 3,
+      "games": 13,
+      "winrate": 76.9
+    },
+    {
+      "team_id": 9872667,
+      "name": "Pipsqueak+4",
+      "tag": "PIPS4",
+      "wins": 10,
+      "losses": 5,
+      "games": 15,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9600141,
+      "name": "Zero Tenacity",
+      "tag": "Z10",
+      "wins": 7,
+      "losses": 4,
+      "games": 11,
+      "winrate": 63.6
+    },
+    {
+      "team_id": 9758040,
+      "name": "Runa Team",
+      "tag": "RT",
+      "wins": 8,
+      "losses": 7,
+      "games": 15,
+      "winrate": 53.3
+    },
+    {
+      "team_id": 9928636,
+      "name": "Team Lynx",
+      "tag": "LYNX",
+      "wins": 7,
+      "losses": 9,
+      "games": 16,
+      "winrate": 43.8
+    },
+    {
+      "team_id": 9247798,
+      "name": "Passion UA",
+      "tag": "PassionUA",
+      "wins": 4,
+      "losses": 6,
+      "games": 10,
+      "winrate": 40.0
+    },
+    {
+      "team_id": 9895544,
+      "name": "Inner Circle",
+      "tag": "IC",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9895247,
+      "name": "Kalmychata",
+      "tag": "Kalm",
+      "wins": 1,
+      "losses": 4,
+      "games": 5,
+      "winrate": 20.0
+    },
+    {
+      "team_id": 9956831,
+      "name": "Royal Jelly",
+      "tag": "RJ",
+      "wins": 1,
+      "losses": 6,
+      "games": 7,
+      "winrate": 14.3
+    },
+    {
+      "team_id": 9886393,
+      "name": "NAVI Junior",
+      "tag": "NAVIj",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    }
+  ]
+}

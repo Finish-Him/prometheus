@@ -1,0 +1,83 @@
+{
+  "league_id": 18893,
+  "name": "League 18893",
+  "short_name": "L18893",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 50,
+  "total_teams": 8,
+  "teams": [
+    {
+      "team_id": 9865903,
+      "name": "Veroja Gaming",
+      "tag": "VRJ",
+      "wins": 12,
+      "losses": 6,
+      "games": 18,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9722899,
+      "name": "ЯЧЁ123",
+      "tag": "ЯЧЁ",
+      "wins": 7,
+      "losses": 5,
+      "games": 12,
+      "winrate": 58.3
+    },
+    {
+      "team_id": 9878911,
+      "name": "Emperor",
+      "tag": "",
+      "wins": 5,
+      "losses": 4,
+      "games": 9,
+      "winrate": 55.6
+    },
+    {
+      "team_id": 7653080,
+      "name": "Yangon Galacticos",
+      "tag": "YG",
+      "wins": 7,
+      "losses": 8,
+      "games": 15,
+      "winrate": 46.7
+    },
+    {
+      "team_id": 9879852,
+      "name": "Ivory",
+      "tag": "Ivory",
+      "wins": 7,
+      "losses": 9,
+      "games": 16,
+      "winrate": 43.8
+    },
+    {
+      "team_id": 9098294,
+      "name": "Carstensz Esports",
+      "tag": "Carstensz",
+      "wins": 3,
+      "losses": 4,
+      "games": 7,
+      "winrate": 42.9
+    },
+    {
+      "team_id": 9939386,
+      "name": "Komodo",
+      "tag": "KM",
+      "wins": 4,
+      "losses": 6,
+      "games": 10,
+      "winrate": 40.0
+    },
+    {
+      "team_id": 9855045,
+      "name": "Buyback Bros",
+      "tag": "BBB",
+      "wins": 5,
+      "losses": 8,
+      "games": 13,
+      "winrate": 38.5
+    }
+  ]
+}

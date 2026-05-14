@@ -1,0 +1,290 @@
+{
+  "league_id": 16251,
+  "name": "League 16251",
+  "short_name": "L16251",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 35,
+  "total_teams": 31,
+  "teams": [
+    {
+      "team_id": 9966313,
+      "name": "миумиу|>.<",
+      "tag": "миумиу|>.<",
+      "wins": 5,
+      "losses": 0,
+      "games": 5,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9455993,
+      "name": "повер ренджерс",
+      "tag": "",
+      "wins": 3,
+      "losses": 0,
+      "games": 3,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 8545250,
+      "name": "ЧЕЧНЯ",
+      "tag": "",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9800464,
+      "name": "Team IW",
+      "tag": "V",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 6165106,
+      "name": "BG_H",
+      "tag": "",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9867013,
+      "name": "teamMopsi",
+      "tag": "mopsi",
+      "wins": 3,
+      "losses": 1,
+      "games": 4,
+      "winrate": 75.0
+    },
+    {
+      "team_id": 9823250,
+      "name": "...",
+      "tag": "ТриТочки",
+      "wins": 6,
+      "losses": 3,
+      "games": 9,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9966276,
+      "name": "SunnyBoys",
+      "tag": "SB",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 7777322,
+      "name": "Oshi hi teo Gaming",
+      "tag": "OG",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9579095,
+      "name": "ALTEL DIGITAL",
+      "tag": "ADT2G",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9966294,
+      "name": "Солнечные пушистики",
+      "tag": "Пушистики ",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9965820,
+      "name": "СВО",
+      "tag": "",
+      "wins": 3,
+      "losses": 2,
+      "games": 5,
+      "winrate": 60.0
+    },
+    {
+      "team_id": 9691418,
+      "name": "Dead死Inside❤",
+      "tag": "",
+      "wins": 2,
+      "losses": 2,
+      "games": 4,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9812613,
+      "name": "ФАНАТЫ ФИШМАНА ",
+      "tag": "",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9634766,
+      "name": "PIDORASI",
+      "tag": "NIGG",
+      "wins": 1,
+      "losses": 2,
+      "games": 3,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9127045,
+      "name": "Team Spirt",
+      "tag": "TSpirt",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9957493,
+      "name": "трахальня",
+      "tag": "",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9966315,
+      "name": "Пивные слоники",
+      "tag": "PIVSLON",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9929892,
+      "name": "TaxiAshot",
+      "tag": "TA",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9361469,
+      "name": "МУРМУР",
+      "tag": "ммр",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9799249,
+      "name": "SKIBIDI TOILET PRODIGY",
+      "tag": "SKBD",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9939455,
+      "name": "FUMIMOCHI HATERS",
+      "tag": "FH",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 2425246,
+      "name": "TechRK",
+      "tag": "TCH",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9905934,
+      "name": "pidorasi prime",
+      "tag": "loveanal",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9615068,
+      "name": "связка бананчиков ",
+      "tag": "GOD",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9939500,
+      "name": "девственники",
+      "tag": "",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9966279,
+      "name": "Pokoyo Team",
+      "tag": "[PT]",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 6092445,
+      "name": "Wmeli",
+      "tag": "WML",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9907123,
+      "name": "SKADI GAMING",
+      "tag": "SkadiG",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9360916,
+      "name": "Deathcode",
+      "tag": "Dcode",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9965161,
+      "name": "Void Walkers",
+      "tag": "VWS",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

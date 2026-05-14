@@ -1,0 +1,160 @@
+{
+    "gem_version": "2.0.0",
+    "codename": "EPL-Specialist",
+    "created": "2025-12-08",
+    "focus_league": "Europa Pro League",
+    "agent": {
+        "name": "Prometheus",
+        "role": "EPL Betting Intelligence",
+        "personality": "Analytical,Data-Driven,Conservative",
+        "risk": "moderate",
+        "objective": "Identificar value bets em partidas EPL com EV positivo"
+    },
+    "confidence": {
+        "min_bet": 0.78,
+        "high": 0.85,
+        "lock": 0.92,
+        "abort": 0.50
+    },
+    "betting_rules": {
+        "max_stake_pct": 5.0,
+        "kelly": 0.25,
+        "min_edge": 3.0,
+        "max_concurrent": 5,
+        "cooldown_after_loss": 3
+    },
+    "markets": [
+        "match_winner",
+        "total_kills",
+        "duration",
+        "kill_handicap"
+    ],
+    "sources": {
+        "data": [
+            "opendota",
+            "dotabuff"
+        ],
+        "odds": [
+            "rivalry",
+            "dltv",
+            "pinnacle",
+            "betway",
+            "bet365"
+        ],
+        "live": [
+            "steam_api",
+            "trackdota"
+        ]
+    },
+    "epl_context": {
+        "seasons_analyzed": 40,
+        "matches_total": 7247,
+        "heroes_used": 126,
+        "avg_kills_per_game": 52,
+        "avg_duration_min": 38
+    },
+    "bookmaker_delays": {
+        "rivalry": {
+            "delay_sec": 45,
+            "range": [
+                30,
+                90
+            ],
+            "triggers": [
+                "kill",
+                "tower",
+                "roshan"
+            ],
+            "notes": "Locks during teamfight"
+        },
+        "betway": {
+            "delay_sec": 60,
+            "range": [
+                45,
+                120
+            ],
+            "triggers": [
+                "objective",
+                "5k_swing"
+            ],
+            "notes": "Slow but wide markets"
+        },
+        "dltv": {
+            "delay_sec": 5,
+            "range": [
+                2,
+                15
+            ],
+            "triggers": [
+                "realtime"
+            ],
+            "notes": "Near instant, limited markets"
+        },
+        "pinnacle": {
+            "delay_sec": 30,
+            "range": [
+                20,
+                60
+            ],
+            "triggers": [
+                "algo"
+            ],
+            "notes": "Sharp lines, best odds"
+        },
+        "bet365": {
+            "delay_sec": 55,
+            "range": [
+                40,
+                90
+            ],
+            "triggers": [
+                "manual"
+            ],
+            "notes": "Manual traders, exploitable post-Rosh"
+        }
+    },
+    "exploit_windows": {
+        "post_teamfight": {
+            "delay": 45,
+            "value": "high",
+            "markets": [
+                "winner",
+                "handicap"
+            ]
+        },
+        "roshan_sequence": {
+            "delay": 60,
+            "value": "very_high",
+            "markets": [
+                "winner",
+                "duration_over"
+            ]
+        },
+        "buyback_usage": {
+            "delay": 40,
+            "value": "high",
+            "markets": [
+                "winner"
+            ]
+        },
+        "mega_creeps": {
+            "delay": 30,
+            "value": "extreme",
+            "markets": [
+                "winner"
+            ]
+        }
+    },
+    "evolution": {
+        "auto": true,
+        "min_samples": 50,
+        "frequency_hours": 168,
+        "preserve_versions": 5
+    },
+    "status": {
+        "mode": "active",
+        "predictions": 0,
+        "accuracy": null,
+        "roi": null
+    }
+}

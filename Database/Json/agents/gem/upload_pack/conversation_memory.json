@@ -1,0 +1,124 @@
+{
+    "version": "1.0.0",
+    "created": "2025-12-08",
+    "purpose": "Store conversation context and match analysis history",
+    "today": "2025-12-08",
+    "active_session": null,
+    "sessions": [],
+    "session_schema": {
+        "id": "UUID",
+        "date": "YYYY-MM-DD",
+        "start_time": "HH:MM",
+        "end_time": "HH:MM",
+        "matches_analyzed": [
+            {
+                "match_id": "string",
+                "teams": [
+                    "A",
+                    "B"
+                ],
+                "league": "string",
+                "drafts": {
+                    "radiant": [],
+                    "dire": []
+                },
+                "my_prediction": {},
+                "result": {},
+                "notes": "string"
+            }
+        ],
+        "bets_placed": [
+            {
+                "match_id": "string",
+                "market": "string",
+                "selection": "string",
+                "odds": 0.00,
+                "stake": 0.00,
+                "confidence": 0.00,
+                "result": "pending|won|lost",
+                "profit": 0.00
+            }
+        ],
+        "lessons": [
+            "string"
+        ],
+        "total_predictions": 0,
+        "correct": 0,
+        "accuracy": null,
+        "profit_loss": 0.00
+    },
+    "match_history": [],
+    "match_schema": {
+        "id": "string",
+        "date": "YYYY-MM-DD",
+        "league": "string",
+        "team_a": "string",
+        "team_b": "string",
+        "draft_a": {
+            "picks": [],
+            "bans": []
+        },
+        "draft_b": {
+            "picks": [],
+            "bans": []
+        },
+        "analysis": {
+            "favored": "string",
+            "confidence": 0.00,
+            "reasons": [],
+            "concerns": [],
+            "key_matchups": []
+        },
+        "markets": {
+            "winner": {
+                "pick": "string",
+                "odds": 0.00,
+                "edge": 0.00
+            },
+            "kills": {
+                "line": 0,
+                "over_under": "string",
+                "odds": 0.00
+            },
+            "duration": {
+                "line": 0,
+                "over_under": "string",
+                "odds": 0.00
+            },
+            "handicap": {
+                "line": 0,
+                "pick": "string",
+                "odds": 0.00
+            }
+        },
+        "live_notes": [
+            {
+                "min": 0,
+                "event": "string",
+                "impact": "string"
+            }
+        ],
+        "result": {
+            "winner": "string",
+            "kills_a": 0,
+            "kills_b": 0,
+            "duration_min": 0,
+            "kill_diff": 0
+        },
+        "post_match": {
+            "prediction_correct": true,
+            "lessons": "string",
+            "weight_adjustment": "string"
+        }
+    },
+    "player_notes": {},
+    "team_form": {},
+    "meta_observations": [],
+    "quick_stats": {
+        "total_matches_tracked": 0,
+        "prediction_accuracy": null,
+        "best_market": "string",
+        "worst_market": "string",
+        "profit_loss": 0.00
+    }
+}

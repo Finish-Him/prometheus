@@ -1,0 +1,47 @@
+{
+  "league_id": 18859,
+  "name": "League 18859",
+  "short_name": "L18859",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 7,
+  "total_teams": 4,
+  "teams": [
+    {
+      "team_id": 9828897,
+      "name": "REKONIX",
+      "tag": "RKX",
+      "wins": 4,
+      "losses": 1,
+      "games": 5,
+      "winrate": 80.0
+    },
+    {
+      "team_id": 9865903,
+      "name": "Veroja Gaming",
+      "tag": "VRJ",
+      "wins": 3,
+      "losses": 2,
+      "games": 5,
+      "winrate": 60.0
+    },
+    {
+      "team_id": 9965377,
+      "name": "Carstensz X Nitro",
+      "tag": "Nitro",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 8741316,
+      "name": "Pandawa Lima",
+      "tag": "PAW5",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    }
+  ]
+}

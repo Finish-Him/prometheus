@@ -1,0 +1,68 @@
+{
+    "user_id": "moisesmsconsultoria",
+    "version": "5.6.0",
+    "settings": {
+        "bankroll": 1000.00,
+        "initial_bankroll": 1000.00,
+        "unit_size": 10.00,
+        "max_stake_percent": 10.0,
+        "kelly_fraction": 0.25,
+        "min_edge_threshold": 3.0,
+        "currency": "BRL",
+        "default_markets": [
+            "winner",
+            "total_kills",
+            "duration",
+            "kill_handicap"
+        ],
+        "auto_settle": true
+    },
+    "bankroll": 1000.00,
+    "initial_bankroll": 1000.00,
+    "last_updated": "2025-01-01T00:00:00",
+    "active_bets": [],
+    "statistics": {
+        "total_bets": 0,
+        "won": 0,
+        "lost": 0,
+        "void": 0,
+        "pending": 0,
+        "total_stake": 0.00,
+        "total_returns": 0.00,
+        "profit_loss": 0.00,
+        "roi": 0.00,
+        "win_rate": 0.00,
+        "avg_odds": 0.00,
+        "avg_edge": 0.00,
+        "by_market": {
+            "winner": {
+                "bets": 0,
+                "won": 0,
+                "lost": 0,
+                "profit": 0.00,
+                "roi": 0.00
+            },
+            "total_kills": {
+                "bets": 0,
+                "won": 0,
+                "lost": 0,
+                "profit": 0.00,
+                "roi": 0.00
+            },
+            "duration": {
+                "bets": 0,
+                "won": 0,
+                "lost": 0,
+                "profit": 0.00,
+                "roi": 0.00
+            },
+            "kill_handicap": {
+                "bets": 0,
+                "won": 0,
+                "lost": 0,
+                "profit": 0.00,
+                "roi": 0.00
+            }
+        }
+    }
+}

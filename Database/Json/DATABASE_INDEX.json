@@ -1,0 +1,78 @@
+{
+  "$schema": "prometheus_database_v5.5.0",
+  "metadata": {
+    "version": "5.5.0",
+    "format": "JSON",
+    "created": "2025-12-07 21:07:13",
+    "updated": "2025-12-08 04:00:00",
+    "description": "Prometheus V5.5.0 - Official Database Index"
+  },
+  "collections": {
+    "heroes": {
+      "path": "heroes/heroes_meta.json",
+      "description": "Hero meta with tier list, winrates and presence",
+      "records": 126
+    },
+    "players": {
+      "path": "players/players.json",
+      "description": "Player database with stats and rankings",
+      "records": 812
+    },
+    "teams": {
+      "path": "teams/teams.json",
+      "description": "Team information with tier list",
+      "records": 37
+    },
+    "h2h": {
+      "path": "h2h/matchups.json",
+      "description": "Head-to-head matchup history",
+      "records": 43
+    },
+    "matches": {
+      "path": "matches/",
+      "description": "Match analysis and history",
+      "files": [
+        "EPL_PLAYER_HERO_STATS.json",
+        "HYPER_LEAGUE_STATS.json",
+        "EPL_HISTORY_COMPLETE.json"
+      ]
+    },
+    "constants": {
+      "path": "constants/",
+      "description": "Dota 2 game constants",
+      "files": 14
+    },
+    "leagues": {
+      "path": "leagues/",
+      "description": "League information and mappings",
+      "files": 22
+    },
+    "epl_2025_2026": {
+      "path": "epl_2025_2026/",
+      "description": "EPL Season 29 complete dataset",
+      "files": 16,
+      "records": {
+        "heroes": 105,
+        "players": 101,
+        "matches": 160,
+        "drafts": 140
+      }
+    },
+    "opendota": {
+      "path": "opendota/2025/",
+      "description": "OpenDota 2025 match data (converted from CSV)",
+      "months": 12,
+      "total_matches": 28312,
+      "total_rows": 5943690,
+      "size_gb": 10.2
+    },
+    "odds": {
+      "path": "odds/",
+      "description": "Betting odds from bookmakers",
+      "sources": [
+        "rivalry"
+      ],
+      "files": 11
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "league_id": 18820,
+  "name": "Unknown League 18820",
+  "short_name": "L18820",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 75,
+  "total_teams": 13,
+  "teams": [
+    {
+      "team_id": 9973791,
+      "name": "Сooman Team",
+      "tag": "ZAUR",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9973259,
+      "name": "VooDooSh Team",
+      "tag": "VoodooSh",
+      "wins": 10,
+      "losses": 5,
+      "games": 15,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9980912,
+      "name": "Rostik Team",
+      "tag": "Rostik",
+      "wins": 6,
+      "losses": 3,
+      "games": 9,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9973390,
+      "name": "Recrent Team",
+      "tag": "Rec",
+      "wins": 7,
+      "losses": 4,
+      "games": 11,
+      "winrate": 63.6
+    },
+    {
+      "team_id": 9973330,
+      "name": "Team By_owl",
+      "tag": "owls",
+      "wins": 13,
+      "losses": 10,
+      "games": 23,
+      "winrate": 56.5
+    },
+    {
+      "team_id": 9973248,
+      "name": "dyrachyo team",
+      "tag": "dyrachyo ",
+      "wins": 5,
+      "losses": 4,
+      "games": 9,
+      "winrate": 55.6
+    },
+    {
+      "team_id": 9973381,
+      "name": "TPABOMAH TEAM",
+      "tag": "TPABOMAH",
+      "wins": 13,
+      "losses": 11,
+      "games": 24,
+      "winrate": 54.2
+    },
+    {
+      "team_id": 9973368,
+      "name": "Cooman team",
+      "tag": "Cooman",
+      "wins": 5,
+      "losses": 6,
+      "games": 11,
+      "winrate": 45.5
+    },
+    {
+      "team_id": 9973256,
+      "name": "Goodwin team ",
+      "tag": "GoodWin",
+      "wins": 4,
+      "losses": 5,
+      "games": 9,
+      "winrate": 44.4
+    },
+    {
+      "team_id": 9194744,
+      "name": "BUDKA",
+      "tag": "Stray Team",
+      "wins": 5,
+      "losses": 8,
+      "games": 13,
+      "winrate": 38.5
+    },
+    {
+      "team_id": 9973333,
+      "name": "КиберДинамо ",
+      "tag": "",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9973323,
+      "name": "Team Solo",
+      "tag": "322",
+      "wins": 2,
+      "losses": 7,
+      "games": 9,
+      "winrate": 22.2
+    },
+    {
+      "team_id": 9973273,
+      "name": "Team LenS",
+      "tag": "TL",
+      "wins": 2,
+      "losses": 8,
+      "games": 10,
+      "winrate": 20.0
+    }
+  ]
+}

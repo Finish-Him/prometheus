@@ -1,0 +1,82 @@
+{
+  "league_id": 18955,
+  "name": "European Pro League Season 33",
+  "short_name": "EPL S33",
+  "region": "Europe",
+  "tier": 3,
+  "total_matches": 25,
+  "teams": [
+    {
+      "team_id": 9303383,
+      "name": "L1GA TEAM",
+      "tag": "L1",
+      "wins": 5,
+      "losses": 2,
+      "games": 7,
+      "winrate": 71.4
+    },
+    {
+      "team_id": 9886393,
+      "name": "NAVI Junior",
+      "tag": "NAVIj",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9948367,
+      "name": "Team Spirit Academy",
+      "tag": "TSA",
+      "wins": 3,
+      "losses": 5,
+      "games": 8,
+      "winrate": 37.5
+    },
+    {
+      "team_id": 9956508,
+      "name": "Team Public",
+      "tag": NaN,
+      "wins": 5,
+      "losses": 4,
+      "games": 9,
+      "winrate": 55.6
+    },
+    {
+      "team_id": 9247798,
+      "name": "Passion UA",
+      "tag": "PassionUA",
+      "wins": 4,
+      "losses": 1,
+      "games": 5,
+      "winrate": 80.0
+    },
+    {
+      "team_id": 9677721,
+      "name": "AIM POSSIBLE",
+      "tag": "AIMP",
+      "wins": 0,
+      "losses": 4,
+      "games": 4,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9600141,
+      "name": "Zero Tenacity",
+      "tag": "Z10",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9872667,
+      "name": "Pipsqueak+4",
+      "tag": "PIPS4",
+      "wins": 4,
+      "losses": 1,
+      "games": 5,
+      "winrate": 80.0
+    }
+  ]
+}

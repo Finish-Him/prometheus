@@ -1,0 +1,20 @@
+{
+  "league_id": 18477,
+  "name": "League 18477",
+  "short_name": "L18477",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 4,
+  "total_teams": 1,
+  "teams": [
+    {
+      "team_id": 9939448,
+      "name": "野狗",
+      "tag": "",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

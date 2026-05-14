@@ -1,0 +1,314 @@
+[
+  {
+    "hero": "Enchantress",
+    "matches": 14,
+    "win_rate": 71.43,
+    "kda": 2.57
+  },
+  {
+    "hero": "Centaur Warrunner",
+    "matches": 10,
+    "win_rate": 50.0,
+    "kda": 3.94
+  },
+  {
+    "hero": "Batrider",
+    "matches": 9,
+    "win_rate": 66.67,
+    "kda": 3.92
+  },
+  {
+    "hero": "Grimstroke",
+    "matches": 8,
+    "win_rate": 62.5,
+    "kda": 4.14
+  },
+  {
+    "hero": "Gyrocopter",
+    "matches": 8,
+    "win_rate": 50.0,
+    "kda": 2.76
+  },
+  {
+    "hero": "Pugna",
+    "matches": 8,
+    "win_rate": 37.5,
+    "kda": 2.12
+  },
+  {
+    "hero": "Ringmaster",
+    "matches": 7,
+    "win_rate": 42.86,
+    "kda": 2.84
+  },
+  {
+    "hero": "Disruptor",
+    "matches": 7,
+    "win_rate": 28.57,
+    "kda": 1.5
+  },
+  {
+    "hero": "Juggernaut",
+    "matches": 6,
+    "win_rate": 66.67,
+    "kda": 7.82
+  },
+  {
+    "hero": "Primal Beast",
+    "matches": 6,
+    "win_rate": 66.67,
+    "kda": 3.96
+  },
+  {
+    "hero": "Dragon Knight",
+    "matches": 6,
+    "win_rate": 50.0,
+    "kda": 4.77
+  },
+  {
+    "hero": "Slardar",
+    "matches": 6,
+    "win_rate": 33.33,
+    "kda": 3.33
+  },
+  {
+    "hero": "Sand King",
+    "matches": 6,
+    "win_rate": 0.0,
+    "kda": 2.88
+  },
+  {
+    "hero": "Pangolier",
+    "matches": 5,
+    "win_rate": 60.0,
+    "kda": 4.8
+  },
+  {
+    "hero": "Ember Spirit",
+    "matches": 5,
+    "win_rate": 40.0,
+    "kda": 5.39
+  },
+  {
+    "hero": "Abaddon",
+    "matches": 5,
+    "win_rate": 20.0,
+    "kda": 3.0
+  },
+  {
+    "hero": "Hoodwink",
+    "matches": 5,
+    "win_rate": 0.0,
+    "kda": 2.68
+  },
+  {
+    "hero": "Puck",
+    "matches": 4,
+    "win_rate": 50.0,
+    "kda": 3.38
+  },
+  {
+    "hero": "Jakiro",
+    "matches": 4,
+    "win_rate": 50.0,
+    "kda": 1.85
+  },
+  {
+    "hero": "Axe",
+    "matches": 4,
+    "win_rate": 50.0,
+    "kda": 2.89
+  },
+  {
+    "hero": "Warlock",
+    "matches": 4,
+    "win_rate": 0.0,
+    "kda": 2.42
+  },
+  {
+    "hero": "Earthshaker",
+    "matches": 3,
+    "win_rate": 66.67,
+    "kda": 1.81
+  },
+  {
+    "hero": "Storm Spirit",
+    "matches": 3,
+    "win_rate": 66.67,
+    "kda": 26.0
+  },
+  {
+    "hero": "Morphling",
+    "matches": 3,
+    "win_rate": 33.33,
+    "kda": 2.06
+  },
+  {
+    "hero": "Tusk",
+    "matches": 3,
+    "win_rate": 33.33,
+    "kda": 2.36
+  },
+  {
+    "hero": "Dawnbreaker",
+    "matches": 3,
+    "win_rate": 33.33,
+    "kda": 2.21
+  },
+  {
+    "hero": "Void Spirit",
+    "matches": 2,
+    "win_rate": 100.0,
+    "kda": 3.67
+  },
+  {
+    "hero": "Mars",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 5.5
+  },
+  {
+    "hero": "Invoker",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 4.5
+  },
+  {
+    "hero": "Nature's Prophet",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 2.73
+  },
+  {
+    "hero": "Terrorblade",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 2.5
+  },
+  {
+    "hero": "Skywrath Mage",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 2.23
+  },
+  {
+    "hero": "Underlord",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 3.57
+  },
+  {
+    "hero": "Ursa",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 4.5
+  },
+  {
+    "hero": "Night Stalker",
+    "matches": 2,
+    "win_rate": 50.0,
+    "kda": 3.5
+  },
+  {
+    "hero": "Lifestealer",
+    "matches": 2,
+    "win_rate": 0.0,
+    "kda": 2.73
+  },
+  {
+    "hero": "Leshrac",
+    "matches": 2,
+    "win_rate": 0.0,
+    "kda": 2.57
+  },
+  {
+    "hero": "Shadow Demon",
+    "matches": 2,
+    "win_rate": 0.0,
+    "kda": 2.36
+  },
+  {
+    "hero": "Bristleback",
+    "matches": 1,
+    "win_rate": 100.0,
+    "kda": 11.0
+  },
+  {
+    "hero": "Nyx Assassin",
+    "matches": 1,
+    "win_rate": 100.0,
+    "kda": 5.8
+  },
+  {
+    "hero": "Phantom Lancer",
+    "matches": 1,
+    "win_rate": 100.0,
+    "kda": 14.0
+  },
+  {
+    "hero": "Rubick",
+    "matches": 1,
+    "win_rate": 100.0,
+    "kda": 3.4
+  },
+  {
+    "hero": "Beastmaster",
+    "matches": 1,
+    "win_rate": 100.0,
+    "kda": 4.0
+  },
+  {
+    "hero": "Slark",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 2.0
+  },
+  {
+    "hero": "Marci",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 2.63
+  },
+  {
+    "hero": "Dark Seer",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 2.17
+  },
+  {
+    "hero": "Medusa",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 0.0
+  },
+  {
+    "hero": "Bounty Hunter",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 1.33
+  },
+  {
+    "hero": "Windranger",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 3.2
+  },
+  {
+    "hero": "Shadow Fiend",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 2.0
+  },
+  {
+    "hero": "Tidehunter",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 5.33
+  },
+  {
+    "hero": "Doom",
+    "matches": 1,
+    "win_rate": 0.0,
+    "kda": 1.33
+  }
+]

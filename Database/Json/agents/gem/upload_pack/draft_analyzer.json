@@ -1,0 +1,229 @@
+{
+    "version": "1.0.0",
+    "purpose": "Real-time draft analysis for live EPL matches",
+    "current_match": null,
+    "draft_template": {
+        "match_id": "string",
+        "date": "YYYY-MM-DD",
+        "league": "EPL",
+        "team_radiant": "string",
+        "team_dire": "string",
+        "phase": "picking|banning|complete",
+        "radiant": {
+            "bans": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "picks": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "dire": {
+            "bans": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "picks": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "analysis": {
+            "draft_advantage": "radiant|dire|even",
+            "advantage_score": 0.00,
+            "radiant_timing": "early|mid|late",
+            "dire_timing": "early|mid|late",
+            "radiant_win_condition": "string",
+            "dire_win_condition": "string",
+            "key_matchups": [
+                {
+                    "lane": "mid|safe|off",
+                    "radiant_hero": "string",
+                    "dire_hero": "string",
+                    "advantage": "string",
+                    "impact": 0.00
+                }
+            ],
+            "counter_picks_identified": [],
+            "comfort_picks": [],
+            "signature_picks": [],
+            "expected_game_pace": "fast|normal|slow",
+            "expected_duration_range": [
+                0,
+                0
+            ],
+            "expected_kills_range": [
+                0,
+                0
+            ]
+        }
+    },
+    "draft_priority_by_phase": {
+        "ban_phase_1": [
+            "S-tier threats",
+            "enemy signature heroes",
+            "combo enablers"
+        ],
+        "pick_phase_1": [
+            "flex picks",
+            "high priority meta",
+            "lane winners"
+        ],
+        "ban_phase_2": [
+            "counter picks",
+            "remaining S-tier",
+            "comfort denials"
+        ],
+        "pick_phase_2": [
+            "core heroes",
+            "position 1/2",
+            "counter picks"
+        ],
+        "ban_phase_3": [
+            "last pick counters",
+            "specific counters"
+        ],
+        "pick_phase_3": [
+            "last pick carry/mid",
+            "surprise factor"
+        ]
+    },
+    "synergy_combos": [
+        {
+            "heroes": [
+                "Magnus",
+                "Terrorblade"
+            ],
+            "synergy": "RP + Metamorphosis",
+            "impact": 0.85
+        },
+        {
+            "heroes": [
+                "Enigma",
+                "Faceless Void"
+            ],
+            "synergy": "Black Hole + Chrono zone",
+            "impact": 0.80
+        },
+        {
+            "heroes": [
+                "Shadow Demon",
+                "Luna"
+            ],
+            "synergy": "Disruption + Eclipse illusions",
+            "impact": 0.75
+        },
+        {
+            "heroes": [
+                "IO",
+                "Gyrocopter"
+            ],
+            "synergy": "Relocate ganks + Calldown",
+            "impact": 0.80
+        },
+        {
+            "heroes": [
+                "Dark Seer",
+                "Sven"
+            ],
+            "synergy": "Vacuum + Storm Hammer cleave",
+            "impact": 0.70
+        },
+        {
+            "heroes": [
+                "Chen",
+                "Huskar"
+            ],
+            "synergy": "Early push timing",
+            "impact": 0.85
+        },
+        {
+            "heroes": [
+                "Dazzle",
+                "Huskar"
+            ],
+            "synergy": "Shallow Grave sustain",
+            "impact": 0.82
+        }
+    ],
+    "anti_synergy": [
+        {
+            "heroes": [
+                "Ancient Apparition"
+            ],
+            "counters": [
+                "Huskar",
+                "Morphling",
+                "Alchemist"
+            ],
+            "impact": "hard counter"
+        },
+        {
+            "heroes": [
+                "Doom"
+            ],
+            "counters": [
+                "any single-spell dependent hero"
+            ],
+            "impact": "removes from fight"
+        },
+        {
+            "heroes": [
+                "Lion",
+                "Shadow Shaman"
+            ],
+            "counters": [
+                "Chen",
+                "Visage",
+                "Lycan"
+            ],
+            "impact": "instant kill summons"
+        }
+    ],
+    "lane_matchup_db": {
+        "mid": {
+            "Puck vs Invoker": "Puck favored early",
+            "Storm vs TA": "TA favored pre-6, Storm post-6",
+            "Ember vs Puck": "skill matchup"
+        },
+        "safe": {
+            "AM vs any": "farm focused, avoid fights",
+            "Spectre vs": "weak lane, needs protection"
+        },
+        "off": {
+            "Timbersaw vs STR": "dominates",
+            "Primal Beast vs ranged": "struggles"
+        }
+    },
+    "timing_clash_matrix": {
+        "early_vs_late": {
+            "game_expectation": "high kill early, decisive <30min or late team wins",
+            "bet_signal": "duration under if early team ahead at 20min"
+        },
+        "mid_vs_mid": {
+            "game_expectation": "teamfight heavy around 20-30min",
+            "bet_signal": "kills over"
+        },
+        "late_vs_late": {
+            "game_expectation": "farming game, few fights until 35min+",
+            "bet_signal": "duration over, kills under"
+        }
+    }
+}

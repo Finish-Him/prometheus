@@ -1,0 +1,668 @@
+{
+  "league_id": 18867,
+  "name": "Unknown League 18867",
+  "short_name": "L18867",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 311,
+  "total_teams": 73,
+  "teams": [
+    {
+      "team_id": 8993427,
+      "name": "Air Defense",
+      "tag": "AD",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9545354,
+      "name": "Shinigami Gaming ",
+      "tag": "SG",
+      "wins": 3,
+      "losses": 1,
+      "games": 4,
+      "winrate": 75.0
+    },
+    {
+      "team_id": 8831040,
+      "name": "Ghost Sheep",
+      "tag": "GS",
+      "wins": 42,
+      "losses": 18,
+      "games": 60,
+      "winrate": 70.0
+    },
+    {
+      "team_id": 9088071,
+      "name": "Eye Gaming ",
+      "tag": "EYE",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9729268,
+      "name": "Teiko",
+      "tag": "Teiko",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9818938,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9729267,
+      "name": "Teiko",
+      "tag": "Teiko",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9743822,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9628678,
+      "name": "Teiko",
+      "tag": "Teiko",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9773691,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9850400,
+      "name": "Teiko",
+      "tag": "Teiko",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9471435,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9710911,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9622167,
+      "name": "Teiko",
+      "tag": "",
+      "wins": 55,
+      "losses": 39,
+      "games": 94,
+      "winrate": 58.5
+    },
+    {
+      "team_id": 9593609,
+      "name": "Nethercore",
+      "tag": "NC",
+      "wins": 34,
+      "losses": 25,
+      "games": 59,
+      "winrate": 57.6
+    },
+    {
+      "team_id": 9691942,
+      "name": "Nethercore",
+      "tag": "",
+      "wins": 34,
+      "losses": 25,
+      "games": 59,
+      "winrate": 57.6
+    },
+    {
+      "team_id": 9797883,
+      "name": "Nethercore",
+      "tag": "nt",
+      "wins": 34,
+      "losses": 25,
+      "games": 59,
+      "winrate": 57.6
+    },
+    {
+      "team_id": 9849465,
+      "name": "Nethercore",
+      "tag": "",
+      "wins": 34,
+      "losses": 25,
+      "games": 59,
+      "winrate": 57.6
+    },
+    {
+      "team_id": 9759368,
+      "name": "Nethercore",
+      "tag": "",
+      "wins": 34,
+      "losses": 25,
+      "games": 59,
+      "winrate": 57.6
+    },
+    {
+      "team_id": 9718665,
+      "name": "Eye Gaming",
+      "tag": "",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9710583,
+      "name": "Eye Gaming",
+      "tag": "",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9766927,
+      "name": "Eye Gaming",
+      "tag": "",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9834545,
+      "name": "Eye Gaming",
+      "tag": "Eye Gaming",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9482420,
+      "name": "Eye Gaming",
+      "tag": "Eye",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9564441,
+      "name": "Eye Gaming",
+      "tag": "Eye",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9767951,
+      "name": "Eye Gaming",
+      "tag": "Eye Gaming",
+      "wins": 25,
+      "losses": 19,
+      "games": 44,
+      "winrate": 56.8
+    },
+    {
+      "team_id": 9820361,
+      "name": "Team Yakuza",
+      "tag": "YKZ",
+      "wins": 34,
+      "losses": 26,
+      "games": 60,
+      "winrate": 56.7
+    },
+    {
+      "team_id": 9824497,
+      "name": "Team Yakuza",
+      "tag": "YKZ",
+      "wins": 34,
+      "losses": 26,
+      "games": 60,
+      "winrate": 56.7
+    },
+    {
+      "team_id": 9751816,
+      "name": "Team Yakuza",
+      "tag": "",
+      "wins": 34,
+      "losses": 26,
+      "games": 60,
+      "winrate": 56.7
+    },
+    {
+      "team_id": 9505264,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9948492,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9878408,
+      "name": "Elite Eclipse",
+      "tag": "",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9466524,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9476995,
+      "name": "Elite Eclipse",
+      "tag": "Elite",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9545569,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9896157,
+      "name": "Elite Eclipse",
+      "tag": "",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9563873,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9461271,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9397016,
+      "name": "Elite Eclipse",
+      "tag": "ElEc",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9563020,
+      "name": "Elite Eclipse",
+      "tag": "",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9729342,
+      "name": "Elite Eclipse",
+      "tag": "EE",
+      "wins": 17,
+      "losses": 18,
+      "games": 35,
+      "winrate": 48.6
+    },
+    {
+      "team_id": 9768472,
+      "name": "Shinigami Gaming",
+      "tag": "",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9724428,
+      "name": "Shinigami Gaming",
+      "tag": "",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9724426,
+      "name": "Shinigami Gaming",
+      "tag": "Shinigami ",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9886115,
+      "name": "Shinigami Gaming",
+      "tag": "",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9710058,
+      "name": "Shinigami Gaming",
+      "tag": "SG",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9684245,
+      "name": "Shinigami Gaming",
+      "tag": "Shin",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9773195,
+      "name": "Shinigami Gaming",
+      "tag": "",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9493513,
+      "name": "Shinigami Gaming",
+      "tag": "Shin",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9677506,
+      "name": "Shinigami Gaming",
+      "tag": "",
+      "wins": 16,
+      "losses": 18,
+      "games": 34,
+      "winrate": 47.1
+    },
+    {
+      "team_id": 9710806,
+      "name": "Air Defence",
+      "tag": "",
+      "wins": 12,
+      "losses": 14,
+      "games": 26,
+      "winrate": 46.2
+    },
+    {
+      "team_id": 9530716,
+      "name": "Air Defence",
+      "tag": "AD",
+      "wins": 12,
+      "losses": 14,
+      "games": 26,
+      "winrate": 46.2
+    },
+    {
+      "team_id": 9879307,
+      "name": "Air Defence",
+      "tag": "",
+      "wins": 12,
+      "losses": 14,
+      "games": 26,
+      "winrate": 46.2
+    },
+    {
+      "team_id": 9828921,
+      "name": "Air Defence",
+      "tag": "",
+      "wins": 12,
+      "losses": 14,
+      "games": 26,
+      "winrate": 46.2
+    },
+    {
+      "team_id": 9844598,
+      "name": "La Passion",
+      "tag": "",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9866145,
+      "name": "La Passion",
+      "tag": "",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9793368,
+      "name": "La Passion",
+      "tag": "",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9954517,
+      "name": "La Passion",
+      "tag": "",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9965502,
+      "name": "La Passion",
+      "tag": "LP",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9884944,
+      "name": "La Passion",
+      "tag": "",
+      "wins": 33,
+      "losses": 42,
+      "games": 75,
+      "winrate": 44.0
+    },
+    {
+      "team_id": 9580306,
+      "name": "Dominion",
+      "tag": "DOM",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9564888,
+      "name": "Dominion",
+      "tag": "Dom",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9947912,
+      "name": "Dominion",
+      "tag": "Dominion",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9729351,
+      "name": "Dominion",
+      "tag": "",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9622426,
+      "name": "Dominion",
+      "tag": "",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9839211,
+      "name": "Dominion",
+      "tag": "",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9964674,
+      "name": "Dominion",
+      "tag": "",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9730490,
+      "name": "Dominion",
+      "tag": "",
+      "wins": 25,
+      "losses": 33,
+      "games": 58,
+      "winrate": 43.1
+    },
+    {
+      "team_id": 9965265,
+      "name": "Еlite Eclipse",
+      "tag": "",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9973477,
+      "name": "PYPSIKI",
+      "tag": "PYP",
+      "wins": 10,
+      "losses": 47,
+      "games": 57,
+      "winrate": 17.5
+    },
+    {
+      "team_id": 9339581,
+      "name": "EYE Gaming",
+      "tag": "EYE Gaming",
+      "wins": 0,
+      "losses": 3,
+      "games": 3,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9843904,
+      "name": "Nethercore ",
+      "tag": "NC",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9964919,
+      "name": "TEIKO",
+      "tag": "TEIKO",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

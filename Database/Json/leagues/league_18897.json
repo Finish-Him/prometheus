@@ -1,0 +1,29 @@
+{
+  "league_id": 18897,
+  "name": "League 18897",
+  "short_name": "L18897",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 5,
+  "total_teams": 2,
+  "teams": [
+    {
+      "team_id": 9640842,
+      "name": "Team Tidebound",
+      "tag": "TT",
+      "wins": 3,
+      "losses": 2,
+      "games": 5,
+      "winrate": 60.0
+    },
+    {
+      "team_id": 9814008,
+      "name": "eSpoiled",
+      "tag": "eSpoiled",
+      "wins": 2,
+      "losses": 3,
+      "games": 5,
+      "winrate": 40.0
+    }
+  ]
+}

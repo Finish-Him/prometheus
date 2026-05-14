@@ -1,0 +1,56 @@
+{
+  "league_id": 17508,
+  "name": "League 17508",
+  "short_name": "L17508",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 7,
+  "total_teams": 5,
+  "teams": [
+    {
+      "team_id": 8878312,
+      "name": "For the tribe",
+      "tag": "",
+      "wins": 2,
+      "losses": 0,
+      "games": 2,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9499049,
+      "name": "HotLiquid.你喝饱了吗",
+      "tag": "",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9917393,
+      "name": "打不过23星还打不过你吗",
+      "tag": "",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 8608262,
+      "name": "老干杯",
+      "tag": "老干杯",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 1287765,
+      "name": "Tonight War",
+      "tag": "TW",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

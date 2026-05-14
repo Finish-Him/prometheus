@@ -1,0 +1,155 @@
+{
+  "league_id": 18920,
+  "name": "Unknown League 18920",
+  "short_name": "L18920",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 118,
+  "total_teams": 16,
+  "teams": [
+    {
+      "team_id": 7119388,
+      "name": "Team Spirit",
+      "tag": "TSpirit",
+      "wins": 14,
+      "losses": 7,
+      "games": 21,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 2163,
+      "name": "Team Liquid",
+      "tag": "Liquid",
+      "wins": 12,
+      "losses": 6,
+      "games": 18,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9338413,
+      "name": "MOUZ",
+      "tag": "MOUZ",
+      "wins": 19,
+      "losses": 10,
+      "games": 29,
+      "winrate": 65.5
+    },
+    {
+      "team_id": 9572001,
+      "name": "PARIVISION",
+      "tag": "PV",
+      "wins": 10,
+      "losses": 7,
+      "games": 17,
+      "winrate": 58.8
+    },
+    {
+      "team_id": 8255888,
+      "name": "BetBoom Team",
+      "tag": "BetBoom",
+      "wins": 12,
+      "losses": 11,
+      "games": 23,
+      "winrate": 52.2
+    },
+    {
+      "team_id": 2586976,
+      "name": "OG",
+      "tag": "OG",
+      "wins": 9,
+      "losses": 9,
+      "games": 18,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 8291895,
+      "name": "Tundra Esports",
+      "tag": "Tundra",
+      "wins": 8,
+      "losses": 8,
+      "games": 16,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 8261500,
+      "name": "Xtreme Gaming",
+      "tag": "XG",
+      "wins": 7,
+      "losses": 7,
+      "games": 14,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 36,
+      "name": "Natus Vincere",
+      "tag": "NAVI",
+      "wins": 5,
+      "losses": 6,
+      "games": 11,
+      "winrate": 45.5
+    },
+    {
+      "team_id": 9303484,
+      "name": "HEROIC",
+      "tag": "HEROIC",
+      "wins": 7,
+      "losses": 9,
+      "games": 16,
+      "winrate": 43.8
+    },
+    {
+      "team_id": 9964962,
+      "name": "GamerLegion",
+      "tag": "GL",
+      "wins": 5,
+      "losses": 7,
+      "games": 12,
+      "winrate": 41.7
+    },
+    {
+      "team_id": 9351740,
+      "name": "Yakult Brothers",
+      "tag": "YB",
+      "wins": 4,
+      "losses": 7,
+      "games": 11,
+      "winrate": 36.4
+    },
+    {
+      "team_id": 7554697,
+      "name": "Nigma Galaxy",
+      "tag": "NGX",
+      "wins": 2,
+      "losses": 6,
+      "games": 8,
+      "winrate": 25.0
+    },
+    {
+      "team_id": 9640842,
+      "name": "Team Tidebound",
+      "tag": "TT",
+      "wins": 2,
+      "losses": 6,
+      "games": 8,
+      "winrate": 25.0
+    },
+    {
+      "team_id": 9928403,
+      "name": "Team Cobra",
+      "tag": "Cobra",
+      "wins": 1,
+      "losses": 6,
+      "games": 7,
+      "winrate": 14.3
+    },
+    {
+      "team_id": 9885310,
+      "name": "Roar",
+      "tag": "",
+      "wins": 1,
+      "losses": 6,
+      "games": 7,
+      "winrate": 14.3
+    }
+  ]
+}

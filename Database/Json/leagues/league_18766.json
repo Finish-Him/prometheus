@@ -1,0 +1,74 @@
+{
+  "league_id": 18766,
+  "name": "League 18766",
+  "short_name": "L18766",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 10,
+  "total_teams": 7,
+  "teams": [
+    {
+      "team_id": 9799036,
+      "name": "TeamDk",
+      "tag": "TDk",
+      "wins": 4,
+      "losses": 0,
+      "games": 4,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9973591,
+      "name": "Angry Dogs",
+      "tag": "",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9886030,
+      "name": "Sentinel Esports",
+      "tag": "Sentinel",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9939082,
+      "name": "Low Profile",
+      "tag": "",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9948718,
+      "name": "Chandogs",
+      "tag": "",
+      "wins": 2,
+      "losses": 2,
+      "games": 4,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 8843862,
+      "name": "BIZ GAMING",
+      "tag": "BIZ",
+      "wins": 0,
+      "losses": 6,
+      "games": 6,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9710443,
+      "name": "AllStars",
+      "tag": "AllStars",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "league_id": 16110,
+  "name": "Unknown League 16110",
+  "short_name": "L16110",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 172,
+  "total_teams": 9,
+  "teams": [
+    {
+      "team_id": 9048057,
+      "name": "Vitality Warriors",
+      "tag": "VW",
+      "wins": 26,
+      "losses": 15,
+      "games": 41,
+      "winrate": 63.4
+    },
+    {
+      "team_id": 8879077,
+      "name": "Titan Strikers",
+      "tag": "Ts",
+      "wins": 23,
+      "losses": 15,
+      "games": 38,
+      "winrate": 60.5
+    },
+    {
+      "team_id": 9025669,
+      "name": "CrimsonSky",
+      "tag": "CS",
+      "wins": 28,
+      "losses": 20,
+      "games": 48,
+      "winrate": 58.3
+    },
+    {
+      "team_id": 8849837,
+      "name": "FALL VICTIMS",
+      "tag": "FV",
+      "wins": 25,
+      "losses": 23,
+      "games": 48,
+      "winrate": 52.1
+    },
+    {
+      "team_id": 8987220,
+      "name": "HolyTeam",
+      "tag": "HT",
+      "wins": 8,
+      "losses": 8,
+      "games": 16,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 8970060,
+      "name": "Moonwalkers",
+      "tag": "MW",
+      "wins": 18,
+      "losses": 21,
+      "games": 39,
+      "winrate": 46.2
+    },
+    {
+      "team_id": 8849850,
+      "name": "HELLBEAR HEROES",
+      "tag": "HH",
+      "wins": 13,
+      "losses": 17,
+      "games": 30,
+      "winrate": 43.3
+    },
+    {
+      "team_id": 8849990,
+      "name": "REAL ECLIPSE",
+      "tag": "RE",
+      "wins": 17,
+      "losses": 25,
+      "games": 42,
+      "winrate": 40.5
+    },
+    {
+      "team_id": 8957156,
+      "name": "Silent killer",
+      "tag": "sK",
+      "wins": 14,
+      "losses": 28,
+      "games": 42,
+      "winrate": 33.3
+    }
+  ]
+}

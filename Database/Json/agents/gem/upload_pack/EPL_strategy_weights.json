@@ -1,0 +1,168 @@
+{
+    "version": "2.0.0",
+    "last_update": "2025-12-08",
+    "update_count": 0,
+    "phase_weights": {
+        "draft": {
+            "counter_pick": 0.75,
+            "comfort_hero": 0.60,
+            "meta_hero": 0.70,
+            "last_pick": 0.65,
+            "signature_hero": 0.80
+        },
+        "early": [
+            0,
+            15
+        ]: {
+            "first_blood": 0.35,
+            "lane_dom": 0.55,
+            "early_tower": 0.45,
+            "rotation": 0.50,
+            "kill_score": 0.40
+        },
+        "mid": [
+            15,
+            30
+        ]: {
+            "first_rosh": 0.80,
+            "aegis": 0.85,
+            "teamfight_win": 0.70,
+            "pickoff": 0.45,
+            "objective": 0.75
+        },
+        "late": [
+            30,
+            50
+        ]: {
+            "carry_farm": 0.90,
+            "buyback": 0.95,
+            "mega_creeps": 0.92,
+            "hg_breach": 0.88,
+            "second_rosh": 0.75
+        }
+    },
+    "team_style_matchups": {
+        "early_aggro_vs_passive": 1.15,
+        "early_aggro_vs_balanced": 1.05,
+        "early_aggro_vs_late": 1.20,
+        "late_vs_early": 0.85,
+        "late_vs_balanced": 1.00,
+        "late_vs_late": 1.05
+    },
+    "market_weights": {
+        "winner": {
+            "recent_form": 0.70,
+            "h2h": 0.65,
+            "fatigue": 0.40,
+            "patch_adapt": 0.55,
+            "roster_stability": 0.60
+        },
+        "kills": {
+            "team_avg": 0.85,
+            "game_pace": 0.80,
+            "draft_aggro": 0.70,
+            "historical_kills": 0.60,
+            "hero_kill_potential": 0.65
+        },
+        "duration": {
+            "team_avg": 0.85,
+            "draft_timing": 0.90,
+            "style_clash": 0.75,
+            "stakes": 0.45,
+            "carry_scaling": 0.80
+        },
+        "handicap": {
+            "skill_diff": 0.80,
+            "snowball": 0.70,
+            "comeback": 0.65,
+            "early_lead_convert": 0.72
+        }
+    },
+    "situational": {
+        "tournament_finals": 1.10,
+        "elimination": 1.15,
+        "online_vs_lan": 0.95,
+        "patch_day1-3": 0.80,
+        "roster_change": 0.75,
+        "standin": 0.70,
+        "bo1": 0.85,
+        "bo3_game3": 1.08,
+        "bo5_game5": 1.15
+    },
+    "epl_specific": {
+        "t1_vs_t1": {
+            "variance": 0.15,
+            "edge_required": 5.0
+        },
+        "t1_vs_t2": {
+            "favorite_edge": 0.18,
+            "upset_rate": 0.22
+        },
+        "t2_vs_t2": {
+            "variance": 0.25,
+            "avoid_low_odds": true
+        },
+        "online_factor": 0.95,
+        "avg_kills": 52,
+        "avg_duration": 38
+    },
+    "win_triggers": {
+        "mega_creeps": {
+            "impact": 0.90,
+            "counter": [
+                "Medusa",
+                "PL",
+                "Arc Warden"
+            ],
+            "reduce": 0.15
+        },
+        "aegis": {
+            "impact": [
+                0.15,
+                0.25
+            ],
+            "duration_min": 5,
+            "kills_expected": [
+                8,
+                12
+            ]
+        },
+        "buyback_used": {
+            "swing": 0.25,
+            "next_fight_critical": true
+        },
+        "hg_breach": {
+            "clean": 0.70,
+            "trade": 0.50,
+            "failed": 0.30,
+            "counter_attack": true
+        },
+        "6tower_lead": {
+            "winrate": 0.80
+        },
+        "wipe": [
+            4,
+            5
+        ]: {
+            "early_result": "1-2 towers",
+            "mid_result": "rosh/rax",
+            "late_result": "gg potential"
+        }
+    },
+    "psychology_triggers": {
+        "comeback_signs": [
+            "2 consecutive fight wins",
+            "NW diff shrinking 5k+",
+            "buyback advantage shift"
+        ],
+        "tilt_signs": [
+            "unnecessary deaths",
+            "solo plays",
+            "rapid item selling",
+            "chat wheel spam"
+        ],
+        "action_comeback": "reduce leader confidence, duration OVER",
+        "action_tilt": "increase opponent confidence"
+    },
+    "_evolution_history": []
+}

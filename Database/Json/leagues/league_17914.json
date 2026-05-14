@@ -1,0 +1,344 @@
+{
+  "league_id": 17914,
+  "name": "League 17914",
+  "short_name": "L17914",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 59,
+  "total_teams": 37,
+  "teams": [
+    {
+      "team_id": 9261979,
+      "name": "YG",
+      "tag": "YG",
+      "wins": 5,
+      "losses": 0,
+      "games": 5,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9780786,
+      "name": "вешалка",
+      "tag": "Mops",
+      "wins": 2,
+      "losses": 0,
+      "games": 2,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9957298,
+      "name": "spelii vareniki",
+      "tag": "",
+      "wins": 2,
+      "losses": 0,
+      "games": 2,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 8711504,
+      "name": "Accbuyer'$",
+      "tag": "Accbuyer'$",
+      "wins": 2,
+      "losses": 0,
+      "games": 2,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 7438469,
+      "name": "ETERNAL TILT",
+      "tag": "Twitch",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9981219,
+      "name": "Violence Gangsters",
+      "tag": "Violence G",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9498357,
+      "name": " Vonuchki",
+      "tag": "52unki",
+      "wins": 1,
+      "losses": 0,
+      "games": 1,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9867013,
+      "name": "teamMopsi",
+      "tag": "mopsi",
+      "wins": 8,
+      "losses": 1,
+      "games": 9,
+      "winrate": 88.9
+    },
+    {
+      "team_id": 9938134,
+      "name": "Mellstroy Team",
+      "tag": "",
+      "wins": 3,
+      "losses": 1,
+      "games": 4,
+      "winrate": 75.0
+    },
+    {
+      "team_id": 9988133,
+      "name": "ПОДГУЗЛИКИ",
+      "tag": "guzlo",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9878091,
+      "name": "Tabakerka",
+      "tag": "tabakerka",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9940323,
+      "name": "back to prime",
+      "tag": "",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9505989,
+      "name": "Team Sigma",
+      "tag": "Sigma",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9677329,
+      "name": "PIVOVISION",
+      "tag": "PV",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9972606,
+      "name": "bipolyarnayashizofreniya",
+      "tag": "мариwка",
+      "wins": 2,
+      "losses": 1,
+      "games": 3,
+      "winrate": 66.7
+    },
+    {
+      "team_id": 9949725,
+      "name": "Cr7Mentality",
+      "tag": "Cr7M",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9887333,
+      "name": "BAKBENZIKA",
+      "tag": "BAKBENZIKA",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9628395,
+      "name": "anonim_alkogoliki",
+      "tag": "QWE",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9316996,
+      "name": "Лесная Братва",
+      "tag": "LB",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9878122,
+      "name": "winzero",
+      "tag": "WZ",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9894581,
+      "name": "Portland",
+      "tag": "PRT",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9783842,
+      "name": "BloodSpirit",
+      "tag": "BSpirit",
+      "wins": 1,
+      "losses": 2,
+      "games": 3,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9965086,
+      "name": "SMOKE AND FEED",
+      "tag": "SF",
+      "wins": 1,
+      "losses": 2,
+      "games": 3,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 9904454,
+      "name": "алах пидор",
+      "tag": "",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9482864,
+      "name": "typie kepki",
+      "tag": "typ",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9144947,
+      "name": "TEAM EGGS",
+      "tag": "EGG",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9972600,
+      "name": "RRefrain Team",
+      "tag": "RR",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9765675,
+      "name": "cvetdota",
+      "tag": "cvetd",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9621580,
+      "name": "Team PeeF",
+      "tag": "TPF",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9988277,
+      "name": "FURAcilin",
+      "tag": "FCILIN",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9988253,
+      "name": "67TEAM",
+      "tag": "",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9867092,
+      "name": "CYBERPSYCHOSIS",
+      "tag": "PSY",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9988232,
+      "name": "червяки",
+      "tag": "черви",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9947945,
+      "name": "NT tm",
+      "tag": "NT|tm",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9980758,
+      "name": "NothingTeamSqure",
+      "tag": "NTSQU",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9973207,
+      "name": "Young Leen",
+      "tag": "YL",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    },
+    {
+      "team_id": 9741467,
+      "name": "mentalpain",
+      "tag": "mentalpain",
+      "wins": 0,
+      "losses": 1,
+      "games": 1,
+      "winrate": 0.0
+    }
+  ]
+}

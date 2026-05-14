@@ -1,0 +1,83 @@
+{
+  "league_id": 18865,
+  "name": "League 18865",
+  "short_name": "L18865",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 30,
+  "total_teams": 8,
+  "teams": [
+    {
+      "team_id": 9828897,
+      "name": "REKONIX",
+      "tag": "RKX",
+      "wins": 11,
+      "losses": 0,
+      "games": 11,
+      "winrate": 100.0
+    },
+    {
+      "team_id": 9879852,
+      "name": "Ivory",
+      "tag": "Ivory",
+      "wins": 8,
+      "losses": 6,
+      "games": 14,
+      "winrate": 57.1
+    },
+    {
+      "team_id": 9722899,
+      "name": "ЯЧЁ123",
+      "tag": "ЯЧЁ",
+      "wins": 4,
+      "losses": 4,
+      "games": 8,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 7653080,
+      "name": "Yangon Galacticos",
+      "tag": "YG",
+      "wins": 4,
+      "losses": 6,
+      "games": 10,
+      "winrate": 40.0
+    },
+    {
+      "team_id": 8944230,
+      "name": "Yangon Galacticos",
+      "tag": "YG",
+      "wins": 4,
+      "losses": 6,
+      "games": 10,
+      "winrate": 40.0
+    },
+    {
+      "team_id": 9098294,
+      "name": "Carstensz Esports",
+      "tag": "Carstensz",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 7917893,
+      "name": "InterActive Philippines",
+      "tag": "IAP",
+      "wins": 1,
+      "losses": 8,
+      "games": 9,
+      "winrate": 11.1
+    },
+    {
+      "team_id": 9939386,
+      "name": "Komodo",
+      "tag": "KM",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    }
+  ]
+}

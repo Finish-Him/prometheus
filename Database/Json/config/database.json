@@ -1,0 +1,11 @@
+{
+  "collections": {
+    "heroes": "database/heroes/heroes_meta.json",
+    "players": "database/players/players.json",
+    "teams": "database/teams/teams.json",
+    "h2h": "database/h2h/matchups.json",
+    "matches": "database/matches/",
+    "constants": "database/constants/",
+    "leagues": "database/leagues/"
+  }
+}

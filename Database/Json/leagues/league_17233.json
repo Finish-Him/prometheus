@@ -1,0 +1,101 @@
+{
+  "league_id": 17233,
+  "name": "DPC 2025",
+  "short_name": "DPC",
+  "tier": 2,
+  "region": "Global",
+  "total_matches": 360,
+  "total_teams": 10,
+  "teams": [
+    {
+      "team_id": 8629005,
+      "name": "Flawless Goblins",
+      "tag": "Fg",
+      "wins": 44,
+      "losses": 34,
+      "games": 78,
+      "winrate": 56.4
+    },
+    {
+      "team_id": 9814269,
+      "name": "Riftwalkers",
+      "tag": "RW.",
+      "wins": 39,
+      "losses": 33,
+      "games": 72,
+      "winrate": 54.2
+    },
+    {
+      "team_id": 9768002,
+      "name": "Lunar Vibes",
+      "tag": "LV.",
+      "wins": 41,
+      "losses": 35,
+      "games": 76,
+      "winrate": 53.9
+    },
+    {
+      "team_id": 8629315,
+      "name": "Wiser Warriors",
+      "tag": "WW",
+      "wins": 39,
+      "losses": 35,
+      "games": 74,
+      "winrate": 52.7
+    },
+    {
+      "team_id": 9767998,
+      "name": "Nova Pulse",
+      "tag": "Np",
+      "wins": 34,
+      "losses": 31,
+      "games": 65,
+      "winrate": 52.3
+    },
+    {
+      "team_id": 2443375,
+      "name": "Foxy gaming",
+      "tag": "Foxy",
+      "wins": 40,
+      "losses": 37,
+      "games": 77,
+      "winrate": 51.9
+    },
+    {
+      "team_id": 9426115,
+      "name": "Dark Rebellion",
+      "tag": "DR",
+      "wins": 38,
+      "losses": 41,
+      "games": 79,
+      "winrate": 48.1
+    },
+    {
+      "team_id": 9878494,
+      "name": "LV United",
+      "tag": "",
+      "wins": 31,
+      "losses": 36,
+      "games": 67,
+      "winrate": 46.3
+    },
+    {
+      "team_id": 9768243,
+      "name": "Night Force",
+      "tag": "NF",
+      "wins": 31,
+      "losses": 39,
+      "games": 70,
+      "winrate": 44.3
+    },
+    {
+      "team_id": 9425656,
+      "name": "LSG",
+      "tag": "LSG",
+      "wins": 23,
+      "losses": 39,
+      "games": 62,
+      "winrate": 37.1
+    }
+  ]
+}

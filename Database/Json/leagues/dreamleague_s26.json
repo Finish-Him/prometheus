@@ -1,0 +1,280 @@
+{
+  "tournament": {
+    "id": "dreamleague_s26",
+    "name": "DreamLeague Season 26",
+    "organizer": "DreamHack / ESL",
+    "region": "International",
+    "tier": 1,
+    "prize_pool": "$1,000,000",
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-22",
+    "format": {
+      "group_stage": "Round Robin Bo2",
+      "playoffs": "Double Elimination Bo3/Bo5"
+    },
+    "stream": {
+      "twitch": "https://twitch.tv/dreamleague",
+      "youtube": "https://youtube.com/dreamleague"
+    }
+  },
+  "teams": [
+    {
+      "id": "team_falcons",
+      "name": "Team Falcons",
+      "tag": "FALCONS",
+      "region": "MENA",
+      "tier": "S",
+      "ranking": 1,
+      "win_rate": 78.5,
+      "recent_form": ["W", "W", "W", "L", "W"],
+      "roster": [
+        {"name": "ATF", "role": "Carry", "country": "Bosnia"},
+        {"name": "Yuragi", "role": "Mid", "country": "Finland"},
+        {"name": "Ammar", "role": "Offlane", "country": "Jordan"},
+        {"name": "Sneyking", "role": "Support", "country": "USA"},
+        {"name": "Cr1t-", "role": "Captain", "country": "Denmark"}
+      ]
+    },
+    {
+      "id": "xtreme_gaming",
+      "name": "Xtreme Gaming",
+      "tag": "XG",
+      "region": "China",
+      "tier": "S",
+      "ranking": 2,
+      "win_rate": 72.3,
+      "recent_form": ["W", "W", "L", "W", "W"],
+      "roster": [
+        {"name": "Paparazi", "role": "Carry", "country": "China"},
+        {"name": "Ori", "role": "Mid", "country": "China"},
+        {"name": "33", "role": "Offlane", "country": "Israel"},
+        {"name": "Pyw", "role": "Support", "country": "China"},
+        {"name": "dy", "role": "Captain", "country": "China"}
+      ]
+    },
+    {
+      "id": "team_spirit",
+      "name": "Team Spirit",
+      "tag": "SPIRIT",
+      "region": "CIS",
+      "tier": "S",
+      "ranking": 3,
+      "win_rate": 71.2,
+      "recent_form": ["W", "L", "W", "W", "W"],
+      "roster": [
+        {"name": "Yatoro", "role": "Carry", "country": "Ukraine"},
+        {"name": "Larl", "role": "Mid", "country": "Russia"},
+        {"name": "Collapse", "role": "Offlane", "country": "Russia"},
+        {"name": "Mira", "role": "Support", "country": "Russia"},
+        {"name": "Miposhka", "role": "Captain", "country": "Russia"}
+      ]
+    },
+    {
+      "id": "parivision",
+      "name": "Parivision",
+      "tag": "PVN",
+      "region": "CIS",
+      "tier": "A",
+      "ranking": 4,
+      "win_rate": 68.5,
+      "recent_form": ["W", "W", "W", "L", "L"],
+      "roster": []
+    },
+    {
+      "id": "tundra_esports",
+      "name": "Tundra Esports",
+      "tag": "TUNDRA",
+      "region": "EU",
+      "tier": "A",
+      "ranking": 5,
+      "win_rate": 65.8,
+      "recent_form": ["L", "W", "W", "W", "L"],
+      "roster": [
+        {"name": "Skiter", "role": "Carry", "country": "Bosnia"},
+        {"name": "Nine", "role": "Mid", "country": "Germany"},
+        {"name": "33", "role": "Offlane", "country": "Israel"},
+        {"name": "Saksa", "role": "Support", "country": "North Macedonia"},
+        {"name": "Whitemon", "role": "Captain", "country": "Indonesia"}
+      ]
+    },
+    {
+      "id": "betboom_team",
+      "name": "BetBoom Team",
+      "tag": "BB",
+      "region": "CIS",
+      "tier": "A",
+      "ranking": 6,
+      "win_rate": 64.2,
+      "recent_form": ["W", "L", "W", "L", "W"],
+      "roster": []
+    },
+    {
+      "id": "heroic",
+      "name": "Heroic",
+      "tag": "HEROIC",
+      "region": "EU",
+      "tier": "A",
+      "ranking": 7,
+      "win_rate": 62.5,
+      "recent_form": ["W", "W", "L", "W", "L"],
+      "roster": []
+    },
+    {
+      "id": "gaimin_gladiators",
+      "name": "Gaimin Gladiators",
+      "tag": "GG",
+      "region": "EU",
+      "tier": "A",
+      "ranking": 8,
+      "win_rate": 61.0,
+      "recent_form": ["L", "W", "W", "L", "W"],
+      "roster": []
+    },
+    {
+      "id": "team_liquid",
+      "name": "Team Liquid",
+      "tag": "LIQUID",
+      "region": "EU",
+      "tier": "B",
+      "ranking": 9,
+      "win_rate": 58.3,
+      "recent_form": ["L", "L", "W", "W", "L"],
+      "roster": []
+    },
+    {
+      "id": "nigma_galaxy",
+      "name": "Nigma Galaxy",
+      "tag": "NIGMA",
+      "region": "MENA",
+      "tier": "B",
+      "ranking": 10,
+      "win_rate": 55.0,
+      "recent_form": ["W", "L", "L", "W", "L"],
+      "roster": []
+    },
+    {
+      "id": "navi",
+      "name": "Natus Vincere",
+      "tag": "NAVI",
+      "region": "CIS",
+      "tier": "B",
+      "ranking": 11,
+      "win_rate": 52.5,
+      "recent_form": ["L", "W", "L", "L", "W"],
+      "roster": []
+    },
+    {
+      "id": "beastcoast",
+      "name": "beastcoast",
+      "tag": "BC",
+      "region": "SA",
+      "tier": "B",
+      "ranking": 12,
+      "win_rate": 50.0,
+      "recent_form": ["L", "L", "W", "L", "W"],
+      "roster": []
+    }
+  ],
+  "schedule": [
+    {
+      "id": "dl26_001",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "phase": "Group Stage - Day 1",
+      "format": "Bo3",
+      "team_a": "Team Falcons",
+      "team_b": "Xtreme Gaming",
+      "odds": {"team_a": 1.65, "team_b": 2.20},
+      "prediction": {
+        "winner": "Team Falcons",
+        "confidence": 64,
+        "edge": 6.8
+      }
+    },
+    {
+      "id": "dl26_002",
+      "date": "2025-12-10",
+      "time": "17:00",
+      "phase": "Group Stage - Day 1",
+      "format": "Bo3",
+      "team_a": "Tundra Esports",
+      "team_b": "Parivision",
+      "odds": {"team_a": 2.10, "team_b": 1.72},
+      "prediction": {
+        "winner": "Tundra Esports",
+        "confidence": 58,
+        "edge": 8.5
+      }
+    },
+    {
+      "id": "dl26_003",
+      "date": "2025-12-10",
+      "time": "20:00",
+      "phase": "Group Stage - Day 1",
+      "format": "Bo3",
+      "team_a": "Team Spirit",
+      "team_b": "BetBoom Team",
+      "odds": {"team_a": 1.55, "team_b": 2.45},
+      "prediction": {
+        "winner": "Team Spirit",
+        "confidence": 72,
+        "edge": 4.2
+      }
+    },
+    {
+      "id": "dl26_004",
+      "date": "2025-12-11",
+      "time": "14:00",
+      "phase": "Group Stage - Day 2",
+      "format": "Bo3",
+      "team_a": "Heroic",
+      "team_b": "Gaimin Gladiators",
+      "odds": {"team_a": 1.90, "team_b": 1.90},
+      "prediction": {
+        "winner": "Heroic",
+        "confidence": 52,
+        "edge": 2.1
+      }
+    },
+    {
+      "id": "dl26_005",
+      "date": "2025-12-11",
+      "time": "17:00",
+      "phase": "Group Stage - Day 2",
+      "format": "Bo3",
+      "team_a": "Team Liquid",
+      "team_b": "Natus Vincere",
+      "odds": {"team_a": 1.85, "team_b": 1.95},
+      "prediction": {
+        "winner": "Team Liquid",
+        "confidence": 55,
+        "edge": 3.8
+      }
+    },
+    {
+      "id": "dl26_006",
+      "date": "2025-12-11",
+      "time": "20:00",
+      "phase": "Group Stage - Day 2",
+      "format": "Bo3",
+      "team_a": "Nigma Galaxy",
+      "team_b": "beastcoast",
+      "odds": {"team_a": 1.45, "team_b": 2.75},
+      "prediction": {
+        "winner": "Nigma Galaxy",
+        "confidence": 68,
+        "edge": 5.5
+      }
+    }
+  ],
+  "head_to_head": {
+    "falcons_vs_xg": {"matches": 8, "falcons_wins": 5, "xg_wins": 3},
+    "spirit_vs_betboom": {"matches": 6, "spirit_wins": 4, "betboom_wins": 2},
+    "tundra_vs_parivision": {"matches": 4, "tundra_wins": 2, "parivision_wins": 2}
+  },
+  "standings": {
+    "group_a": [],
+    "group_b": [],
+    "updated_at": null
+  }
+}

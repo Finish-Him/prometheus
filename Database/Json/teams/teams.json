@@ -1,0 +1,510 @@
+{
+  "$schema": "teams_schema_v1",
+  "metadata": {
+    "source": "European Pro League (Prometheus v4)",
+    "last_updated": "2025-12-07",
+    "total_teams": 37,
+    "note": "Dados migrados do Prometheus v4 - Dezembro 2025"
+  },
+  "teams": [
+    {
+      "team_name": "NAVI Junior",
+      "tag": "NAVIjr",
+      "stats": {
+        "matches": 18,
+        "winrate": 94.44,
+        "kd_ratio": 2.03
+      },
+      "tier": "S",
+      "analysis": "Domínio absoluto. Academia com estrutura profissional.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "Jigglin",
+      "tag": "JIG",
+      "stats": {
+        "matches": 11,
+        "winrate": 90.91,
+        "kd_ratio": 1.83
+      },
+      "tier": "S",
+      "analysis": "Performance excepcional recente. Potencial azarão.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "Runa Team",
+      "tag": "RUNA",
+      "stats": {
+        "matches": 10,
+        "winrate": 80.0,
+        "kd_ratio": 1.41
+      },
+      "tier": "S",
+      "analysis": "Ascensão meteórica. Observar consistência.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "Kalmychata",
+      "tag": "KALM",
+      "stats": {
+        "matches": 5,
+        "winrate": 80.0,
+        "kd_ratio": 1.31
+      },
+      "tier": "S",
+      "analysis": "Amostra pequena, mas promissora.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "MOUZ",
+      "tag": "MOUZ",
+      "stats": {
+        "matches": 64,
+        "winrate": 70.31,
+        "kd_ratio": 1.35
+      },
+      "tier": "A",
+      "analysis": "Favorita histórica. Maior KDA médio (4.17).",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "TEAM NEXT LEVEL",
+      "tag": "TNL",
+      "stats": {
+        "matches": 7,
+        "winrate": 71.43,
+        "kd_ratio": 1.43
+      },
+      "tier": "A",
+      "analysis": "Nova força. Agressivos e eficientes.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "Yellow Submarine",
+      "tag": "YeS",
+      "stats": {
+        "matches": 8,
+        "winrate": 75.0,
+        "kd_ratio": 1.45
+      },
+      "tier": "A",
+      "analysis": "Veteranos talentosos. Potencial de surpresa.",
+      "style": "aggressive"
+    },
+    {
+      "team_name": "Bikini Bottom",
+      "tag": "BB",
+      "stats": {
+        "matches": 19,
+        "winrate": 73.68,
+        "kd_ratio": 1.05
+      },
+      "tier": "A",
+      "analysis": "Altas kills (34.5 avg). Estilo agressivo.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "ASAKURA",
+      "tag": "ASAK",
+      "stats": {
+        "matches": 48,
+        "winrate": 66.67,
+        "kd_ratio": 1.25
+      },
+      "tier": "A",
+      "analysis": "Consistência sólida. Trampolim para Tier 1.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "ITB.Shuffle",
+      "tag": "ITB",
+      "stats": {
+        "matches": 12,
+        "winrate": 66.67,
+        "kd_ratio": 1.12
+      },
+      "tier": "A",
+      "analysis": "Roster experiente. Boas odds.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "One Move",
+      "tag": "1M",
+      "stats": {
+        "matches": 22,
+        "winrate": 63.64,
+        "kd_ratio": 1.19
+      },
+      "tier": "B",
+      "analysis": "Performance estável. Bom em playoffs.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "9Pandas",
+      "tag": "9P",
+      "stats": {
+        "matches": 34,
+        "winrate": 58.82,
+        "kd_ratio": 1.15
+      },
+      "tier": "B",
+      "analysis": "Equipe estabelecida. Transição de roster.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Zero Tenacity",
+      "tag": "Z10",
+      "stats": {
+        "matches": 129,
+        "winrate": 55.81,
+        "kd_ratio": 1.05
+      },
+      "tier": "B",
+      "analysis": "O 'Gatekeeper'. Referência da liga.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "4Pirates",
+      "tag": "4P",
+      "stats": {
+        "matches": 74,
+        "winrate": 54.05,
+        "kd_ratio": 1.04
+      },
+      "tier": "B",
+      "analysis": "Vencedores S25. Uso de meta counters.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Apple City Gang",
+      "tag": "ACG",
+      "stats": {
+        "matches": 37,
+        "winrate": 54.05,
+        "kd_ratio": 1.11
+      },
+      "tier": "B",
+      "analysis": "Roster CIS talentoso. Inconsistentes.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "HYDRA",
+      "tag": "HYD",
+      "stats": {
+        "matches": 82,
+        "winrate": 52.44,
+        "kd_ratio": 1.02
+      },
+      "tier": "B",
+      "analysis": "Grande amostra. Medianos estáveis.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Dragon Esports Club",
+      "tag": "DRG",
+      "stats": {
+        "matches": 40,
+        "winrate": 52.5,
+        "kd_ratio": 0.95
+      },
+      "tier": "B",
+      "analysis": "Potencial inexplorado.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Passion UA",
+      "tag": "PUA",
+      "stats": {
+        "matches": 87,
+        "winrate": 51.72,
+        "kd_ratio": 1.12
+      },
+      "tier": "C",
+      "analysis": "Grandes grupos, perdem playoffs.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Turkiye",
+      "tag": "TUR",
+      "stats": {
+        "matches": 18,
+        "winrate": 50.0,
+        "kd_ratio": 1.06
+      },
+      "tier": "C",
+      "analysis": "Equipe nacional. Limitações táticas.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Team Türkiye",
+      "tag": "TTÜR",
+      "stats": {
+        "matches": 17,
+        "winrate": 47.06,
+        "kd_ratio": 0.85
+      },
+      "tier": "C",
+      "analysis": "Similar à Turkiye. K/D negativo.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Level UP esports",
+      "tag": "LVL",
+      "stats": {
+        "matches": 14,
+        "winrate": 42.86,
+        "kd_ratio": 0.83
+      },
+      "tier": "C",
+      "analysis": "Em desenvolvimento.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "END GAME",
+      "tag": "EG",
+      "stats": {
+        "matches": 19,
+        "winrate": 42.11,
+        "kd_ratio": 0.78
+      },
+      "tier": "C",
+      "analysis": "Dificuldades estruturais.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Team Lynx",
+      "tag": "LYX",
+      "stats": {
+        "matches": 55,
+        "winrate": 41.82,
+        "kd_ratio": 0.85
+      },
+      "tier": "C",
+      "analysis": "Consistentemente fracos. Evitar.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "LFG",
+      "tag": "LFG",
+      "stats": {
+        "matches": 12,
+        "winrate": 41.67,
+        "kd_ratio": 1.1
+      },
+      "tier": "D",
+      "analysis": "K/D ok mas WR baixo.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "Работяги",
+      "tag": "RAB",
+      "stats": {
+        "matches": 17,
+        "winrate": 41.18,
+        "kd_ratio": 0.89
+      },
+      "tier": "D",
+      "analysis": "Performance irregular.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Winter Bear",
+      "tag": "WB",
+      "stats": {
+        "matches": 13,
+        "winrate": 38.46,
+        "kd_ratio": 0.85
+      },
+      "tier": "D",
+      "analysis": "Roster instável.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Nemiga Gaming",
+      "tag": "NMG",
+      "stats": {
+        "matches": 47,
+        "winrate": 31.91,
+        "kd_ratio": 0.81
+      },
+      "tier": "D",
+      "analysis": "Organização forte, roster fraco.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "YNGBLD",
+      "tag": "YNG",
+      "stats": {
+        "matches": 13,
+        "winrate": 30.77,
+        "kd_ratio": 0.69
+      },
+      "tier": "D",
+      "analysis": "Jovens inexperientes.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Eternal Academy",
+      "tag": "EA",
+      "stats": {
+        "matches": 10,
+        "winrate": 30.0,
+        "kd_ratio": 0.81
+      },
+      "tier": "D",
+      "analysis": "Academia em formação.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Team Hryvnia",
+      "tag": "HRYVN",
+      "stats": {
+        "matches": 11,
+        "winrate": 27.27,
+        "kd_ratio": 0.75
+      },
+      "tier": "D",
+      "analysis": "Evitar completamente.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "TT Team",
+      "tag": "TT",
+      "stats": {
+        "matches": 25,
+        "winrate": 24.0,
+        "kd_ratio": 0.64
+      },
+      "tier": "D",
+      "analysis": "Pior K/D da liga.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Quantum",
+      "tag": "QTM",
+      "stats": {
+        "matches": 39,
+        "winrate": 20.51,
+        "kd_ratio": 0.7
+      },
+      "tier": "D",
+      "analysis": "Resultados consistentemente ruins.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "DMS",
+      "tag": "DMS",
+      "stats": {
+        "matches": 10,
+        "winrate": 20.0,
+        "kd_ratio": 0.76
+      },
+      "tier": "D",
+      "analysis": "Evitar.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "eSpoiled",
+      "tag": "eSP",
+      "stats": {
+        "matches": 5,
+        "winrate": 20.0,
+        "kd_ratio": 1.09
+      },
+      "tier": "D",
+      "analysis": "Amostra pequena, tendência negativa.",
+      "style": "balanced"
+    },
+    {
+      "team_name": "AIM POSSIBLE",
+      "tag": "AIM",
+      "stats": {
+        "matches": 7,
+        "winrate": 14.29,
+        "kd_ratio": 0.54
+      },
+      "tier": "D",
+      "analysis": "Pior performance atual.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Hokori",
+      "tag": "HOK",
+      "stats": {
+        "matches": 9,
+        "winrate": 11.11,
+        "kd_ratio": 0.73
+      },
+      "tier": "D",
+      "analysis": "Equipe SA fora de região.",
+      "style": "defensive"
+    },
+    {
+      "team_name": "Brothermen",
+      "tag": "BRO",
+      "stats": {
+        "matches": 10,
+        "winrate": 0.0,
+        "kd_ratio": 0.61
+      },
+      "tier": "D",
+      "analysis": "0 vitórias. Não apostar.",
+      "style": "defensive"
+    }
+  ],
+  "tier_distribution": {
+    "S": [
+      "NAVI Junior",
+      "Jigglin",
+      "Runa Team",
+      "Kalmychata"
+    ],
+    "A": [
+      "MOUZ",
+      "TEAM NEXT LEVEL",
+      "Yellow Submarine",
+      "Bikini Bottom",
+      "ASAKURA",
+      "ITB.Shuffle"
+    ],
+    "B": [
+      "One Move",
+      "9Pandas",
+      "Zero Tenacity",
+      "4Pirates",
+      "Apple City Gang",
+      "HYDRA",
+      "Dragon Esports Club"
+    ],
+    "C": [
+      "Passion UA",
+      "Turkiye",
+      "Team Türkiye",
+      "Level UP esports",
+      "END GAME",
+      "Team Lynx"
+    ],
+    "D": [
+      "LFG",
+      "Работяги",
+      "Winter Bear",
+      "Nemiga Gaming",
+      "YNGBLD",
+      "Eternal Academy",
+      "Team Hryvnia",
+      "TT Team",
+      "Quantum",
+      "DMS",
+      "eSpoiled",
+      "AIM POSSIBLE",
+      "Hokori",
+      "Brothermen"
+    ]
+  },
+  "insights": {
+    "top_team": "NAVI Junior",
+    "gatekeeper": "Zero Tenacity",
+    "most_matches": "Zero Tenacity (129)",
+    "best_kd": "NAVI Junior (2.03)"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "league_id": 17662,
+  "name": "League 17662",
+  "short_name": "L17662",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 36,
+  "total_teams": 8,
+  "teams": [
+    {
+      "team_id": 9957138,
+      "name": "Stariy_Bog",
+      "tag": "Stariy_Bog",
+      "wins": 12,
+      "losses": 1,
+      "games": 13,
+      "winrate": 92.3
+    },
+    {
+      "team_id": 9964701,
+      "name": "rostik",
+      "tag": "ROSTIK",
+      "wins": 7,
+      "losses": 5,
+      "games": 12,
+      "winrate": 58.3
+    },
+    {
+      "team_id": 9956910,
+      "name": "Team Aloha",
+      "tag": "bomji",
+      "wins": 4,
+      "losses": 4,
+      "games": 8,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9956929,
+      "name": "zxcursed crew",
+      "tag": "cvrsxd",
+      "wins": 5,
+      "losses": 6,
+      "games": 11,
+      "winrate": 45.5
+    },
+    {
+      "team_id": 9956943,
+      "name": "Team GrOOm",
+      "tag": "GM",
+      "wins": 5,
+      "losses": 6,
+      "games": 11,
+      "winrate": 45.5
+    },
+    {
+      "team_id": 9530295,
+      "name": "Team LenS",
+      "tag": "LenS",
+      "wins": 2,
+      "losses": 3,
+      "games": 5,
+      "winrate": 40.0
+    },
+    {
+      "team_id": 9957005,
+      "name": "Team Solo",
+      "tag": "TS",
+      "wins": 1,
+      "losses": 6,
+      "games": 7,
+      "winrate": 14.3
+    },
+    {
+      "team_id": 9957175,
+      "name": "team mary_day",
+      "tag": "mary_day",
+      "wins": 0,
+      "losses": 5,
+      "games": 5,
+      "winrate": 0.0
+    }
+  ]
+}

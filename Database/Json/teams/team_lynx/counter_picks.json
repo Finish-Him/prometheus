@@ -1,0 +1,596 @@
+[
+  {
+    "hero": "Timbersaw",
+    "opponent_picks": 4,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 21,
+    "opponent_ban_winrate": 52.38,
+    "combined": 25,
+    "combined_opponent_winrate": 52.0
+  },
+  {
+    "hero": "Pangolier",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 40.0,
+    "opponent_bans": 17,
+    "opponent_ban_winrate": 58.82,
+    "combined": 22,
+    "combined_opponent_winrate": 54.55
+  },
+  {
+    "hero": "Ursa",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 40.0,
+    "opponent_bans": 15,
+    "opponent_ban_winrate": 60.0,
+    "combined": 20,
+    "combined_opponent_winrate": 55.0
+  },
+  {
+    "hero": "Marci",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 16,
+    "opponent_ban_winrate": 56.25,
+    "combined": 18,
+    "combined_opponent_winrate": 55.56
+  },
+  {
+    "hero": "Slardar",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 66.67,
+    "opponent_bans": 14,
+    "opponent_ban_winrate": 50.0,
+    "combined": 17,
+    "combined_opponent_winrate": 52.94
+  },
+  {
+    "hero": "Jakiro",
+    "opponent_picks": 9,
+    "opponent_pick_winrate": 55.56,
+    "opponent_bans": 8,
+    "opponent_ban_winrate": 75.0,
+    "combined": 17,
+    "combined_opponent_winrate": 64.71
+  },
+  {
+    "hero": "Batrider",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 15,
+    "opponent_ban_winrate": 60.0,
+    "combined": 16,
+    "combined_opponent_winrate": 62.5
+  },
+  {
+    "hero": "Puck",
+    "opponent_picks": 6,
+    "opponent_pick_winrate": 16.67,
+    "opponent_bans": 10,
+    "opponent_ban_winrate": 70.0,
+    "combined": 16,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Storm Spirit",
+    "opponent_picks": 8,
+    "opponent_pick_winrate": 62.5,
+    "opponent_bans": 6,
+    "opponent_ban_winrate": 66.67,
+    "combined": 14,
+    "combined_opponent_winrate": 64.29
+  },
+  {
+    "hero": "Shadow Demon",
+    "opponent_picks": 9,
+    "opponent_pick_winrate": 33.33,
+    "opponent_bans": 5,
+    "opponent_ban_winrate": 80.0,
+    "combined": 14,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Gyrocopter",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 40.0,
+    "opponent_bans": 7,
+    "opponent_ban_winrate": 57.14,
+    "combined": 12,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Disruptor",
+    "opponent_picks": 10,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 50.0,
+    "combined": 12,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Centaur Warrunner",
+    "opponent_picks": 4,
+    "opponent_pick_winrate": 25.0,
+    "opponent_bans": 7,
+    "opponent_ban_winrate": 71.43,
+    "combined": 11,
+    "combined_opponent_winrate": 54.55
+  },
+  {
+    "hero": "Abaddon",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 66.67,
+    "opponent_bans": 8,
+    "opponent_ban_winrate": 50.0,
+    "combined": 11,
+    "combined_opponent_winrate": 54.55
+  },
+  {
+    "hero": "Queen of Pain",
+    "opponent_picks": 6,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 5,
+    "opponent_ban_winrate": 80.0,
+    "combined": 11,
+    "combined_opponent_winrate": 63.64
+  },
+  {
+    "hero": "Dragon Knight",
+    "opponent_picks": 4,
+    "opponent_pick_winrate": 25.0,
+    "opponent_bans": 6,
+    "opponent_ban_winrate": 66.67,
+    "combined": 10,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Enchantress",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 8,
+    "opponent_ban_winrate": 50.0,
+    "combined": 9,
+    "combined_opponent_winrate": 55.56
+  },
+  {
+    "hero": "Primal Beast",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 80.0,
+    "opponent_bans": 4,
+    "opponent_ban_winrate": 50.0,
+    "combined": 9,
+    "combined_opponent_winrate": 66.67
+  },
+  {
+    "hero": "Tusk",
+    "opponent_picks": 8,
+    "opponent_pick_winrate": 62.5,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 9,
+    "combined_opponent_winrate": 55.56
+  },
+  {
+    "hero": "Terrorblade",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 6,
+    "opponent_ban_winrate": 66.67,
+    "combined": 9,
+    "combined_opponent_winrate": 77.78
+  },
+  {
+    "hero": "Huskar",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 8,
+    "opponent_ban_winrate": 12.5,
+    "combined": 9,
+    "combined_opponent_winrate": 22.22
+  },
+  {
+    "hero": "Troll Warlord",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 33.33,
+    "opponent_bans": 6,
+    "opponent_ban_winrate": 50.0,
+    "combined": 9,
+    "combined_opponent_winrate": 44.44
+  },
+  {
+    "hero": "Grimstroke",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 6,
+    "opponent_ban_winrate": 66.67,
+    "combined": 8,
+    "combined_opponent_winrate": 75.0
+  },
+  {
+    "hero": "Juggernaut",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 5,
+    "opponent_ban_winrate": 60.0,
+    "combined": 8,
+    "combined_opponent_winrate": 75.0
+  },
+  {
+    "hero": "Ember Spirit",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 5,
+    "opponent_ban_winrate": 60.0,
+    "combined": 7,
+    "combined_opponent_winrate": 57.14
+  },
+  {
+    "hero": "Sand King",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 60.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 6,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Hoodwink",
+    "opponent_picks": 4,
+    "opponent_pick_winrate": 25.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 5,
+    "combined_opponent_winrate": 20.0
+  },
+  {
+    "hero": "Dazzle",
+    "opponent_picks": 5,
+    "opponent_pick_winrate": 60.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 5,
+    "combined_opponent_winrate": 60.0
+  },
+  {
+    "hero": "Chen",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 0.0,
+    "combined": 5,
+    "combined_opponent_winrate": 60.0
+  },
+  {
+    "hero": "Ringmaster",
+    "opponent_picks": 4,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 4,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Axe",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 100.0,
+    "combined": 4,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Dawnbreaker",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 66.67,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 100.0,
+    "combined": 4,
+    "combined_opponent_winrate": 75.0
+  },
+  {
+    "hero": "Morphling",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 66.67,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 4,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Mars",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 100.0,
+    "combined": 4,
+    "combined_opponent_winrate": 75.0
+  },
+  {
+    "hero": "Night Stalker",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 3,
+    "opponent_ban_winrate": 0.0,
+    "combined": 4,
+    "combined_opponent_winrate": 0.0
+  },
+  {
+    "hero": "Bristleback",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 50.0,
+    "combined": 4,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Medusa",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 0.0,
+    "combined": 4,
+    "combined_opponent_winrate": 25.0
+  },
+  {
+    "hero": "Sven",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 33.33,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 4,
+    "combined_opponent_winrate": 25.0
+  },
+  {
+    "hero": "Skywrath Mage",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 66.67,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 3,
+    "combined_opponent_winrate": 66.67
+  },
+  {
+    "hero": "Underlord",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 100.0,
+    "combined": 3,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Nature's Prophet",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 100.0,
+    "combined": 3,
+    "combined_opponent_winrate": 66.67
+  },
+  {
+    "hero": "Leshrac",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 0.0,
+    "combined": 3,
+    "combined_opponent_winrate": 33.33
+  },
+  {
+    "hero": "Doom",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 100.0,
+    "combined": 3,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Tidehunter",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 50.0,
+    "combined": 3,
+    "combined_opponent_winrate": 66.67
+  },
+  {
+    "hero": "Monkey King",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 50.0,
+    "combined": 3,
+    "combined_opponent_winrate": 66.67
+  },
+  {
+    "hero": "Spirit Breaker",
+    "opponent_picks": 3,
+    "opponent_pick_winrate": 33.33,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 3,
+    "combined_opponent_winrate": 33.33
+  },
+  {
+    "hero": "Anti-Mage",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 2,
+    "opponent_ban_winrate": 50.0,
+    "combined": 3,
+    "combined_opponent_winrate": 33.33
+  },
+  {
+    "hero": "Nyx Assassin",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Bounty Hunter",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 100.0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Io",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Ancient Apparition",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 100.0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Snapfire",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 1,
+    "opponent_ban_winrate": 0.0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Mirana",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Dark Willow",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Viper",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Ogre Magi",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 2,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Undying",
+    "opponent_picks": 2,
+    "opponent_pick_winrate": 50.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 2,
+    "combined_opponent_winrate": 50.0
+  },
+  {
+    "hero": "Warlock",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 0.0
+  },
+  {
+    "hero": "Shadow Fiend",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Dark Seer",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 0.0
+  },
+  {
+    "hero": "Naga Siren",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 0.0
+  },
+  {
+    "hero": "Broodmother",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Lion",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Meepo",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Weaver",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 100.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 100.0
+  },
+  {
+    "hero": "Faceless Void",
+    "opponent_picks": 1,
+    "opponent_pick_winrate": 0.0,
+    "opponent_bans": 0,
+    "opponent_ban_winrate": 0,
+    "combined": 1,
+    "combined_opponent_winrate": 0.0
+  }
+]

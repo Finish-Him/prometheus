@@ -1,0 +1,38 @@
+{
+  "version": "5.6.0",
+  "project_name": "Prometheus",
+  "description": "Dota 2 Analytics Platform - European Pro League",
+  "database": {
+    "format": "JSON",
+    "path": "database/",
+    "index": "database/DATABASE_INDEX.json"
+  },
+  "api": {
+    "opendota_base": "https://api.opendota.com/api",
+    "steam_base": "https://api.steampowered.com",
+    "dotabuff_base": "https://www.dotabuff.com",
+    "rate_limit": 60
+  },
+  "analysis": {
+    "min_matches": 5,
+    "default_league": "EPL"
+  },
+  "betting": {
+    "default_markets": [
+      "winner",
+      "total_kills",
+      "duration",
+      "kill_handicap"
+    ],
+    "min_edge_threshold": 3.0,
+    "kelly_fraction": 0.25,
+    "max_stake_percent": 10.0
+  },
+  "paths": {
+    "database": "database/",
+    "docs": "docs/",
+    "scripts": "scripts/",
+    "archive": "archive/",
+    "dotabuff_data": "Base-de-Dados/Dotabuff/"
+  }
+}

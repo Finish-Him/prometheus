@@ -1,0 +1,83 @@
+{
+  "league_id": 18660,
+  "name": "League 18660",
+  "short_name": "L18660",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 33,
+  "total_teams": 8,
+  "teams": [
+    {
+      "team_id": 9928746,
+      "name": "Most Wanted",
+      "tag": "MW",
+      "wins": 11,
+      "losses": 4,
+      "games": 15,
+      "winrate": 73.3
+    },
+    {
+      "team_id": 9600141,
+      "name": "Zero Tenacity",
+      "tag": "Z10",
+      "wins": 6,
+      "losses": 4,
+      "games": 10,
+      "winrate": 60.0
+    },
+    {
+      "team_id": 9895247,
+      "name": "Kalmychata",
+      "tag": "Kalm",
+      "wins": 3,
+      "losses": 2,
+      "games": 5,
+      "winrate": 60.0
+    },
+    {
+      "team_id": 9758040,
+      "name": "Runa Team",
+      "tag": "RT",
+      "wins": 5,
+      "losses": 6,
+      "games": 11,
+      "winrate": 45.5
+    },
+    {
+      "team_id": 9303383,
+      "name": "L1GA TEAM",
+      "tag": "L1",
+      "wins": 5,
+      "losses": 7,
+      "games": 12,
+      "winrate": 41.7
+    },
+    {
+      "team_id": 9586122,
+      "name": "4Pirates",
+      "tag": "4Pirates",
+      "wins": 2,
+      "losses": 4,
+      "games": 6,
+      "winrate": 33.3
+    },
+    {
+      "team_id": 2576071,
+      "name": "Yellow Submarine",
+      "tag": "YeS",
+      "wins": 1,
+      "losses": 4,
+      "games": 5,
+      "winrate": 20.0
+    },
+    {
+      "team_id": 9256405,
+      "name": "Level UP esports",
+      "tag": "LevelUP",
+      "wins": 0,
+      "losses": 2,
+      "games": 2,
+      "winrate": 0.0
+    }
+  ]
+}

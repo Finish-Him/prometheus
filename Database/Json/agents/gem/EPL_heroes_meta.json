@@ -1,0 +1,667 @@
+{
+    "version": "2.0.0",
+    "patch": "7.37",
+    "source": "EPL 40 Seasons",
+    "matches": 7247,
+    "last_update": "2025-12-08",
+    "tier_list": {
+        "S": {
+            "must_pick_ban": [
+                {
+                    "hero": "Doom",
+                    "picks": 1003,
+                    "bans": 3177,
+                    "presence": 57.7,
+                    "wr": 50.5,
+                    "fear_factor": "Max - silences any strategy"
+                },
+                {
+                    "hero": "Puck",
+                    "picks": 1076,
+                    "bans": 2794,
+                    "presence": 53.4,
+                    "wr": 53.1,
+                    "fear_factor": "Mid domination"
+                },
+                {
+                    "hero": "Dragon Knight",
+                    "picks": 1368,
+                    "bans": 2748,
+                    "presence": 56.8,
+                    "wr": 49.5,
+                    "fear_factor": "Flex pick safety"
+                },
+                {
+                    "hero": "Morphling",
+                    "picks": 1162,
+                    "bans": 2390,
+                    "presence": 49.0,
+                    "wr": 50.2,
+                    "fear_factor": "Infinite scaling"
+                },
+                {
+                    "hero": "Timbersaw",
+                    "picks": 963,
+                    "bans": 2587,
+                    "presence": 49.0,
+                    "wr": 51.5,
+                    "fear_factor": "STR lineup destroyer"
+                },
+                {
+                    "hero": "Shadow Demon",
+                    "picks": 1043,
+                    "bans": 2207,
+                    "presence": 44.8,
+                    "wr": 52.6,
+                    "fear_factor": "Combo enabler"
+                },
+                {
+                    "hero": "Templar Assassin",
+                    "picks": 754,
+                    "bans": 2104,
+                    "presence": 39.4,
+                    "wr": 55.2,
+                    "fear_factor": "Mid snowball"
+                },
+                {
+                    "hero": "Chen",
+                    "picks": 511,
+                    "bans": 2005,
+                    "presence": 34.7,
+                    "wr": 64.2,
+                    "fear_factor": "Devastating when through"
+                }
+            ]
+        },
+        "A": {
+            "high_priority": [
+                {
+                    "hero": "Tiny",
+                    "picks": 1888,
+                    "bans": 2003,
+                    "wr": 49.5,
+                    "notes": "Most played in EPL"
+                },
+                {
+                    "hero": "Pangolier",
+                    "picks": 1537,
+                    "bans": 2007,
+                    "wr": 50.4,
+                    "notes": "Extremely versatile"
+                },
+                {
+                    "hero": "Batrider",
+                    "picks": 1496,
+                    "bans": 2012,
+                    "wr": 52.4,
+                    "notes": "Premium initiation"
+                },
+                {
+                    "hero": "Ember Spirit",
+                    "picks": 1221,
+                    "bans": 1724,
+                    "wr": 52.0,
+                    "notes": "Slippery mid/carry"
+                },
+                {
+                    "hero": "Beastmaster",
+                    "picks": 973,
+                    "bans": 1952,
+                    "wr": 50.4,
+                    "notes": "Vision and push"
+                },
+                {
+                    "hero": "Monkey King",
+                    "picks": 794,
+                    "bans": 1977,
+                    "wr": 55.8,
+                    "notes": "Devastating carry"
+                },
+                {
+                    "hero": "Alchemist",
+                    "picks": 598,
+                    "bans": 1907,
+                    "wr": 60.0,
+                    "notes": "When picked, wins!"
+                },
+                {
+                    "hero": "Invoker",
+                    "picks": 812,
+                    "bans": 1750,
+                    "wr": 50.4,
+                    "notes": "High skill flex mid"
+                },
+                {
+                    "hero": "Nature's Prophet",
+                    "picks": 619,
+                    "bans": 1650,
+                    "wr": 55.7,
+                    "notes": "Split push master"
+                }
+            ]
+        },
+        "B": {
+            "comfort_picks": [
+                {
+                    "hero": "Clockwerk",
+                    "picks": 1317,
+                    "bans": 1202,
+                    "wr": 50.6
+                },
+                {
+                    "hero": "Centaur Warrunner",
+                    "picks": 1255,
+                    "bans": 1451,
+                    "wr": 52.0
+                },
+                {
+                    "hero": "Gyrocopter",
+                    "picks": 1233,
+                    "bans": 1413,
+                    "wr": 52.5
+                },
+                {
+                    "hero": "Phoenix",
+                    "picks": 1230,
+                    "bans": 1359,
+                    "wr": 48.0
+                },
+                {
+                    "hero": "Storm Spirit",
+                    "picks": 1046,
+                    "bans": 1487,
+                    "wr": 51.5
+                },
+                {
+                    "hero": "Magnus",
+                    "picks": 978,
+                    "bans": 1455,
+                    "wr": 54.8
+                },
+                {
+                    "hero": "Terrorblade",
+                    "picks": 916,
+                    "bans": 1170,
+                    "wr": 53.4
+                },
+                {
+                    "hero": "Primal Beast",
+                    "picks": 894,
+                    "bans": 1340,
+                    "wr": 50.2
+                },
+                {
+                    "hero": "Enigma",
+                    "picks": 512,
+                    "bans": 1367,
+                    "wr": 65.4,
+                    "notes": "HIGHEST WR in EPL!"
+                }
+            ]
+        },
+        "C": {
+            "situational": [
+                {
+                    "hero": "Rubick",
+                    "picks": 1265,
+                    "bans": 519,
+                    "wr": 48.7,
+                    "when": "vs spell-heavy"
+                },
+                {
+                    "hero": "Hoodwink",
+                    "picks": 1245,
+                    "bans": 659,
+                    "wr": 48.4,
+                    "when": "poke/kite needed"
+                },
+                {
+                    "hero": "Tusk",
+                    "picks": 1202,
+                    "bans": 1054,
+                    "wr": 49.4,
+                    "when": "aggressive roaming"
+                },
+                {
+                    "hero": "Dark Willow",
+                    "picks": 1187,
+                    "bans": 695,
+                    "wr": 46.5,
+                    "when": "stun setup"
+                },
+                {
+                    "hero": "Lion",
+                    "picks": 1176,
+                    "bans": 696,
+                    "wr": 49.0,
+                    "when": "hard disable needed"
+                },
+                {
+                    "hero": "Crystal Maiden",
+                    "picks": 903,
+                    "bans": 280,
+                    "wr": 53.3,
+                    "when": "mana hungry team"
+                }
+            ]
+        },
+        "D": {
+            "avoid": [
+                {
+                    "hero": "Necrophos",
+                    "picks": 41,
+                    "wr": 24.4,
+                    "problem": "Meta mismatch"
+                },
+                {
+                    "hero": "Phantom Lancer",
+                    "picks": 62,
+                    "wr": 37.1,
+                    "problem": "Too many counters"
+                },
+                {
+                    "hero": "Underlord",
+                    "picks": 334,
+                    "wr": 38.3,
+                    "problem": "Too passive"
+                },
+                {
+                    "hero": "Spirit Breaker",
+                    "picks": 220,
+                    "wr": 38.6,
+                    "problem": "Easily punished"
+                },
+                {
+                    "hero": "Wraith King",
+                    "picks": 127,
+                    "wr": 39.4,
+                    "problem": "Predictable"
+                },
+                {
+                    "hero": "Silencer",
+                    "picks": 242,
+                    "wr": 39.3,
+                    "problem": "Too fragile"
+                }
+            ]
+        }
+    },
+    "top_performers": [
+        {
+            "hero": "Enigma",
+            "games": 512,
+            "wr": 65.4,
+            "why": "Black Hole game-winning"
+        },
+        {
+            "hero": "Chen",
+            "games": 511,
+            "wr": 64.2,
+            "why": "Few can play but dominates"
+        },
+        {
+            "hero": "Alchemist",
+            "games": 598,
+            "wr": 60.0,
+            "why": "Rarely slips through ban"
+        },
+        {
+            "hero": "KotL",
+            "games": 454,
+            "wr": 59.5,
+            "why": "Push enabler"
+        },
+        {
+            "hero": "Monkey King",
+            "games": 794,
+            "wr": 55.8,
+            "why": "Lane dominance"
+        },
+        {
+            "hero": "Nature's Prophet",
+            "games": 619,
+            "wr": 55.7,
+            "why": "Global pressure"
+        },
+        {
+            "hero": "Naga Siren",
+            "games": 456,
+            "wr": 56.4,
+            "why": "Late game insurance"
+        },
+        {
+            "hero": "Bristleback",
+            "games": 711,
+            "wr": 56.1,
+            "why": "Unkillable tank"
+        }
+    ],
+    "power_spikes": {
+        "anti_mage": {
+            "timing": "late",
+            "spikes": [
+                {
+                    "item": "battle_fury",
+                    "min": 14,
+                    "boost": 0.30
+                },
+                {
+                    "item": "manta",
+                    "min": 22,
+                    "boost": 0.50
+                },
+                {
+                    "item": "abyssal",
+                    "min": 30,
+                    "boost": 0.85
+                }
+            ],
+            "weak": [
+                0,
+                14
+            ],
+            "win": "Split push, mana burn"
+        },
+        "templar_assassin": {
+            "timing": "mid",
+            "spikes": [
+                {
+                    "lvl": 6,
+                    "min": 5,
+                    "boost": 0.40
+                },
+                {
+                    "item": "deso",
+                    "min": 14,
+                    "boost": 0.70
+                },
+                {
+                    "item": "blink",
+                    "min": 18,
+                    "boost": 0.80
+                }
+            ],
+            "weak": [
+                28,
+                45
+            ],
+            "win": "Dominate mid, early Rosh, end <35"
+        },
+        "spectre": {
+            "timing": "late",
+            "spikes": [
+                {
+                    "item": "radiance",
+                    "min": 18,
+                    "boost": 0.50
+                },
+                {
+                    "item": "manta",
+                    "min": 26,
+                    "boost": 0.70
+                },
+                {
+                    "lvl": 25,
+                    "min": 40,
+                    "boost": 0.95
+                }
+            ],
+            "weak": [
+                0,
+                18
+            ],
+            "win": "Global fights, scale late"
+        },
+        "faceless_void": {
+            "timing": "mid_late",
+            "spikes": [
+                {
+                    "lvl": 6,
+                    "min": 6,
+                    "boost": 0.55
+                },
+                {
+                    "item": "MoM",
+                    "min": 12,
+                    "boost": 0.45
+                },
+                {
+                    "item": "bf",
+                    "min": 18,
+                    "boost": 0.65
+                }
+            ],
+            "weak": [
+                0,
+                6
+            ],
+            "win": "Chrono 3+ heroes"
+        },
+        "storm_spirit": {
+            "timing": "mid",
+            "spikes": [
+                {
+                    "lvl": 6,
+                    "min": 6,
+                    "boost": 0.65
+                },
+                {
+                    "item": "orchid",
+                    "min": 16,
+                    "boost": 0.80
+                },
+                {
+                    "item": "bloodstone",
+                    "min": 22,
+                    "boost": 0.85
+                }
+            ],
+            "weak": [
+                0,
+                6
+            ],
+            "win": "Pickoffs, tempo control"
+        },
+        "medusa": {
+            "timing": "ultra_late",
+            "spikes": [
+                {
+                    "item": "manta",
+                    "min": 22,
+                    "boost": 0.50
+                },
+                {
+                    "item": "skadi",
+                    "min": 28,
+                    "boost": 0.70
+                },
+                {
+                    "item": "rapier",
+                    "min": 40,
+                    "boost": 0.95
+                }
+            ],
+            "weak": [
+                0,
+                25
+            ],
+            "win": "3+ items, siege HG"
+        },
+        "huskar": {
+            "timing": "early_mid",
+            "spikes": [
+                {
+                    "item": "armlet",
+                    "min": 10,
+                    "boost": 0.75
+                },
+                {
+                    "item": "bkb",
+                    "min": 18,
+                    "boost": 0.85
+                }
+            ],
+            "weak": [
+                30,
+                50
+            ],
+            "win": "Lane dom, early Rosh, end <30"
+        },
+        "morphling": {
+            "timing": "late",
+            "spikes": [
+                {
+                    "item": "ethereal",
+                    "min": 20,
+                    "boost": 0.70
+                },
+                {
+                    "item": "linkens",
+                    "min": 25,
+                    "boost": 0.80
+                },
+                {
+                    "item": "skadi",
+                    "min": 30,
+                    "boost": 0.90
+                }
+            ],
+            "weak": [
+                0,
+                15
+            ],
+            "win": "Attribute shift outplays"
+        },
+        "puck": {
+            "timing": "mid",
+            "spikes": [
+                {
+                    "lvl": 6,
+                    "min": 5,
+                    "boost": 0.50
+                },
+                {
+                    "item": "blink",
+                    "min": 12,
+                    "boost": 0.70
+                },
+                {
+                    "item": "witch_blade",
+                    "min": 16,
+                    "boost": 0.75
+                }
+            ],
+            "weak": [
+                35,
+                50
+            ],
+            "win": "Control fights, silences"
+        },
+        "invoker": {
+            "timing": "mid_late",
+            "spikes": [
+                {
+                    "lvl": 12,
+                    "min": 12,
+                    "boost": 0.60
+                },
+                {
+                    "item": "aghs",
+                    "min": 20,
+                    "boost": 0.80
+                },
+                {
+                    "item": "hex",
+                    "min": 30,
+                    "boost": 0.85
+                }
+            ],
+            "weak": [
+                0,
+                8
+            ],
+            "win": "Combo execution, versatility"
+        }
+    },
+    "timing_windows": {
+        "early": {
+            "peak": [
+                8,
+                20
+            ],
+            "falloff": 25
+        },
+        "mid": {
+            "peak": [
+                15,
+                30
+            ],
+            "falloff": 40
+        },
+        "mid_late": {
+            "peak": [
+                20,
+                35
+            ],
+            "falloff": 45
+        },
+        "late": {
+            "peak": [
+                30,
+                50
+            ],
+            "needs_farm": true
+        },
+        "ultra_late": {
+            "peak": [
+                40,
+                60
+            ],
+            "scales_infinite": true
+        }
+    },
+    "draft_rules": {
+        "counter_chen": [
+            "Doom",
+            "Lion",
+            "Shadow Shaman",
+            "Clockwerk"
+        ],
+        "counter_huskar": [
+            "Ancient Apparition",
+            "Necrophos",
+            "Viper",
+            "Timbersaw"
+        ],
+        "counter_medusa": [
+            "Anti-Mage",
+            "Phantom Lancer",
+            "Invoker",
+            "Naga Siren"
+        ],
+        "counter_spectre": [
+            "Shadow Demon",
+            "Doom",
+            "Lifestealer",
+            "Ancient Apparition"
+        ],
+        "counter_morph": [
+            "Ancient Apparition",
+            "Lion",
+            "Shadow Shaman",
+            "Disruptor"
+        ],
+        "ban_priority_vs_aggro": [
+            "Puck",
+            "Storm Spirit",
+            "Pangolier",
+            "Batrider"
+        ],
+        "ban_priority_vs_late": [
+            "Medusa",
+            "Spectre",
+            "Terrorblade",
+            "Naga Siren"
+        ]
+    }
+}

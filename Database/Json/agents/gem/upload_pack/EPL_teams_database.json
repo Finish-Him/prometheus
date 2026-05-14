@@ -1,0 +1,544 @@
+{
+    "version": "2.0.0",
+    "league": "Europa Pro League",
+    "last_update": "2025-12-08",
+    "teams": {
+        "team_spirit": {
+            "region": "EEU",
+            "tier": 1,
+            "roster": [
+                "Yatoro",
+                "Larl",
+                "Collapse",
+                "Mira",
+                "Miposhka"
+            ],
+            "psychology": {
+                "clutch": 0.90,
+                "comeback": 0.85,
+                "tilt_resist": 0.88,
+                "pressure": 0.92
+            },
+            "style": {
+                "early_aggro": 0.65,
+                "late_patience": 0.85,
+                "rosh_priority": 0.80,
+                "risk": 0.60
+            },
+            "signature_heroes": {
+                "Yatoro": [
+                    "Morphling",
+                    "Terrorblade",
+                    "Phantom Assassin"
+                ],
+                "Collapse": [
+                    "Magnus",
+                    "Mars",
+                    "Primal Beast"
+                ],
+                "Larl": [
+                    "Puck",
+                    "Storm Spirit",
+                    "Invoker"
+                ]
+            },
+            "patterns": [
+                "Strong elimination matches",
+                "Reverse sweep tendency",
+                "Yatoro better as underdog"
+            ],
+            "notes": "TI winners, excellent under pressure"
+        },
+        "gaimin_gladiators": {
+            "region": "WEU",
+            "tier": 1,
+            "roster": [
+                "dyrachyo",
+                "Quinn",
+                "Ace",
+                "Seleri",
+                "tOfu"
+            ],
+            "psychology": {
+                "clutch": 0.75,
+                "comeback": 0.70,
+                "tilt_resist": 0.72,
+                "pressure": 0.70
+            },
+            "style": {
+                "early_aggro": 0.80,
+                "late_patience": 0.55,
+                "rosh_priority": 0.75,
+                "risk": 0.78
+            },
+            "signature_heroes": {
+                "dyrachyo": [
+                    "Monkey King",
+                    "Faceless Void",
+                    "Morphling"
+                ],
+                "Quinn": [
+                    "Puck",
+                    "Storm Spirit",
+                    "Invoker"
+                ]
+            },
+            "patterns": [
+                "Leads early struggles to close",
+                "dyrachyo tilts visibly",
+                "Better groups than playoffs"
+            ],
+            "notes": "Aggressive, can dominate or throw"
+        },
+        "tundra_esports": {
+            "region": "WEU",
+            "tier": 1,
+            "roster": [
+                "Nisha",
+                "Nine",
+                "33",
+                "Saksa",
+                "Sneyking"
+            ],
+            "psychology": {
+                "clutch": 0.88,
+                "comeback": 0.80,
+                "tilt_resist": 0.85,
+                "pressure": 0.90
+            },
+            "style": {
+                "early_aggro": 0.55,
+                "late_patience": 0.90,
+                "rosh_priority": 0.78,
+                "risk": 0.50
+            },
+            "signature_heroes": {
+                "Nine": [
+                    "Invoker",
+                    "Ember Spirit",
+                    "Arc Warden"
+                ],
+                "33": [
+                    "Broodmother",
+                    "Visage",
+                    "Nature's Prophet"
+                ]
+            },
+            "patterns": [
+                "Drafts to scale",
+                "Rarely unforced errors",
+                "Nine consistent when losing"
+            ],
+            "notes": "TI12 champs, methodical patient"
+        },
+        "betboom_team": {
+            "region": "EEU",
+            "tier": 1,
+            "roster": [
+                "Nightfall",
+                "gpk",
+                "Pure",
+                "Noticed",
+                "SoNNeikO"
+            ],
+            "psychology": {
+                "clutch": 0.65,
+                "comeback": 0.60,
+                "tilt_resist": 0.55,
+                "pressure": 0.58
+            },
+            "style": {
+                "early_aggro": 0.85,
+                "late_patience": 0.40,
+                "rosh_priority": 0.70,
+                "risk": 0.88
+            },
+            "signature_heroes": {
+                "Nightfall": [
+                    "Faceless Void",
+                    "Terrorblade"
+                ],
+                "gpk": [
+                    "Lina",
+                    "Storm Spirit",
+                    "Ember Spirit"
+                ]
+            },
+            "patterns": [
+                "Tilts after losing map 1",
+                "Nightfall risky positions",
+                "Better with back against wall"
+            ],
+            "notes": "High variance, unbeatable or terrible"
+        },
+        "team_liquid": {
+            "region": "WEU",
+            "tier": 1,
+            "roster": [
+                "miCKe",
+                "Nisha",
+                "zai",
+                "Boxi",
+                "iNsania"
+            ],
+            "psychology": {
+                "clutch": 0.78,
+                "comeback": 0.75,
+                "tilt_resist": 0.80,
+                "pressure": 0.75
+            },
+            "style": {
+                "early_aggro": 0.70,
+                "late_patience": 0.70,
+                "rosh_priority": 0.75,
+                "risk": 0.65
+            },
+            "signature_heroes": {
+                "miCKe": [
+                    "Luna",
+                    "Gyrocopter",
+                    "Drow Ranger"
+                ],
+                "zai": [
+                    "Enigma",
+                    "Batrider",
+                    "Beastmaster"
+                ]
+            },
+            "patterns": [
+                "Consistent performance",
+                "Strong draft flexibility",
+                "iNsania shotcalling"
+            ],
+            "notes": "Solid organization, rarely tilts"
+        },
+        "og": {
+            "region": "WEU",
+            "tier": 1,
+            "roster": [
+                "Yuragi",
+                "bzm",
+                "Chu",
+                "Taiga",
+                "Ceb"
+            ],
+            "psychology": {
+                "clutch": 0.82,
+                "comeback": 0.78,
+                "tilt_resist": 0.70,
+                "pressure": 0.80
+            },
+            "style": {
+                "early_aggro": 0.75,
+                "late_patience": 0.65,
+                "rosh_priority": 0.72,
+                "risk": 0.75
+            },
+            "signature_heroes": {
+                "Yuragi": [
+                    "Morphling",
+                    "Anti-Mage",
+                    "Faceless Void"
+                ],
+                "bzm": [
+                    "Puck",
+                    "Ember Spirit",
+                    "Void Spirit"
+                ]
+            },
+            "patterns": [
+                "Ceb factor in big games",
+                "Can tilt after bad starts",
+                "Creative drafting"
+            ],
+            "notes": "Legacy org, clutch DNA from Ana era"
+        },
+        "team_falcons": {
+            "region": "MENA",
+            "tier": 1,
+            "roster": [
+                "Monet",
+                "Pakazs",
+                "ATF",
+                "Sneyking",
+                "Cr1t-"
+            ],
+            "psychology": {
+                "clutch": 0.80,
+                "comeback": 0.72,
+                "tilt_resist": 0.75,
+                "pressure": 0.78
+            },
+            "style": {
+                "early_aggro": 0.78,
+                "late_patience": 0.60,
+                "rosh_priority": 0.80,
+                "risk": 0.72
+            },
+            "signature_heroes": {
+                "ATF": [
+                    "Primal Beast",
+                    "Mars",
+                    "Timbersaw"
+                ],
+                "Cr1t-": [
+                    "Treant",
+                    "Chen",
+                    "IO"
+                ]
+            },
+            "patterns": [
+                "Strong Roshan control",
+                "ATF makes plays",
+                "Cr1t enables team"
+            ],
+            "notes": "New superteam, aggressive playstyle"
+        },
+        "xtreme_gaming": {
+            "region": "CN",
+            "tier": 1,
+            "roster": [
+                "Ame",
+                "NothingToSay",
+                "XinQ",
+                "Fy",
+                "y"
+            ],
+            "psychology": {
+                "clutch": 0.85,
+                "comeback": 0.80,
+                "tilt_resist": 0.82,
+                "pressure": 0.85
+            },
+            "style": {
+                "early_aggro": 0.60,
+                "late_patience": 0.85,
+                "rosh_priority": 0.85,
+                "risk": 0.55
+            },
+            "signature_heroes": {
+                "Ame": [
+                    "Terrorblade",
+                    "Morphling",
+                    "Phantom Assassin"
+                ],
+                "NothingToSay": [
+                    "Puck",
+                    "Ember Spirit",
+                    "Lina"
+                ]
+            },
+            "patterns": [
+                "Ame farming patterns",
+                "Late game specialists",
+                "Fy playmaking"
+            ],
+            "notes": "Chinese precision, patient execution"
+        },
+        "team_lynx": {
+            "region": "EU_T2",
+            "tier": 2,
+            "roster": [
+                "Davai Lansen",
+                "Rajjix",
+                "Kataomi",
+                "Tobi",
+                "MiLAN"
+            ],
+            "psychology": {
+                "clutch": 0.55,
+                "comeback": 0.50,
+                "tilt_resist": 0.60,
+                "pressure": 0.52
+            },
+            "style": {
+                "early_aggro": 0.70,
+                "late_patience": 0.55,
+                "rosh_priority": 0.60,
+                "risk": 0.72
+            },
+            "signature_heroes": {},
+            "patterns": [
+                "Better as underdog",
+                "Struggles Bo3 Game 3",
+                "Online better than LAN"
+            ],
+            "notes": "EPL regular, inconsistent"
+        },
+        "winter_bear": {
+            "region": "EU_T2",
+            "tier": 2,
+            "roster": [],
+            "psychology": {
+                "clutch": 0.60,
+                "comeback": 0.58,
+                "tilt_resist": 0.55,
+                "pressure": 0.55
+            },
+            "style": {
+                "early_aggro": 0.65,
+                "late_patience": 0.60,
+                "rosh_priority": 0.65,
+                "risk": 0.68
+            },
+            "signature_heroes": {},
+            "patterns": [
+                "Consistent but average",
+                "Rarely exceeds expectations"
+            ],
+            "notes": "EPL regular, balanced"
+        },
+        "navi": {
+            "region": "EEU",
+            "tier": 2,
+            "roster": [
+                "Yuma",
+                "G",
+                "Xakoda",
+                "Gleb",
+                "Solo"
+            ],
+            "psychology": {
+                "clutch": 0.62,
+                "comeback": 0.55,
+                "tilt_resist": 0.58,
+                "pressure": 0.60
+            },
+            "style": {
+                "early_aggro": 0.72,
+                "late_patience": 0.50,
+                "rosh_priority": 0.68,
+                "risk": 0.75
+            },
+            "signature_heroes": {},
+            "patterns": [
+                "Legacy pressure affects play",
+                "Solo shotcalling",
+                "Aggressive but punishable"
+            ],
+            "notes": "Historic org rebuilding"
+        },
+        "entity": {
+            "region": "WEU",
+            "tier": 2,
+            "roster": [
+                "Fishman",
+                "Stormstormer",
+                "Tobi",
+                "Kataomi",
+                "Immersion"
+            ],
+            "psychology": {
+                "clutch": 0.58,
+                "comeback": 0.55,
+                "tilt_resist": 0.60,
+                "pressure": 0.55
+            },
+            "style": {
+                "early_aggro": 0.68,
+                "late_patience": 0.58,
+                "rosh_priority": 0.62,
+                "risk": 0.70
+            },
+            "signature_heroes": {
+                "Stormstormer": [
+                    "Storm Spirit",
+                    "Invoker",
+                    "Puck"
+                ]
+            },
+            "patterns": [
+                "Stormstormer carry potential",
+                "Can upset favorites"
+            ],
+            "notes": "WEU gatekeeper team"
+        },
+        "into_the_breach": {
+            "region": "WEU",
+            "tier": 2,
+            "roster": [
+                "SabeRLight",
+                "BOOM",
+                "Creepwave",
+                "Hyde",
+                "Fng"
+            ],
+            "psychology": {
+                "clutch": 0.60,
+                "comeback": 0.58,
+                "tilt_resist": 0.62,
+                "pressure": 0.58
+            },
+            "style": {
+                "early_aggro": 0.65,
+                "late_patience": 0.65,
+                "rosh_priority": 0.70,
+                "risk": 0.62
+            },
+            "signature_heroes": {
+                "BOOM": [
+                    "Enigma",
+                    "Beastmaster",
+                    "Batrider"
+                ]
+            },
+            "patterns": [
+                "Fng experienced captain",
+                "Balanced approach",
+                "Can take games off T1"
+            ],
+            "notes": "Solid T2 with veterans"
+        }
+    },
+    "aliases": {
+        "Team Spirit": [
+            "TS",
+            "Spirit",
+            "TSpirit"
+        ],
+        "Team Liquid": [
+            "Liquid",
+            "TL"
+        ],
+        "Gaimin Gladiators": [
+            "GG",
+            "Gaimin"
+        ],
+        "Tundra Esports": [
+            "Tundra",
+            "TES"
+        ],
+        "BetBoom Team": [
+            "BB",
+            "BetBoom"
+        ],
+        "OG": [
+            "OG"
+        ],
+        "Team Falcons": [
+            "Falcons",
+            "TF"
+        ],
+        "Xtreme Gaming": [
+            "XG",
+            "Xtreme"
+        ],
+        "Team Lynx": [
+            "Lynx"
+        ],
+        "Winter Bear": [
+            "WB"
+        ],
+        "Navi": [
+            "NaVi",
+            "Natus Vincere"
+        ],
+        "Entity": [
+            "Entity Gaming"
+        ],
+        "Into The Breach": [
+            "ITB",
+            "Breach"
+        ]
+    }
+}

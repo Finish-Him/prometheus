@@ -1,0 +1,56 @@
+{
+  "league_id": 18995,
+  "name": "League 18995",
+  "short_name": "L18995",
+  "tier": 4,
+  "region": "Unknown",
+  "total_matches": 16,
+  "total_teams": 5,
+  "teams": [
+    {
+      "team_id": 9973579,
+      "name": "chandogs",
+      "tag": "",
+      "wins": 7,
+      "losses": 2,
+      "games": 9,
+      "winrate": 77.8
+    },
+    {
+      "team_id": 9973591,
+      "name": "Angry Dogs",
+      "tag": "",
+      "wins": 4,
+      "losses": 4,
+      "games": 8,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9939082,
+      "name": "Low Profile",
+      "tag": "",
+      "wins": 1,
+      "losses": 1,
+      "games": 2,
+      "winrate": 50.0
+    },
+    {
+      "team_id": 9799036,
+      "name": "TeamDk",
+      "tag": "TDk",
+      "wins": 2,
+      "losses": 5,
+      "games": 7,
+      "winrate": 28.6
+    },
+    {
+      "team_id": 9886030,
+      "name": "Sentinel Esports",
+      "tag": "Sentinel",
+      "wins": 1,
+      "losses": 4,
+      "games": 5,
+      "winrate": 20.0
+    }
+  ]
+}

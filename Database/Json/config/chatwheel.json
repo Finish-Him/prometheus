@@ -1,0 +1,4818 @@
+{
+  "$schema": "constants_constants.chatwheel_v1",
+  "metadata": {
+    "source": "OpenDota Constants",
+    "converted_from": "Constants.ChatWheel.csv",
+    "last_updated": "2025-12-07"
+  },
+  "data": [
+    {
+      "Unnamed: 0": 0,
+      "id": 0,
+      "name": "Ok",
+      "label": "Okay",
+      "message": "Okay.",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 1,
+      "id": 1,
+      "name": "Care",
+      "label": "Care",
+      "message": "Careful!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 2,
+      "id": 2,
+      "name": "GetBack",
+      "label": "Get Back",
+      "message": "Get Back!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 3,
+      "id": 3,
+      "name": "NeedWards",
+      "label": "Need Wards",
+      "message": "We need wards.",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 4,
+      "id": 4,
+      "name": "Stun",
+      "label": "Stun",
+      "message": "Stun now!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 5,
+      "id": 5,
+      "name": "Help",
+      "label": "Help",
+      "message": "Help!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 6,
+      "id": 6,
+      "name": "Push",
+      "label": "Push",
+      "message": "Push now",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 7,
+      "id": 7,
+      "name": "GoodJob",
+      "label": "Well played",
+      "message": "Well played!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 8,
+      "id": 8,
+      "name": "Missing",
+      "label": "Missing",
+      "message": "Missing!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 9,
+      "id": 9,
+      "name": "Missing_Top",
+      "label": "Missing top",
+      "message": "Missing top!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 10,
+      "id": 10,
+      "name": "Missing_Mid",
+      "label": "Missing mid",
+      "message": "Missing mid!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 11,
+      "id": 11,
+      "name": "Missing_Bottom",
+      "label": "Missing bottom",
+      "message": "Missing bottom!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 12,
+      "id": 12,
+      "name": "Go",
+      "label": "Go!",
+      "message": "Go!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 13,
+      "id": 13,
+      "name": "Initiate",
+      "label": "Initiate!",
+      "message": "Initiate!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 14,
+      "id": 14,
+      "name": "Follow",
+      "label": "Follow me",
+      "message": "Follow me",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 15,
+      "id": 15,
+      "name": "Group_Up",
+      "label": "Group up",
+      "message": "Group up",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 16,
+      "id": 16,
+      "name": "Spread_Out",
+      "label": "Spread out",
+      "message": "Spread out",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 17,
+      "id": 17,
+      "name": "Split_Farm",
+      "label": "Split farm",
+      "message": "Split up and farm",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 18,
+      "id": 18,
+      "name": "Attack",
+      "label": "Attack now!",
+      "message": "Attack now!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 19,
+      "id": 19,
+      "name": "BRB",
+      "label": "Be right back",
+      "message": "Be right back",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 20,
+      "id": 20,
+      "name": "Dive",
+      "label": "Dive!",
+      "message": "Dive!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 21,
+      "id": 21,
+      "name": "OMW",
+      "label": "On my way",
+      "message": "On my way",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 22,
+      "id": 22,
+      "name": "Get_Ready",
+      "label": "Get ready",
+      "message": "Get ready",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 23,
+      "id": 23,
+      "name": "Bait",
+      "label": "Bait",
+      "message": "Bait",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 24,
+      "id": 24,
+      "name": "Heal",
+      "label": "Heal",
+      "message": "Heal",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 25,
+      "id": 25,
+      "name": "Mana",
+      "label": "Mana",
+      "message": "Mana",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 26,
+      "id": 26,
+      "name": "OOM",
+      "label": "Out of mana",
+      "message": "Out of mana",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 27,
+      "id": 27,
+      "name": "Skill_Cooldown",
+      "label": "Cooldown",
+      "message": "Skills on cooldown",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 28,
+      "id": 28,
+      "name": "Ulti_Ready",
+      "label": "Ultimate ready",
+      "message": "Ultimate ready",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 29,
+      "id": 29,
+      "name": "Enemy_Returned",
+      "label": "Returned",
+      "message": "Enemy returned",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 30,
+      "id": 30,
+      "name": "All_Missing",
+      "label": "All miss",
+      "message": "All enemy heroes missing!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 31,
+      "id": 31,
+      "name": "Enemy_Incoming",
+      "label": "Incoming",
+      "message": "Enemy incoming!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 32,
+      "id": 32,
+      "name": "Invis_Enemy",
+      "label": "Invisible enemy",
+      "message": "Invisible enemy nearby!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 33,
+      "id": 33,
+      "name": "Enemy_Had_Rune",
+      "label": "Enemy has rune",
+      "message": "Enemy has rune",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 34,
+      "id": 34,
+      "name": "Split_Push",
+      "label": "Split push",
+      "message": "Split push",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 35,
+      "id": 35,
+      "name": "Coming_To_Gank",
+      "label": "Coming to gank",
+      "message": "Coming to gank",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 36,
+      "id": 36,
+      "name": "Request_Gank",
+      "label": "Request gank",
+      "message": "Requesting a gank",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 37,
+      "id": 37,
+      "name": "Fight_Under_Tower",
+      "label": "Under tower",
+      "message": "Fight under the tower",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 38,
+      "id": 38,
+      "name": "Deny_Tower",
+      "label": "Deny tower",
+      "message": "Deny the tower!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 39,
+      "id": 41,
+      "name": "Need_Detection",
+      "label": "We need detection",
+      "message": "We need detection",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 40,
+      "id": 42,
+      "name": "They_Have_Detection",
+      "label": "They have detection",
+      "message": "They have detection",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 41,
+      "id": 43,
+      "name": "Buy_TP",
+      "label": "Buy Town Portal Scroll",
+      "message": "Buy a Town Portal Scroll",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 42,
+      "id": 45,
+      "name": "Deward",
+      "label": "Deward",
+      "message": "Deward please",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 43,
+      "id": 46,
+      "name": "Building_Mek",
+      "label": "Building Mekansm",
+      "message": "Building Mekansm",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 44,
+      "id": 47,
+      "name": "Building_Pipe",
+      "label": "Building Pipe of Insight",
+      "message": "Building Pipe of Insight",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 45,
+      "id": 48,
+      "name": "Stack_And_Pull",
+      "label": "Stack and pull",
+      "message": "Stack and pull please",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 46,
+      "id": 49,
+      "name": "Pull",
+      "label": "Pull creeps",
+      "message": "Pull creeps please",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 47,
+      "id": 50,
+      "name": "Pulling",
+      "label": "Pulling creeps",
+      "message": "Pulling creeps",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 48,
+      "id": 51,
+      "name": "Stack",
+      "label": "Stack neutrals",
+      "message": "Stack neutrals",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 49,
+      "id": 52,
+      "name": "Jungling",
+      "label": "Jungling",
+      "message": "Jungling",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 50,
+      "id": 53,
+      "name": "Roshan",
+      "label": "Roshan",
+      "message": "Roshan",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 51,
+      "id": 54,
+      "name": "Affirmative",
+      "label": "Affirmative",
+      "message": "Affirmative",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 52,
+      "id": 55,
+      "name": "Wait",
+      "label": "Wait",
+      "message": "Wait",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 53,
+      "id": 56,
+      "name": "Pause",
+      "label": "Pause",
+      "message": "Pause please!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 54,
+      "id": 57,
+      "name": "Current_Time",
+      "label": "Current Time",
+      "message": "Current Game Time",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 55,
+      "id": 58,
+      "name": "Check_Runes",
+      "label": "Check runes",
+      "message": "Check runes please",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 56,
+      "id": 59,
+      "name": "Smoke_Gank",
+      "label": "Smoke gank!",
+      "message": "Let's smoke gank!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 57,
+      "id": 60,
+      "name": "GLHF",
+      "label": "Good luck",
+      "message": "Good luck, have fun",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 58,
+      "id": 61,
+      "name": "Nice",
+      "label": "Nice",
+      "message": "Nice",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 59,
+      "id": 62,
+      "name": "Thanks",
+      "label": "Thanks",
+      "message": "Thanks!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 60,
+      "id": 63,
+      "name": "Sorry",
+      "label": "Sorry",
+      "message": "Sorry",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 61,
+      "id": 64,
+      "name": "No_Give_Up",
+      "label": "Don't give up",
+      "message": "Don't give up!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 62,
+      "id": 65,
+      "name": "Just_Happened",
+      "label": "That just happened",
+      "message": "That just happened",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 63,
+      "id": 66,
+      "name": "Game_Is_Hard",
+      "label": "Game is hard",
+      "message": "Game is hard",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 64,
+      "id": 67,
+      "name": "New_Meta",
+      "label": "New meta",
+      "message": "New meta",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 65,
+      "id": 68,
+      "name": "My_Bad",
+      "label": "My bad",
+      "message": "My bad",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 66,
+      "id": 69,
+      "name": "Regret",
+      "label": "Regret",
+      "message": "I immediately regret my decision",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 67,
+      "id": 70,
+      "name": "Relax",
+      "label": "Relax",
+      "message": "Relax, you're doing fine",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 68,
+      "id": 71,
+      "name": "MissingHero",
+      "label": "dota_chatwheel_label_MissingHero",
+      "message": "%s1 is missing!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 69,
+      "id": 72,
+      "name": "ReturnedHero",
+      "label": "dota_chatwheel_label_ReturnedHero",
+      "message": "%s1 has returned!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 70,
+      "id": 73,
+      "name": "GG",
+      "label": "GG",
+      "message": "Good game",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 71,
+      "id": 74,
+      "name": "GGWP",
+      "label": "GGWP",
+      "message": "Good game, well played",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 72,
+      "id": 75,
+      "name": "All_GG",
+      "label": "GG",
+      "message": "Good game",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 73,
+      "id": 76,
+      "name": "All_GGWP",
+      "label": "GGWP",
+      "message": "Good game, well played",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 74,
+      "id": 77,
+      "name": "What_To_Buy",
+      "label": "What should I buy?",
+      "message": "What should I buy?",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 75,
+      "id": 78,
+      "name": "Im_Retreating",
+      "label": "I'm retreating",
+      "message": "I'm retreating",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 76,
+      "id": 79,
+      "name": "Space_Created",
+      "label": "Space created",
+      "message": "Space created",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 77,
+      "id": 80,
+      "name": "Whoops",
+      "label": "Whoops",
+      "message": "Whoops",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 78,
+      "id": 81,
+      "name": "Tower_then_Back",
+      "label": "Tower then back",
+      "message": "Destroy the tower, then get back",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 79,
+      "id": 82,
+      "name": "Barracks_then_Back",
+      "label": "Barracks then back",
+      "message": "Destroy the barracks, then get back",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 80,
+      "id": 83,
+      "name": "Ward_Bottom_Rune",
+      "label": "Ward bot rune",
+      "message": "Ward the bottom rune",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 81,
+      "id": 84,
+      "name": "Ward_Top_Rune",
+      "label": "Ward top rune",
+      "message": "Ward the top rune",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 82,
+      "id": 85,
+      "name": "Zeus_Ult",
+      "label": "Zeus Ult",
+      "message": "Zeus Ult Now!",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 83,
+      "id": 86,
+      "name": "Rimshot",
+      "label": "Ba-dum tishh",
+      "message": "Ba-dum tishh",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 84,
+      "id": 87,
+      "name": "Charge",
+      "label": "Charge",
+      "message": "Charge",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 85,
+      "id": 88,
+      "name": "Frog",
+      "label": "Frog",
+      "message": "Frog",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 86,
+      "id": 89,
+      "name": "Crash_and_Burn",
+      "label": "Crash",
+      "message": "Crash and burn",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 87,
+      "id": 90,
+      "name": "Applause",
+      "label": "Applause",
+      "message": "Applause",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 88,
+      "id": 91,
+      "name": "Sad_Trombone",
+      "label": "Sad trombone",
+      "message": "Sad trombone",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 89,
+      "id": 92,
+      "name": "Crickets",
+      "label": "Crickets",
+      "message": "Crickets",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 90,
+      "id": 93,
+      "name": "Drum_Roll",
+      "label": "Drum roll",
+      "message": "Drum roll",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 91,
+      "id": 94,
+      "name": "Headshake",
+      "label": "Headshake",
+      "message": "Headshake",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 92,
+      "id": 95,
+      "name": "Crybaby",
+      "label": "Crybaby",
+      "message": "Crybaby",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 93,
+      "id": 96,
+      "name": "Patience",
+      "label": "Patience",
+      "message": "Patience from Zhou",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 94,
+      "id": 101,
+      "name": "Bozhe_Ti_Posmotri",
+      "label": "Что Происходит",
+      "message": "Боже, ты посмотри вокруг, что происходит!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 95,
+      "id": 111,
+      "name": "Day_Night_Cycle",
+      "label": "Day/Night Cycle",
+      "message": "dota_chatwheel_message_Day_Night_Cycle",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 96,
+      "id": 112,
+      "name": "Thats_Playing_to_Win",
+      "label": "That's Playing to Win!",
+      "message": "That's playing to win, baby!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 97,
+      "id": 114,
+      "name": "Absolutely_Perfect",
+      "label": "Absolutely Perfect",
+      "message": "Absolutely Perfect",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 98,
+      "id": 115,
+      "name": "Looking_Spicy",
+      "label": "Looking Spicy",
+      "message": "It's looking Spicy!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 99,
+      "id": 116,
+      "name": "No_Chill",
+      "label": "No Chill!",
+      "message": "This guy has no chill",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 100,
+      "id": 117,
+      "name": "Lets_Play_Dota",
+      "label": "Let's Play Dota",
+      "message": "Let's Play Some Dota",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 101,
+      "id": 118,
+      "name": "Waow",
+      "label": "Waow",
+      "message": "Waow",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 102,
+      "id": 119,
+      "name": "What_Just_Happened",
+      "label": "What Just Happened?",
+      "message": "I can't believe what we're seeing. What just happened?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 103,
+      "id": 120,
+      "name": "Youre_a_Hero",
+      "label": "You're a Goddamn Hero!",
+      "message": "You're a goddamn hero!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 104,
+      "id": 121,
+      "name": "All_Dead",
+      "label": "All Dead",
+      "message": "They're all dead!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 105,
+      "id": 122,
+      "name": "Ding_Ding_Ding",
+      "label": "Ding Ding Ding!",
+      "message": "Ding Ding Ding Mother******",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 106,
+      "id": 131,
+      "name": "Bockbock",
+      "label": "Bock bock",
+      "message": "Bock bock",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 107,
+      "id": 132,
+      "name": "Kiss",
+      "label": "Kiss",
+      "message": "Kiss",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 108,
+      "id": 133,
+      "name": "Ow",
+      "label": "Oww",
+      "message": "Oww",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 109,
+      "id": 134,
+      "name": "Party_Horn",
+      "label": "Party horn",
+      "message": "Party horn",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 110,
+      "id": 135,
+      "name": "Snore",
+      "label": "Snore",
+      "message": "Snore",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 111,
+      "id": 136,
+      "name": "Yahoo",
+      "label": "Yahoo",
+      "message": "Yahoo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 112,
+      "id": 137,
+      "name": "Happy_Tree",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 113,
+      "id": 138,
+      "name": "High_Five",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 114,
+      "id": 139,
+      "name": "Zen",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 115,
+      "id": 140,
+      "name": "Thumbs_Up",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 116,
+      "id": 141,
+      "name": "Funny",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 117,
+      "id": 142,
+      "name": "Cry",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 118,
+      "id": 143,
+      "name": "Shrug",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 119,
+      "id": 144,
+      "name": "Sad_Tree",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 120,
+      "id": 145,
+      "name": "Angry",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 121,
+      "id": 146,
+      "name": "Question",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 122,
+      "id": 147,
+      "name": "Shhh",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 123,
+      "id": 148,
+      "name": "Nervous",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 124,
+      "id": 149,
+      "name": "Thinking",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 125,
+      "id": 150,
+      "name": "Just_Right",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 126,
+      "id": 151,
+      "name": "Whoa",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 127,
+      "id": 152,
+      "name": "Easiest_Money",
+      "label": "Easiest Money",
+      "message": "Easiest money of my life!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 128,
+      "id": 153,
+      "name": "Echo_Slama_Jama",
+      "label": "Echo Slamma Jamma",
+      "message": "Echo Slamma Jamma!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 129,
+      "id": 154,
+      "name": "Next_Level",
+      "label": "Next Level",
+      "message": "The next level play!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 130,
+      "id": 155,
+      "name": "Oy_Oy_Oy",
+      "label": "Oyoy oy oy",
+      "message": "Oyoy oy oy, oy, oy, oy Oy OY!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 131,
+      "id": 156,
+      "name": "Lakad_Matataaaag",
+      "label": "Lakad Matataaaag!",
+      "message": "Lakad Matataaaag! Normalin Normalin.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 132,
+      "id": 157,
+      "name": "FavoriteTeam",
+      "label": "Favorite Team Spray",
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 133,
+      "id": 158,
+      "name": "Greevil_Laughter",
+      "label": "Greevil Laughter",
+      "message": "Greevil Laughter",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 134,
+      "id": 159,
+      "name": "Sparkling_Celebration",
+      "label": "Sparkling Celebration",
+      "message": "Sparkling Celebration",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 135,
+      "id": 160,
+      "name": "Frostivus_Magic",
+      "label": "Frostivus Magic",
+      "message": "Frostivus Magic",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 136,
+      "id": 161,
+      "name": "Sleighbells",
+      "label": "Sleighbells",
+      "message": "Sleighbells",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 137,
+      "id": 162,
+      "name": "NewBloom_Ceremonial_Drums",
+      "label": "Ceremonial Drums",
+      "message": "Ceremonial Drums",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 138,
+      "id": 163,
+      "name": "NewBloom_Oink_Oink",
+      "label": "Oink Oink!",
+      "message": "Oink Oink!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 139,
+      "id": 164,
+      "name": "NewBloom_Celebratory_Gong",
+      "label": "Celebratory Gong",
+      "message": "Celebratory Gong",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 140,
+      "id": 165,
+      "name": "Kooka_Laugh",
+      "label": "Kookaburra Laugh",
+      "message": "Kookaburra Laugh",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 141,
+      "id": 166,
+      "name": "Monkey_Business",
+      "label": "Monkey Business",
+      "message": "Monkey Business",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 142,
+      "id": 167,
+      "name": "Orangutan_Kiss",
+      "label": "Sloppy Orangutan Kiss",
+      "message": "Sloppy Orangutan Kiss",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 143,
+      "id": 168,
+      "name": "Mosquito_Buzz",
+      "label": "Mosquito Buzz",
+      "message": "Mosquito Buzz",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 144,
+      "id": 169,
+      "name": "Crowd_Groan",
+      "label": "Crowd Groan",
+      "message": "Crowd Groan",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 145,
+      "id": 170,
+      "name": "Head_Bonk",
+      "label": "Head Bonk",
+      "message": "Head Bonk",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 146,
+      "id": 171,
+      "name": "Record_Scratch",
+      "label": "Record Scratch",
+      "message": "Record Scratch",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 147,
+      "id": 172,
+      "name": "Ta_Daaaaaa",
+      "label": "Ta Daaaaaa",
+      "message": "Ta Daaaaaa",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 148,
+      "id": 173,
+      "name": "Ay_Ay_Ay",
+      "label": "Ай-ай-ай-ай-ай",
+      "message": "Ай-ай-ай-ай-ай, что сейчас произошло",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 149,
+      "id": 174,
+      "name": "Ehto_G_G",
+      "label": "Это ГГ",
+      "message": "Это ГГ",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 150,
+      "id": 175,
+      "name": "Oy_Oy_Bezhat",
+      "label": "Ой-ой-ой-ой-ой, бежать!",
+      "message": "Ой-ой-ой-ой-ой, бежать!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 151,
+      "id": 176,
+      "name": "Eto_Sochno",
+      "label": "Как же это сочно, ах!",
+      "message": "Как же это сочно, ах!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 152,
+      "id": 177,
+      "name": "Da_Da_Da_Nyet",
+      "label": "Да? Да? Да? Нет.",
+      "message": "Да? Да? Да? Нет.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 153,
+      "id": 178,
+      "name": "Wot_Eto_Bru",
+      "label": "Вот Это Врыв!",
+      "message": "Вот Это Врыв!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 154,
+      "id": 179,
+      "name": "Kreasa_Kreasa",
+      "label": "Резать Резать Резать Резать",
+      "message": "Резать Резать Резать Резать",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 155,
+      "id": 180,
+      "name": "Eto_Nenormalno",
+      "label": "Это ненормально, это нечестно!",
+      "message": "Это ненормально, это нечестно!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 156,
+      "id": 181,
+      "name": "Krasavchik",
+      "label": "Красавчик!",
+      "message": "Красавчик!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 157,
+      "id": 182,
+      "name": "Eto_Prosto_Netchto",
+      "label": "Это. Просто. Нечто.",
+      "message": "Это. Просто. Нечто.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 158,
+      "id": 183,
+      "name": "Zhil_Do_Konsta",
+      "label": "Как Герой",
+      "message": "Жил до конца, умер как герой",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 159,
+      "id": 190,
+      "name": "Goodness_Gracious",
+      "label": "Goodness Gracious",
+      "message": "Sir Chief. Goodness Gracious Papable.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 160,
+      "id": 191,
+      "name": "Nakupuuu",
+      "label": "NAKUPUU",
+      "message": "NAKUPUU",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 161,
+      "id": 192,
+      "name": "Whats_Cooking",
+      "label": "What's Cooking",
+      "message": "You know what's cooking? BOOM!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 162,
+      "id": 193,
+      "name": "Eughahaha_Aah_Ha_Ha_Ha_Ha",
+      "label": "Eughahaha Aah Ha Ha Ha Ha",
+      "message": "Eughahaha Aah Ha Ha Ha Ha",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 163,
+      "id": 194,
+      "name": "TI9_GlaDOS_Estimate_99",
+      "label": "99% Probability of Winning.",
+      "message": "99% Probability of Winning.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 164,
+      "id": 195,
+      "name": "TI9_GlaDOS_Disappointed",
+      "label": "I'm Just Disappointed",
+      "message": "I'm not angry, I'm Just Disappointed",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 165,
+      "id": 196,
+      "name": "TI9_GlaDOS_Estimate_1",
+      "label": "1% Probability of Winning.",
+      "message": "1% Probability of Winning.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 166,
+      "id": 197,
+      "name": "TI9_GlaDOS_Estimate_17",
+      "label": "17% Probability of Winning.",
+      "message": "17% Probability of Winning.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 167,
+      "id": 199,
+      "name": "TI9_GlaDOS_Excellent_Work",
+      "label": "Excellent Work",
+      "message": "Once again, excellent work",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 168,
+      "id": 200,
+      "name": "TI9_GlaDOS_The_Point",
+      "label": "The Point",
+      "message": "I'm not sure what the point of that was",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 169,
+      "id": 202,
+      "name": "Commend_This_Man",
+      "label": "Commend this man",
+      "message": "Commend this man, immediately.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 170,
+      "id": 203,
+      "name": "Slacks_OMG",
+      "label": "Oh My God",
+      "message": "Oh My God! Never in all my years as a caster",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 171,
+      "id": 204,
+      "name": "TI9_GlaDOS_That_Happened",
+      "label": "That Just Happened",
+      "message": "That Just Happened",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 172,
+      "id": 211,
+      "name": "Ni_Qi_Bu_Qi",
+      "label": "你气不气?",
+      "message": "你气不气?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 173,
+      "id": 212,
+      "name": "Zai_Jian_Le_Bao_Bei",
+      "label": "再见了宝贝儿！",
+      "message": "再见了宝贝儿！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 174,
+      "id": 213,
+      "name": "Duiyou_Ne",
+      "label": "队友呢？",
+      "message": "啊，队友呢？队友呢？队友呢？！ 队友呢？！？！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 175,
+      "id": 214,
+      "name": "Piao_Liang",
+      "label": "漂~ 亮！",
+      "message": "漂~ 亮！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 176,
+      "id": 215,
+      "name": "Tian_Huo",
+      "label": "天火！",
+      "message": "天火！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 177,
+      "id": 216,
+      "name": "Gan_Ma_Ne_Xiong_Di",
+      "label": "干嘛呢兄弟",
+      "message": "干嘛呢兄弟",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 178,
+      "id": 217,
+      "name": "Lian_Dou_Xiu_Wai_La",
+      "label": "脸都秀歪啦",
+      "message": "脸都秀歪啦",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 179,
+      "id": 218,
+      "name": "Liu_Liu_Liu",
+      "label": "这波不亏, 666",
+      "message": "这波不亏, 666",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 180,
+      "id": 219,
+      "name": "Jia_You",
+      "label": "加油！",
+      "message": "加油！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 181,
+      "id": 220,
+      "name": "Zou_Hao_Bu_Song",
+      "label": "走好，不送",
+      "message": "走好，不送",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 182,
+      "id": 221,
+      "name": "Wan_Bu_Liao_La",
+      "label": "玩不了啦！",
+      "message": "玩不了啦！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 183,
+      "id": 224,
+      "name": "Kor_Yes_No",
+      "label": "네, 노, 네, 노 노 노!",
+      "message": "네, 노, 네, 노 노 노!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 184,
+      "id": 225,
+      "name": "Kor_Scan",
+      "label": "스캔",
+      "message": "스캔 돌려야 되요 따라란따란따라라라란 스캔 돌려야 된다고요!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 185,
+      "id": 226,
+      "name": "Kor_Immortality",
+      "label": "Immortality",
+      "message": "Mommy! I got me! Immortality!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 186,
+      "id": 227,
+      "name": "Kor_Yolo",
+      "label": "Yolo",
+      "message": "골드 부활 못 해! YOLO! 골드 부활 못 해! YOLO!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 187,
+      "id": 228,
+      "name": "Kor_House",
+      "label": "10억짜리 꿈의 고리! 15억짜리 꿈의 고리!",
+      "message": "10억짜리 꿈의 고리! 15억짜리 꿈의 고리!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 188,
+      "id": 229,
+      "name": "Kor_Roshan",
+      "label": "Roshan! Roshan! Roshan!",
+      "message": "Roshan! Roshan! Roshan!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 189,
+      "id": 230,
+      "name": "TI10_Ceeeb",
+      "label": "Ceeeb",
+      "message": "Ceeeb",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 190,
+      "id": 231,
+      "name": "Negative",
+      "label": "Negative",
+      "message": "Negative",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 191,
+      "id": 232,
+      "name": "Not_Yet",
+      "label": "Not Yet",
+      "message": "Not Yet",
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 192,
+      "id": 233,
+      "name": "HappyPenguin",
+      "label": "Happy Penguin",
+      "message": "Happy Penguin",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 193,
+      "id": 234,
+      "name": "NewBloom_Firecrackers",
+      "label": "Firecrackers!",
+      "message": "Pop pop pop!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 194,
+      "id": 235,
+      "name": "TI10_Spray_1",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 195,
+      "id": 236,
+      "name": "TI10_Spray_2",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 196,
+      "id": 237,
+      "name": "TI10_Spray_3",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 197,
+      "id": 238,
+      "name": "TI10_Spray_4",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 198,
+      "id": 239,
+      "name": "TI10_Spray_5",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 199,
+      "id": 240,
+      "name": "TI10_Spray_6",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 200,
+      "id": 241,
+      "name": "TI10_Spray_7",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 201,
+      "id": 242,
+      "name": "TI10_Spray_8",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 202,
+      "id": 243,
+      "name": "TI10_Spray_9",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 203,
+      "id": 244,
+      "name": "TI10_Spray_10",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 204,
+      "id": 245,
+      "name": "TI10_Spray_11",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 205,
+      "id": 246,
+      "name": "TI10_Spray_12",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 206,
+      "id": 247,
+      "name": "TI10_Spray_13",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 207,
+      "id": 248,
+      "name": "TI10_Spray_14",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 208,
+      "id": 249,
+      "name": "TI10_Spray_15",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 209,
+      "id": 250,
+      "name": "TI10_Spray_16",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 210,
+      "id": 251,
+      "name": "TI10_Spray_17",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 211,
+      "id": 252,
+      "name": "TI10_Spray_18",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 212,
+      "id": 253,
+      "name": "TI10_Spray_19",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 213,
+      "id": 254,
+      "name": "TI10_Spray_20",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 214,
+      "id": 255,
+      "name": "Boing",
+      "label": "Boing",
+      "message": "Boing",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 215,
+      "id": 256,
+      "name": "Moo",
+      "label": "Moo",
+      "message": "Moo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 216,
+      "id": 257,
+      "name": "Orc_Hit",
+      "label": "Orchestra Hit",
+      "message": "Orchestra Hit",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 217,
+      "id": 258,
+      "name": "HeeHaw",
+      "label": "Heehaw",
+      "message": "Heehaw",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 218,
+      "id": 259,
+      "name": "Oops",
+      "label": "Oops",
+      "message": "Oops",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 219,
+      "id": 260,
+      "name": "WoopWoo",
+      "label": "WoopWoo",
+      "message": "WoopWoo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 220,
+      "id": 263,
+      "name": "Holy_Moly",
+      "label": "Holy Moly!",
+      "message": "Holy Moly!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 221,
+      "id": 264,
+      "name": "Takaya_Haliava",
+      "label": "Такая халява!",
+      "message": "Такая халява...Ха!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 222,
+      "id": 265,
+      "name": "wo_shi_yi",
+      "label": "我是一个没有感情的刷钱机器",
+      "message": "我是一个没有感情的刷钱机器",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 223,
+      "id": 266,
+      "name": "Oh_My_God_What",
+      "label": "Oh My God. What?",
+      "message": "Oh my god. What? Oh! Oh!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 224,
+      "id": 267,
+      "name": "Aaah_Aaah_Chto",
+      "label": "А? Что?!",
+      "message": "Ё! А? А? Что?!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 225,
+      "id": 268,
+      "name": "ni_xing_ni",
+      "label": "你行你行，你上你上",
+      "message": "你行你行，你上你上",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 226,
+      "id": 269,
+      "name": "Coming_Through",
+      "label": "Coming Through",
+      "message": "Coming through with the wooooo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 227,
+      "id": 270,
+      "name": "A_Net_Net_Da",
+      "label": "Нет нет ДА!",
+      "message": "А нет, нет, ДА!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 228,
+      "id": 271,
+      "name": "hui_tian_mie",
+      "label": "毁天灭地, NICE啊！",
+      "message": "毁天灭地, NICE啊！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 229,
+      "id": 272,
+      "name": "What_The_F_Just_Happened",
+      "label": "What the **** Just Happened",
+      "message": "What the **** just happened?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 230,
+      "id": 273,
+      "name": "Eto_Takaya_Dushka",
+      "label": "Это такая душка!",
+      "message": "Ух, это такая душка!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 231,
+      "id": 274,
+      "name": "lai_ni_da",
+      "label": "来，你打我呀！",
+      "message": "来，你打我呀！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 232,
+      "id": 275,
+      "name": "See_You_Later_Nerds",
+      "label": "See You Later Nerds",
+      "message": "See you later nerds",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 233,
+      "id": 276,
+      "name": "Chto_Eto_Kakaya_Zhest",
+      "label": "Какая Жесть!",
+      "message": "Что это?! Какая жесть!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 234,
+      "id": 277,
+      "name": "tiao_zou_le",
+      "label": "跳走了",
+      "message": "跳走了",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 235,
+      "id": 278,
+      "name": "Nothing_That_Can_Stop_This_Man",
+      "label": "Nothing Can Stop This Man",
+      "message": "There is nothing that can stop this man",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 236,
+      "id": 279,
+      "name": "A_Nu_Ka_Idi_Suda",
+      "label": "Иди-ка сюда",
+      "message": "А ну-ка иди-ка сюда. А вот все. Все.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 237,
+      "id": 280,
+      "name": "ay_ay_ay_cn",
+      "label": "唉唉唉！唉？唉 …",
+      "message": "唉唉唉！唉？唉 …",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 238,
+      "id": 281,
+      "name": "TI10EventGameReward1",
+      "label": "Let us skirmish!",
+      "message": "Friends, let us skirmish!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 239,
+      "id": 282,
+      "name": "TI10EventGameReward2",
+      "label": "...Sadness that you're gone.",
+      "message": "I admit nothing but my sadness that you're gone.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 240,
+      "id": 283,
+      "name": "TI10EventGameReward3",
+      "label": "The Ol' Razzle-Dazzle!",
+      "message": "Now for the ol' razzle-dazzle!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 241,
+      "id": 284,
+      "name": "TI10EventGameReward4",
+      "label": "BOCK BOCK BOCK!",
+      "message": "BOCK BOCK BOCK! That is what you sound like!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 242,
+      "id": 285,
+      "name": "TI10EventGameReward5",
+      "label": "Ahh ha ha ha hoo, let's do this!",
+      "message": "Ahhhh ha ha ha ha ha ha ha ha hoo, let's do this!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 243,
+      "id": 287,
+      "name": "Black_Cat",
+      "label": "Black Cat",
+      "message": "Meow!!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 244,
+      "id": 288,
+      "name": "Ghost",
+      "label": "Ghost",
+      "message": "Boooooo!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 245,
+      "id": 289,
+      "name": "Nightmare",
+      "label": "Nightmare",
+      "message": "*Nightmare Noises*",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 246,
+      "id": 290,
+      "name": "Scream",
+      "label": "Scream",
+      "message": "Eeeeeeek!!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 247,
+      "id": 291,
+      "name": "Stabby",
+      "label": "Stabby",
+      "message": "*Violin Stabs*",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 248,
+      "id": 292,
+      "name": "Laugh",
+      "label": "Laugh",
+      "message": "Mwahahahaha!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 249,
+      "id": 293,
+      "name": "Diretide_Spray_1",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 250,
+      "id": 294,
+      "name": "Diretide_Spray_2",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 251,
+      "id": 295,
+      "name": "Diretide_Spray_3",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 252,
+      "id": 296,
+      "name": "Diretide_Spray_4",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 253,
+      "id": 297,
+      "name": "Diretide_Spray_5",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 254,
+      "id": 298,
+      "name": "Diretide_Spray_6",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 255,
+      "id": 299,
+      "name": "Diretide_Spray_7",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 256,
+      "id": 300,
+      "name": "Guild_Question",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 257,
+      "id": 301,
+      "name": "Guild_Just_Right",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 258,
+      "id": 302,
+      "name": "Guild_TI10_Spray_13",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 259,
+      "id": 303,
+      "name": "Guild_Lakad_Matataaaag",
+      "label": "Lakad Matataaaag!",
+      "message": "Lakad Matataaaag! Normalin Normalin.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 260,
+      "id": 304,
+      "name": "Guild_Kor_Yolo",
+      "label": "Yolo",
+      "message": "골드 부활 못 해! YOLO! 골드 부활 못 해! YOLO!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 261,
+      "id": 305,
+      "name": "Guild_Eto_Prosto_Netchto",
+      "label": "Это. Просто. Нечто.",
+      "message": "Это. Просто. Нечто.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 262,
+      "id": 306,
+      "name": "Diretide_Spray_8",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 263,
+      "id": 307,
+      "name": "Diretide_Spray_9",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 264,
+      "id": 308,
+      "name": "Diretide_Spray_10",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 265,
+      "id": 309,
+      "name": "Candy_From_A_Baby",
+      "label": "Like Stealing Candy",
+      "message": "Like stealing candy from a baby. A no longer living baby.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 266,
+      "id": 310,
+      "name": "Moon_Drives_You",
+      "label": "The Moon Drives You",
+      "message": "The moon drives you to delirium!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 267,
+      "id": 311,
+      "name": "One_by_One",
+      "label": "One By One",
+      "message": "One by one they fall!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 268,
+      "id": 312,
+      "name": "Celebrate",
+      "label": "Celebrate!",
+      "message": "Celebrate in the mad moon light!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 269,
+      "id": 313,
+      "name": "Something_Dire",
+      "label": "Something Dire...",
+      "message": "Something dire this way comes.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 270,
+      "id": 314,
+      "name": "Woods_Begin",
+      "label": "The Woods Begin",
+      "message": "The woods begin to stir!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 271,
+      "id": 315,
+      "name": "Reap_Your_Harvest",
+      "label": "Reap Your Harvest",
+      "message": "Reap your harvest and protect your soul!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 272,
+      "id": 316,
+      "name": "Guild_Next_Level",
+      "label": "Next Level",
+      "message": "The next level play!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 273,
+      "id": 317,
+      "name": "Guild_Duiyou_Ne",
+      "label": "队友呢？",
+      "message": "啊，队友呢？队友呢？队友呢？！ 队友呢？！？！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 274,
+      "id": 318,
+      "name": "Guild_Ay_Ay_Ay",
+      "label": "Ай-ай-ай-ай-ай",
+      "message": "Ай-ай-ай-ай-ай, что сейчас произошло",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 275,
+      "id": 319,
+      "name": "Guild_Happy_Tree",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 276,
+      "id": 320,
+      "name": "Guild_TI9_Earthshaker_Dunk",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 277,
+      "id": 321,
+      "name": "Guild_TI10_Spray_11",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 278,
+      "id": 322,
+      "name": "Guild_Looking_Spicy",
+      "label": "Looking Spicy",
+      "message": "It's looking Spicy!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 279,
+      "id": 323,
+      "name": "Guild_ay_ay_ay_cn",
+      "label": "唉唉唉！唉？唉 …",
+      "message": "唉唉唉！唉？唉 …",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 280,
+      "id": 324,
+      "name": "Guild_Ehto_G_G",
+      "label": "Это ГГ",
+      "message": "Это ГГ",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 281,
+      "id": 325,
+      "name": "Guild_TI9_Wyvern_Kiss",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 282,
+      "id": 326,
+      "name": "Guild_TI9_Monkeyking_Bananaphone",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 283,
+      "id": 327,
+      "name": "Guild_Zen",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 284,
+      "id": 328,
+      "name": "Guild_What_Just_Happened",
+      "label": "What Just Happened?",
+      "message": "I can't believe what we're seeing. What just happened?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 285,
+      "id": 329,
+      "name": "Guild_A_Net_Net_Da",
+      "label": "Нет нет ДА!",
+      "message": "А нет, нет, ДА!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 286,
+      "id": 330,
+      "name": "Guild_Ni_Qi_Bu_Qi",
+      "label": "你气不气?",
+      "message": "你气不气?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 287,
+      "id": 331,
+      "name": "Guild_TI9_AA_Icecream",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 288,
+      "id": 332,
+      "name": "Guild_Sad_Tree",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 289,
+      "id": 333,
+      "name": "Guild_TI9_Skywrath_Dunno",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 290,
+      "id": 334,
+      "name": "ti11_alchemist",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 291,
+      "id": 335,
+      "name": "ti11_arc_warden",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 292,
+      "id": 336,
+      "name": "ti11_brewmaster",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 293,
+      "id": 337,
+      "name": "ti11_darkseer_1",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 294,
+      "id": 338,
+      "name": "ti11_doomzeus",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 295,
+      "id": 339,
+      "name": "ti11_hoodwink",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 296,
+      "id": 340,
+      "name": "ti11_lich",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 297,
+      "id": 341,
+      "name": "ti11_necrophos",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 298,
+      "id": 342,
+      "name": "ti11_pangolier",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 299,
+      "id": 343,
+      "name": "ti11_phantom_assassin",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 300,
+      "id": 344,
+      "name": "ti11_phantom_lancer",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 301,
+      "id": 345,
+      "name": "ti11_pudge",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 302,
+      "id": 346,
+      "name": "ti11_shadow_demon",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 303,
+      "id": 347,
+      "name": "ti11_shadow_shaman",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 304,
+      "id": 348,
+      "name": "ti11_shopkeeper",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 305,
+      "id": 349,
+      "name": "ti11_spectre",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 306,
+      "id": 350,
+      "name": "Guild_ti11_Tusk",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 307,
+      "id": 351,
+      "name": "Guild_ti11_Visage",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 308,
+      "id": 352,
+      "name": "Guild_ti11_Void_Spirit",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 309,
+      "id": 353,
+      "name": "sprays_hey_zeus",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 310,
+      "id": 354,
+      "name": "Banjo_Charge",
+      "label": "Banjo Charge",
+      "message": "Banjo Charge",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 311,
+      "id": 355,
+      "name": "Choo_Choo",
+      "label": "Choo Choo",
+      "message": "Choo Choo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 312,
+      "id": 356,
+      "name": "Gong",
+      "label": "Gong",
+      "message": "Gong",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 313,
+      "id": 357,
+      "name": "Slide",
+      "label": "Slide",
+      "message": "Slide",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 314,
+      "id": 358,
+      "name": "Uh_Oh",
+      "label": "Uh Oh",
+      "message": "Uh Oh",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 315,
+      "id": 359,
+      "name": "Guild_TI9_Lion_Zap",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 316,
+      "id": 360,
+      "name": "Guild_TI10_Morphling",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 317,
+      "id": 361,
+      "name": "Guild_Furbolg_Highfive",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 318,
+      "id": 362,
+      "name": "Guild_Easiest_Money",
+      "label": "Easiest Money",
+      "message": "Easiest money of my life!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 319,
+      "id": 367,
+      "name": "DDB_Let_Me_In",
+      "label": "Let Me In",
+      "message": "All you have to do is...let...me...in.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 320,
+      "id": 368,
+      "name": "DDB_Run_Little_Mouse",
+      "label": "Run Little Mouse",
+      "message": "Run little mouse!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 321,
+      "id": 370,
+      "name": "DDB_Stupid_Brave",
+      "label": "Stupid. Brave but Stupid.",
+      "message": "Stupid. Brave but stupid.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 322,
+      "id": 373,
+      "name": "DDB_Do_You_Love_Me",
+      "label": "Do You Love Me",
+      "message": "Do you love me?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 323,
+      "id": 374,
+      "name": "DDB_Do_You_Love_Me_2",
+      "label": "Do You Love Me",
+      "message": "Do. You. Love Me?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 324,
+      "id": 378,
+      "name": "DDB_Death",
+      "label": "Death",
+      "message": "Death",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 325,
+      "id": 379,
+      "name": "DDB_No",
+      "label": "No",
+      "message": "No",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 326,
+      "id": 380,
+      "name": "DDB_Form_Up",
+      "label": "Form Up",
+      "message": "Form up! We're going back in.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 327,
+      "id": 382,
+      "name": "DDB_You_Have_Failed_Me",
+      "label": "You Have Failed Me",
+      "message": "You have failed me.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 328,
+      "id": 383,
+      "name": "DDB_Isnt_It_Magical_Papa",
+      "label": "Isn't It Magical Papa",
+      "message": "Isn't it magical papa?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 329,
+      "id": 384,
+      "name": "DDB_Very_Wise",
+      "label": "Very Wise",
+      "message": "Very wise",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 330,
+      "id": 385,
+      "name": "DDB_For_Eternity",
+      "label": "For Eternity",
+      "message": "I could do this for eternity.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 331,
+      "id": 386,
+      "name": "agh_chicken",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 332,
+      "id": 387,
+      "name": "agh_feed",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 333,
+      "id": 388,
+      "name": "agh_stare",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 334,
+      "id": 389,
+      "name": "agh_sweaters",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 335,
+      "id": 390,
+      "name": "marci_meat",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 336,
+      "id": 391,
+      "name": "agh_drink",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 337,
+      "id": 392,
+      "name": "agh_rockdate",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 338,
+      "id": 393,
+      "name": "Guild_TI9_Spiritbreaker_ChooChoo",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 339,
+      "id": 394,
+      "name": "Guild_Funny",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 340,
+      "id": 395,
+      "name": "Guild_TI10_Spray_19",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 341,
+      "id": 396,
+      "name": "Guild_Absolutely_Perfect",
+      "label": "Absolutely Perfect",
+      "message": "Absolutely Perfect",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 342,
+      "id": 397,
+      "name": "Guild_Eto_Sochno",
+      "label": "Как же это сочно, ах!",
+      "message": "Как же это сочно, ах!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 343,
+      "id": 398,
+      "name": "Guild_Piao_Liang",
+      "label": "漂~ 亮！",
+      "message": "漂~ 亮！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 344,
+      "id": 399,
+      "name": "Fall2021EventGameReward1",
+      "label": "I like your style!",
+      "message": "I like your moves, I like your style!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 345,
+      "id": 400,
+      "name": "Fall2021EventGameRewardTeam1",
+      "label": "Hello friend!",
+      "message": "Friend! Hello friend!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 346,
+      "id": 401,
+      "name": "Fall2021EventGameReward2",
+      "label": "That's some hot chili!",
+      "message": "Oooh that is some hot chili you're serving up down there!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 347,
+      "id": 402,
+      "name": "Fall2021EventGameRewardTeam2",
+      "label": "Pumped!",
+      "message": "Oh I am pumped here!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 348,
+      "id": 403,
+      "name": "Fall2021EventGameReward3",
+      "label": "Retreat, retreat!",
+      "message": "Better retreat, retreat!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 349,
+      "id": 404,
+      "name": "Fall2021EventGameRewardTeam3",
+      "label": "Whoopsie!",
+      "message": "Whoopsie!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 350,
+      "id": 405,
+      "name": "Fall2021EventGameReward4",
+      "label": "Surprisingly good!",
+      "message": "Good, good! Surprisingly good!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 351,
+      "id": 406,
+      "name": "Fall2021EventGameRewardTeam4",
+      "label": "True savagery!",
+      "message": "True savagery!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 352,
+      "id": 407,
+      "name": "Fall2021EventGameReward5",
+      "label": "No! Oh well.",
+      "message": "Noooooo! Oh well.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 353,
+      "id": 408,
+      "name": "Fall2021EventGameRewardTeam5",
+      "label": "That's nice!",
+      "message": "Ooooh, that's nice!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 354,
+      "id": 409,
+      "name": "Guild_Invoker_Smart_Spray",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 355,
+      "id": 410,
+      "name": "Guild_MonkeyKing_MonkeyChamp_Spray",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 356,
+      "id": 411,
+      "name": "Guild_Pudge_NailedIt_Spray",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 357,
+      "id": 412,
+      "name": "Guild_Zou_Hao_Bu_Song",
+      "label": "走好，不送",
+      "message": "走好，不送",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 358,
+      "id": 413,
+      "name": "Guild_Liu_Liu_Liu",
+      "label": "这波不亏, 666",
+      "message": "这波不亏, 666",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 359,
+      "id": 414,
+      "name": "Guild_All_Dead",
+      "label": "All Dead",
+      "message": "They're all dead!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 360,
+      "id": 415,
+      "name": "sprays_tomato_pie",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 361,
+      "id": 416,
+      "name": "Guild_sprays_abba_tub",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 362,
+      "id": 417,
+      "name": "Guild_sprays_serious_silence",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 363,
+      "id": 418,
+      "name": "Guild_sprays_solid_trunk",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 364,
+      "id": 419,
+      "name": "sprays_tiny_airlines",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 365,
+      "id": 420,
+      "name": "sprays_primal_feast",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 366,
+      "id": 421,
+      "name": "sprays_greeving_rosh",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 367,
+      "id": 422,
+      "name": "Guild_Slark_Love",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 368,
+      "id": 423,
+      "name": "Guild_Cry",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 369,
+      "id": 424,
+      "name": "Guild_Tusk_Snowball",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 370,
+      "id": 440,
+      "name": "TI11_Chat_Wheel_SFX_1",
+      "label": "Bwaak",
+      "message": "Bwaak bok bok bok bok",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 371,
+      "id": 441,
+      "name": "TI11_Chat_Wheel_SFX_2",
+      "label": "Elephant",
+      "message": "Elephant",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 372,
+      "id": 442,
+      "name": "TI11_Chat_Wheel_SFX_3",
+      "label": "Honk",
+      "message": "Honk",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 373,
+      "id": 443,
+      "name": "TI11_Chat_Wheel_SFX_4",
+      "label": "Outta here",
+      "message": "Outta here",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 374,
+      "id": 444,
+      "name": "TI11_Chat_Wheel_SFX_5",
+      "label": "Tick tock",
+      "message": "Tick tock tick tock tick tock",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 375,
+      "id": 450,
+      "name": "TI11_Caster_English_1",
+      "label": "Oh... Very Cute!",
+      "message": "Oh... Very Cute!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 376,
+      "id": 451,
+      "name": "TI11_Caster_English_2",
+      "label": "Oh my god! Woo!",
+      "message": "Oh my god! Woo!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 377,
+      "id": 452,
+      "name": "TI11_Caster_English_3",
+      "label": "Whoa! Juicy!",
+      "message": "Whoa! Juicy!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 378,
+      "id": 453,
+      "name": "TI11_Caster_English_4",
+      "label": "His brain is so big.",
+      "message": "His brain is so big.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 379,
+      "id": 454,
+      "name": "TI11_Caster_English_5",
+      "label": "Fight. Fight. Fight.",
+      "message": "Fight. Fight. Fight.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 380,
+      "id": 455,
+      "name": "TI11_Caster_English_6",
+      "label": "I love Dota so much.",
+      "message": "I love Dota so much.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 381,
+      "id": 456,
+      "name": "TI11_Caster_Chinese_1",
+      "label": "一拳超人，他来了呀",
+      "message": "一拳超人，他来了呀",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 382,
+      "id": 457,
+      "name": "TI11_Caster_Chinese_2",
+      "label": "这大概就是年轻人的操作吧",
+      "message": "这大概就是年轻人的操作吧",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 383,
+      "id": 458,
+      "name": "TI11_Caster_Chinese_3",
+      "label": "有没有神之一勾? 嗯~哼~",
+      "message": "有没有神之一勾? 嗯~哼~",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 384,
+      "id": 459,
+      "name": "TI11_Caster_Chinese_4",
+      "label": "哇~哦！",
+      "message": "哇~哦！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 385,
+      "id": 460,
+      "name": "TI11_Caster_Chinese_5",
+      "label": "这一把要一战成神，打你们五个!",
+      "message": "这一把要一战成神，打你们五个!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 386,
+      "id": 461,
+      "name": "TI11_Caster_Chinese_6",
+      "label": "终于等到你",
+      "message": "终于等到你",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 387,
+      "id": 462,
+      "name": "TI11_Caster_Russian_1",
+      "label": "Да бей, бей просто, уничтожь!",
+      "message": "Да бей, бей просто, уничтожь!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 388,
+      "id": 463,
+      "name": "TI11_Caster_Russian_2",
+      "label": "Я всё видела! Это он виноват.",
+      "message": "Я всё видела! Это он виноват.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 389,
+      "id": 464,
+      "name": "TI11_Caster_Russian_3",
+      "label": "Брбрбрбр. Ладно, смотрим дальше.",
+      "message": "Брбрбрбр. Ладно, смотрим дальше.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 390,
+      "id": 465,
+      "name": "TI11_Caster_Russian_4",
+      "label": "Бить! Бить! Бить! Бить! Ещё бить!",
+      "message": "Бить! Бить! Бить! Бить! Ещё бить!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 391,
+      "id": 466,
+      "name": "TI11_Caster_Russian_5",
+      "label": "Смех",
+      "message": "Смех",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 392,
+      "id": 467,
+      "name": "TI11_Caster_Russian_6",
+      "label": "Ребята, I got this.",
+      "message": "Ребята, I got this.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 393,
+      "id": 468,
+      "name": "TI11_Caster_Spanish_1",
+      "label": "RRRRRRRRAMPAGE!",
+      "message": "RRRRRRRRAMPAGE!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 394,
+      "id": 469,
+      "name": "TI11_Caster_Spanish_2",
+      "label": "Con el Wombo Combo perfecto!",
+      "message": "Con el Wombo Combo perfecto!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 395,
+      "id": 470,
+      "name": "TI11_Caster_Spanish_3",
+      "label": "3, 2, 1, aaaadios!",
+      "message": "3, 2, 1, aaaadios!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 396,
+      "id": 471,
+      "name": "TI11_Caster_Spanish_4",
+      "label": "Tiene que defender! Defiende la escuadra!",
+      "message": "Tiene que defender! Defiende la escuadra!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 397,
+      "id": 472,
+      "name": "TI11_Caster_Spanish_5",
+      "label": "Ooooh, por dios!",
+      "message": "Ooooh, por dios!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 398,
+      "id": 473,
+      "name": "TI11_Caster_Spanish_6",
+      "label": "Hasta Luego, pldldldldldldldldldldld!",
+      "message": "Hasta Luego, pldldldldldldldldldldld!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 399,
+      "id": 474,
+      "name": "TI11_Caster_Portuguese_1",
+      "label": "Clica, clica, clica, clica... Pesado!",
+      "message": "Clica, clica, clica, clica... Pesado!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 400,
+      "id": 475,
+      "name": "TI11_Caster_Portuguese_2",
+      "label": "A Canção da Sereia! OooOooO!",
+      "message": "A Canção da Sereia! OooOooO!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 401,
+      "id": 476,
+      "name": "TI11_Caster_Portuguese_3",
+      "label": "Tick, tick... Boom! É a shotgun da destruição!",
+      "message": "Tick, tick... Boom! É a shotgun da destruição!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 402,
+      "id": 477,
+      "name": "TI11_Caster_Portuguese_4",
+      "label": "Partida tensa. Partida complicada.",
+      "message": "Partida tensa. Partida complicada.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 403,
+      "id": 478,
+      "name": "TI11_Caster_Portuguese_5",
+      "label": "Que Dota é esse, cara?",
+      "message": "Que Dota é esse, cara?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 404,
+      "id": 479,
+      "name": "TI11_Caster_Portuguese_6",
+      "label": "Wow, que dano!",
+      "message": "Wow, que dano!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 405,
+      "id": 490,
+      "name": "Guild_No_Chill",
+      "label": "No Chill!",
+      "message": "This guy has no chill",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 406,
+      "id": 491,
+      "name": "Guild_Krasavchik",
+      "label": "Красавчик!",
+      "message": "Красавчик!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 407,
+      "id": 492,
+      "name": "Guild_Bai_Tuo_Shei_Qu",
+      "label": "拜托谁去杀了他吧",
+      "message": "拜托谁去杀了他吧",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 408,
+      "id": 493,
+      "name": "Guild_Thats_Playing_to_Win",
+      "label": "That's Playing to Win!",
+      "message": "That's playing to win, baby!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 409,
+      "id": 494,
+      "name": "Guild_Bozhe_Ti_Posmotri",
+      "label": "Что Происходит",
+      "message": "Боже, ты посмотри вокруг, что происходит!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 410,
+      "id": 495,
+      "name": "Guild_Gao_Fu_Shuai",
+      "label": "这就是高富帅啊",
+      "message": "这就是高富帅啊",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 411,
+      "id": 496,
+      "name": "Guild_Youre_a_Hero",
+      "label": "You're a Goddamn Hero!",
+      "message": "You're a goddamn hero!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 412,
+      "id": 497,
+      "name": "Guild_Zhil_Do_Konsta",
+      "label": "Как Герой",
+      "message": "Жил до конца, умер как герой",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 413,
+      "id": 498,
+      "name": "Guild_Hu_Lu_Wa",
+      "label": "葫芦娃救爷爷",
+      "message": "葫芦娃救爷爷",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 414,
+      "id": 500,
+      "name": "TI11_Patience",
+      "label": "Patience",
+      "message": "Patience from Zhou",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 415,
+      "id": 501,
+      "name": "TI11_Youre_a_Hero",
+      "label": "You're a Goddamn Hero!",
+      "message": "You're a goddamn hero!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 416,
+      "id": 502,
+      "name": "TI11_What_Just_Happened",
+      "label": "What Just Happened?",
+      "message": "I can't believe what we're seeing. What just happened?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 417,
+      "id": 503,
+      "name": "TI11_Waow",
+      "label": "Waow",
+      "message": "Waow",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 418,
+      "id": 504,
+      "name": "TI11_Ding_Ding_Ding",
+      "label": "Ding Ding Ding!",
+      "message": "Ding Ding Ding Mother******",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 419,
+      "id": 505,
+      "name": "TI11_Lets_Play_Dota",
+      "label": "Let's Play Dota",
+      "message": "Let's Play Some Dota",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 420,
+      "id": 506,
+      "name": "TI11_Absolutely_Perfect",
+      "label": "Absolutely Perfect",
+      "message": "Absolutely Perfect",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 421,
+      "id": 507,
+      "name": "TI11_Looking_Spicy",
+      "label": "Looking Spicy",
+      "message": "It's looking Spicy!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 422,
+      "id": 508,
+      "name": "TI11_What_The_F_Just_Happened",
+      "label": "What the **** Just Happened",
+      "message": "What the **** just happened?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 423,
+      "id": 509,
+      "name": "TI11_See_You_Later_Nerds",
+      "label": "See You Later Nerds",
+      "message": "See you later nerds",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 424,
+      "id": 510,
+      "name": "TI11_Holy_Moly",
+      "label": "Holy Moly!",
+      "message": "Holy Moly!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 425,
+      "id": 511,
+      "name": "TI11_Oh_My_God_What",
+      "label": "Oh My God. What?",
+      "message": "Oh my god. What? Oh! Oh!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 426,
+      "id": 512,
+      "name": "TI11_Questionable_at_Best",
+      "label": "Questionable at Best",
+      "message": "I...uh...That was questionable at the...at the best.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 427,
+      "id": 513,
+      "name": "TI11_Coming_Through",
+      "label": "Coming Through",
+      "message": "Coming through with the wooooo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 428,
+      "id": 514,
+      "name": "TI11_Nothing_That_Can_Stop_This_Man",
+      "label": "Nothing Can Stop This Man",
+      "message": "There is nothing that can stop this man",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 429,
+      "id": 520,
+      "name": "TI11_Ay_Ay_Ay",
+      "label": "Ай-ай-ай-ай-ай",
+      "message": "Ай-ай-ай-ай-ай, что сейчас произошло",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 430,
+      "id": 521,
+      "name": "TI11_Ehto_G_G",
+      "label": "Это ГГ",
+      "message": "Это ГГ",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 431,
+      "id": 522,
+      "name": "TI11_Oy_Oy_Bezhat",
+      "label": "Ой-ой-ой-ой-ой, бежать!",
+      "message": "Ой-ой-ой-ой-ой, бежать!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 432,
+      "id": 523,
+      "name": "TI11_Eto_Sochno",
+      "label": "Как же это сочно, ах!",
+      "message": "Как же это сочно, ах!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 433,
+      "id": 524,
+      "name": "TI11_Eto_Prosto_Netchto",
+      "label": "Это. Просто. Нечто.",
+      "message": "Это. Просто. Нечто.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 434,
+      "id": 525,
+      "name": "TI11_Zhil_Do_Konsta",
+      "label": "Как Герой",
+      "message": "Жил до конца, умер как герой",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 435,
+      "id": 526,
+      "name": "TI11_Kreasa_Kreasa",
+      "label": "Резать Резать Резать Резать",
+      "message": "Резать Резать Резать Резать",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 436,
+      "id": 527,
+      "name": "TI11_Wot_Eto_Bru",
+      "label": "Вот Это Врыв!",
+      "message": "Вот Это Врыв!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 437,
+      "id": 528,
+      "name": "TI11_Eto_Takaya_Dushka",
+      "label": "Это такая душка!",
+      "message": "Ух, это такая душка!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 438,
+      "id": 529,
+      "name": "TI11_Chto_Eto_Kakaya_Zhest",
+      "label": "Какая Жесть!",
+      "message": "Что это?! Какая жесть!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 439,
+      "id": 530,
+      "name": "TI11_Eto_Nenormalno",
+      "label": "Это ненормально, это нечестно!",
+      "message": "Это ненормально, это нечестно!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 440,
+      "id": 531,
+      "name": "TI11_Takaya_Haliava",
+      "label": "Такая халява!",
+      "message": "Такая халява...Ха!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 441,
+      "id": 532,
+      "name": "TI11_Aaah_Aaah_Chto",
+      "label": "А? Что?!",
+      "message": "Ё! А? А? Что?!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 442,
+      "id": 533,
+      "name": "TI11_A_Nu_Ka_Idi_Suda",
+      "label": "Иди-ка сюда",
+      "message": "А ну-ка иди-ка сюда. А вот все. Все.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 443,
+      "id": 534,
+      "name": "TI11_Da_Da_Da_Nyet",
+      "label": "Да? Да? Да? Нет.",
+      "message": "Да? Да? Да? Нет.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 444,
+      "id": 540,
+      "name": "TI11_Tian_Huo",
+      "label": "天火！",
+      "message": "天火！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 445,
+      "id": 541,
+      "name": "TI11_Piao_Liang",
+      "label": "漂~ 亮！",
+      "message": "漂~ 亮！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 446,
+      "id": 542,
+      "name": "TI11_Gan_Ma_Ne_Xiong_Di",
+      "label": "干嘛呢兄弟",
+      "message": "干嘛呢兄弟",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 447,
+      "id": 543,
+      "name": "TI11_Duiyou_Ne",
+      "label": "队友呢？",
+      "message": "啊，队友呢？队友呢？队友呢？！ 队友呢？！？！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 448,
+      "id": 544,
+      "name": "TI11_Zai_Jian_Le_Bao_Bei",
+      "label": "再见了宝贝儿！",
+      "message": "再见了宝贝儿！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 449,
+      "id": 545,
+      "name": "TI11_Wan_Bu_Liao_La",
+      "label": "玩不了啦！",
+      "message": "玩不了啦！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 450,
+      "id": 546,
+      "name": "TI11_Jia_You",
+      "label": "加油！",
+      "message": "加油！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 451,
+      "id": 547,
+      "name": "TI11_Lian_Dou_Xiu_Wai_La",
+      "label": "脸都秀歪啦",
+      "message": "脸都秀歪啦",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 452,
+      "id": 548,
+      "name": "TI11_Ni_Qi_Bu_Qi",
+      "label": "你气不气?",
+      "message": "你气不气?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 453,
+      "id": 549,
+      "name": "TI11_lai_ni_da",
+      "label": "来，你打我呀！",
+      "message": "来，你打我呀！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 454,
+      "id": 550,
+      "name": "TI11_wo_shi_yi",
+      "label": "我是一个没有感情的刷钱机器",
+      "message": "我是一个没有感情的刷钱机器",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 455,
+      "id": 551,
+      "name": "TI11_ni_xing_ni",
+      "label": "你行你行，你上你上",
+      "message": "你行你行，你上你上",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 456,
+      "id": 552,
+      "name": "TI11_hui_tian_mie",
+      "label": "毁天灭地, NICE啊！",
+      "message": "毁天灭地, NICE啊！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 457,
+      "id": 553,
+      "name": "TI11_tiao_zou_le",
+      "label": "跳走了",
+      "message": "跳走了",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 458,
+      "id": 554,
+      "name": "TI11_ay_ay_ay_cn",
+      "label": "唉唉唉！唉？唉 …",
+      "message": "唉唉唉！唉？唉 …",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 459,
+      "id": 560,
+      "name": "TI11_Eughahaha_Aah_Ha_Ha_Ha_Ha",
+      "label": "Eughahaha Aah Ha Ha Ha Ha",
+      "message": "Eughahaha Aah Ha Ha Ha Ha",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 460,
+      "id": 561,
+      "name": "TI11_Goodness_Gracious",
+      "label": "Goodness Gracious",
+      "message": "Sir Chief. Goodness Gracious Papable.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 461,
+      "id": 562,
+      "name": "TI11_Nakupuuu",
+      "label": "NAKUPUU",
+      "message": "NAKUPUU",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 462,
+      "id": 563,
+      "name": "TI11_Whats_Cooking",
+      "label": "What's Cooking",
+      "message": "You know what's cooking? BOOM!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 463,
+      "id": 564,
+      "name": "TI11_Easiest_Money",
+      "label": "Easiest Money",
+      "message": "Easiest money of my life!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 464,
+      "id": 565,
+      "name": "TI11_Echo_Slama_Jama",
+      "label": "Echo Slamma Jamma",
+      "message": "Echo Slamma Jamma!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 465,
+      "id": 566,
+      "name": "TI11_Next_Level",
+      "label": "Next Level",
+      "message": "The next level play!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 466,
+      "id": 567,
+      "name": "TI11_Oy_Oy_Oy",
+      "label": "Oyoy oy oy",
+      "message": "Oyoy oy oy, oy, oy, oy Oy OY!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 467,
+      "id": 568,
+      "name": "TI11_Lakad_Matataaaag",
+      "label": "Lakad Matataaaag!",
+      "message": "Lakad Matataaaag! Normalin Normalin.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 468,
+      "id": 569,
+      "name": "TI11_Kor_Roshan",
+      "label": "Roshan! Roshan! Roshan!",
+      "message": "Roshan! Roshan! Roshan!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 469,
+      "id": 570,
+      "name": "TI11_Kor_Yes_No",
+      "label": "네, 노, 네, 노 노 노!",
+      "message": "네, 노, 네, 노 노 노!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 470,
+      "id": 571,
+      "name": "TI11_Kor_Scan",
+      "label": "스캔",
+      "message": "스캔 돌려야 되요 따라란따란따라라라란 스캔 돌려야 된다고요!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 471,
+      "id": 572,
+      "name": "TI11_Kor_Immortality",
+      "label": "Immortality",
+      "message": "Mommy! I got me! Immortality!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 472,
+      "id": 573,
+      "name": "TI11_Kor_Yolo",
+      "label": "Yolo",
+      "message": "골드 부활 못 해! YOLO! 골드 부활 못 해! YOLO!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 473,
+      "id": 574,
+      "name": "TI11_Kor_House",
+      "label": "10억짜리 꿈의 고리! 15억짜리 꿈의 고리!",
+      "message": "10억짜리 꿈의 고리! 15억짜리 꿈의 고리!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 474,
+      "id": 575,
+      "name": "TI11_Truesight_StupidestWayToDie",
+      "label": "Самая тупая смерть в жизни просто.",
+      "message": "Самая тупая смерть в жизни просто.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 475,
+      "id": 577,
+      "name": "TI11_Truesight_Moolah",
+      "label": "Moo-lah!",
+      "message": "Moo-lah!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 476,
+      "id": 578,
+      "name": "TI11_Truesight_NoMoreTips",
+      "label": "没有打赏次数了吗？哦冷却",
+      "message": "没有打赏次数了吗？哦冷却",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 477,
+      "id": 579,
+      "name": "TI11_Truesight_DidWeActuallyWin",
+      "label": "А чё, мы выиграли, что ли?",
+      "message": "А чё, мы выиграли, что ли?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 478,
+      "id": 581,
+      "name": "TI11_Truesight_SnailWalksIntoABar",
+      "label": "Заходит улитка в бар!",
+      "message": "Заходит улитка в бар!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 479,
+      "id": 582,
+      "name": "TI11_Truesight_321LetsGo",
+      "label": "3, 2, 1... 加油！",
+      "message": "3, 2, 1... 加油！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 480,
+      "id": 583,
+      "name": "TI11_Truesight_KeyboardNotWorking",
+      "label": "Uh, my keyboard is not working.",
+      "message": "Uh, my keyboard is not working.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 481,
+      "id": 584,
+      "name": "TI11_Truesight_SoundsGood",
+      "label": "可以啊",
+      "message": "可以啊",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 482,
+      "id": 585,
+      "name": "TI11_Truesight_YoureDamnCrazy",
+      "label": "Капец вы крейзи, парни. Ну ладно.",
+      "message": "Капец вы крейзи, парни. Ну ладно.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 483,
+      "id": 586,
+      "name": "TI11_Truesight_IveWonTheInternational",
+      "label": "Добрый вечер, я Интернешнел выиграл.",
+      "message": "Добрый вечер, я Интернешнел выиграл.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 484,
+      "id": 587,
+      "name": "TI11_Truesight_SuchASmartIdea",
+      "label": "Блин, ты очень умно придумал.",
+      "message": "Блин, ты очень умно придумал.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 485,
+      "id": 588,
+      "name": "TI11_Truesight_EveryGameLikeTheLast",
+      "label": "每一把都当最后一把，然后也不要怕输",
+      "message": "每一把都当最后一把，然后也不要怕输",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 486,
+      "id": 589,
+      "name": "Guild_Lichsicle",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 487,
+      "id": 590,
+      "name": "Guild_Puck_Dagoned",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 488,
+      "id": 591,
+      "name": "Guild_Sven_Strength",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 489,
+      "id": 592,
+      "name": "Guild_See_You_Later_Nerds",
+      "label": "See You Later Nerds",
+      "message": "See you later nerds",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 490,
+      "id": 593,
+      "name": "Guild_Que_Dota_E_Esse",
+      "label": "Que Dota é esse, cara?",
+      "message": "Que Dota é esse, cara?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 491,
+      "id": 594,
+      "name": "Guild_Zai_Jian_Le_Bao_Bei",
+      "label": "再见了宝贝儿！",
+      "message": "再见了宝贝儿！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 492,
+      "id": 595,
+      "name": "gabe_proud",
+      "label": "I am very proud of you",
+      "message": "You are doing very well, I am very proud of you!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 493,
+      "id": 596,
+      "name": "gabe_unreal",
+      "label": "That was unreal!",
+      "message": "That was unreal!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 494,
+      "id": 597,
+      "name": "gabe_goodness",
+      "label": "Goodness!",
+      "message": "Goodness!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 495,
+      "id": 598,
+      "name": "gabe_learn",
+      "label": "This is a good opportunity to learn!",
+      "message": "This is a good opportunity to learn!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 496,
+      "id": 599,
+      "name": "gabe_wisdom",
+      "label": "Making mistakes is the path to wisdom.",
+      "message": "Making mistakes is the path to wisdom.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 497,
+      "id": 600,
+      "name": "gabe_personality",
+      "label": "You're a beautiful person with a charming personality",
+      "message": "You're a beautiful person with a charming personality",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 498,
+      "id": 601,
+      "name": "gabe_mistakes",
+      "label": "You can't improve until you make mistakes",
+      "message": "You can't improve until you make mistakes",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 499,
+      "id": 602,
+      "name": "gabe_crab",
+      "label": "I've always wanted to be a giant space crab",
+      "message": "I've always wanted to be a giant space crab",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 500,
+      "id": 603,
+      "name": "Guild_Kotl_Mana",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 501,
+      "id": 604,
+      "name": "Guild_Shadowfiend_Shrug",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 502,
+      "id": 605,
+      "name": "Guild_Arc_Warden_Stab",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 503,
+      "id": 606,
+      "name": "Guild_Holy_Moly",
+      "label": "Holy Moly!",
+      "message": "Holy Moly!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 504,
+      "id": 607,
+      "name": "Guild_Da_Da_Da_Nyet",
+      "label": "Да? Да? Да? Нет.",
+      "message": "Да? Да? Да? Нет.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 505,
+      "id": 608,
+      "name": "Guild_321_Adios",
+      "label": "3, 2, 1, aaaadios!",
+      "message": "3, 2, 1, aaaadios!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 506,
+      "id": 609,
+      "name": "TI12_Caster_English_1",
+      "label": "Its Too Good",
+      "message": "Omg its too good...but no, its not good enough at all, or wait, is it,maybe?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 507,
+      "id": 610,
+      "name": "TI12_Caster_English_2",
+      "label": "Not Like This",
+      "message": "Oh my god, no, not like this!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 508,
+      "id": 611,
+      "name": "TI12_Caster_English_3",
+      "label": "What Is Happening",
+      "message": "What in god's green earth is happening right now?!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 509,
+      "id": 612,
+      "name": "TI12_Caster_English_4",
+      "label": "Nom nom nom",
+      "message": "Nom nom nom nom nom nom nom",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 510,
+      "id": 613,
+      "name": "TI12_Caster_English_5",
+      "label": "Respect Buybacks",
+      "message": "They did not respect the buybacks once again!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 511,
+      "id": 614,
+      "name": "TI12_Caster_Spanish_1",
+      "label": "El combo de la muerte",
+      "message": "El combo de la muerte.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 512,
+      "id": 615,
+      "name": "TI12_Caster_Spanish_2",
+      "label": "¡Trrraampa mortal!",
+      "message": "¡En la trrraampa mortal!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 513,
+      "id": 616,
+      "name": "TI12_Caster_Spanish_3",
+      "label": "¡Nooooo!",
+      "message": "¡Nooooo!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 514,
+      "id": 617,
+      "name": "TI12_Caster_Spanish_4",
+      "label": "Toma para que me respeten.",
+      "message": "Toma para que me respeten.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 515,
+      "id": 618,
+      "name": "TI12_Caster_Spanish_5",
+      "label": "Cerca de la mueeerrrteee.",
+      "message": "Cerca de la mueeerrrteee.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 516,
+      "id": 619,
+      "name": "TI12_Caster_Portuguese_1",
+      "label": "Eita! BLBLBLBLBL!",
+      "message": "Eita! BLBLBLBLBL!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 517,
+      "id": 620,
+      "name": "TI12_Caster_Portuguese_2",
+      "label": "Naturalizado Deus.",
+      "message": "Nascido homem, naturalizado deus.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 518,
+      "id": 621,
+      "name": "TI12_Caster_Portuguese_3",
+      "label": "Chocada, Passada",
+      "message": "Chocada, passada.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 519,
+      "id": 622,
+      "name": "TI12_Caster_Portuguese_4",
+      "label": "Joga Fácil",
+      "message": "Joga fácil, joga lindo.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 520,
+      "id": 623,
+      "name": "TI12_Caster_Portuguese_5",
+      "label": "Controlado E Punido!",
+      "message": "Encontrado, controlado e punido!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 521,
+      "id": 624,
+      "name": "TI12_Caster_Russian_1",
+      "label": "Просто муа!",
+      "message": "Это просто... Просто муа!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 522,
+      "id": 625,
+      "name": "TI12_Caster_Russian_2",
+      "label": "В Зоне",
+      "message": "В какой же они зоне!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 523,
+      "id": 626,
+      "name": "TI12_Caster_Russian_3",
+      "label": "Не хватило!",
+      "message": "Чуть-чуть не хватило!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 524,
+      "id": 627,
+      "name": "TI12_Caster_Russian_4",
+      "label": "Здорово, парни!",
+      "message": "Здорово, парни! Как дела?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 525,
+      "id": 628,
+      "name": "TI12_Caster_Russian_5",
+      "label": "Вот это да!",
+      "message": "Хо-хо-хо! Вот это да!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 526,
+      "id": 629,
+      "name": "TI12_Caster_Chinese_1",
+      "label": "啊？",
+      "message": "啊？",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 527,
+      "id": 630,
+      "name": "TI12_Caster_Chinese_2",
+      "label": "喂喂喂？",
+      "message": "喂喂喂？ Hello？队友呢？Hello？",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 528,
+      "id": 631,
+      "name": "TI12_Caster_Chinese_3",
+      "label": "我好难受哇",
+      "message": "我好难受哇",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 529,
+      "id": 632,
+      "name": "TI12_Caster_Chinese_4",
+      "label": "乌龟也是很卖力的",
+      "message": "乌龟也是很卖力的！ 哎！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 530,
+      "id": 633,
+      "name": "TI12_Caster_Chinese_5",
+      "label": "太牛了，这一波",
+      "message": "太牛了，这一波",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 531,
+      "id": 634,
+      "name": "TI12_Caster_Legacy_1",
+      "label": "Ай-ай-ай-ай-ай",
+      "message": "Ай-ай-ай-ай-ай, что сейчас произошло",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 532,
+      "id": 635,
+      "name": "TI12_Caster_Legacy_2",
+      "label": "队友呢？",
+      "message": "啊，队友呢？队友呢？队友呢？！ 队友呢？！？！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 533,
+      "id": 636,
+      "name": "TI12_Caster_Legacy_3",
+      "label": "네, 노, 네, 노 노 노!",
+      "message": "네, 노, 네, 노 노 노!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 534,
+      "id": 637,
+      "name": "TI12_Caster_Legacy_4",
+      "label": "Coming Through",
+      "message": "Coming through with the wooooo",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 535,
+      "id": 638,
+      "name": "TI12_Caster_Legacy_5",
+      "label": "Con el Wombo Combo perfecto!",
+      "message": "Con el Wombo Combo perfecto!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 536,
+      "id": 639,
+      "name": "frostivus_ancientchocolate",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 537,
+      "id": 640,
+      "name": "frostivus_cookie_seer",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 538,
+      "id": 641,
+      "name": "frostivus_enchantress",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 539,
+      "id": 642,
+      "name": "frostivus_hoodcracker",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 540,
+      "id": 643,
+      "name": "frostivus_necrogrinch",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 541,
+      "id": 644,
+      "name": "frostivus_pudgeslap",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 542,
+      "id": 645,
+      "name": "frostivus_youllshootyoureyeout",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 543,
+      "id": 646,
+      "name": "frostivus_cool_king",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 544,
+      "id": 647,
+      "name": "Guild_NP_Popcorn",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 545,
+      "id": 648,
+      "name": "Guild_Chicken",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 546,
+      "id": 649,
+      "name": "Guild_Meepo_Dirt_Nap",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 547,
+      "id": 650,
+      "name": "Guild_TI11_Caster_Spanish_2",
+      "label": "Con el Wombo Combo perfecto!",
+      "message": "Con el Wombo Combo perfecto!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 548,
+      "id": 651,
+      "name": "Guild_Eto_Takaya_Dushka",
+      "label": "Это такая душка!",
+      "message": "Ух, это такая душка!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 549,
+      "id": 652,
+      "name": "Guild_TI11_Caster_Chinese_4",
+      "label": "哇~哦！",
+      "message": "哇~哦！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 550,
+      "id": 653,
+      "name": "Guild_agh_feed",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 551,
+      "id": 654,
+      "name": "Guild_TI9_Bountyhunter_Riches",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 552,
+      "id": 655,
+      "name": "Guild_ti11_hoodwink",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 553,
+      "id": 656,
+      "name": "Guild_TI11_Chto_Eto_Kakaya_Zhest",
+      "label": "Какая Жесть!",
+      "message": "Что это?! Какая жесть!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 554,
+      "id": 657,
+      "name": "Guild_TI11_Caster_Spanish_5",
+      "label": "Ooooh, por dios!",
+      "message": "Ooooh, por dios!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 555,
+      "id": 658,
+      "name": "Guild_ni_xing_ni",
+      "label": "你行你行，你上你上",
+      "message": "你行你行，你上你上",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 556,
+      "id": 659,
+      "name": "sprays_crownfall_skreeauk",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 557,
+      "id": 660,
+      "name": "sprays_crownfall_skywrath",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 558,
+      "id": 661,
+      "name": "sprays_crownfall_venge",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 559,
+      "id": 662,
+      "name": "Crownfall_Queen_Imperia_1",
+      "label": "Yes. Bleed for me! Ha ha ha!",
+      "message": "Yes. Bleed for me! Ha ha ha!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 560,
+      "id": 663,
+      "name": "Crownfall_Queen_Imperia_2",
+      "label": "Fall at my feet, peasant!",
+      "message": "Fall at my feet, peasant!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 561,
+      "id": 664,
+      "name": "Crownfall_Queen_Imperia_3",
+      "label": "Long live the queen. The real queen.",
+      "message": "Long live the queen. The real queen.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 562,
+      "id": 665,
+      "name": "Crownfall_Queen_Imperia_4",
+      "label": "Of all the ways to die!",
+      "message": "Of all the ways to die!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 563,
+      "id": 666,
+      "name": "Crownfall_Queen_Imperia_5",
+      "label": "Why am I surrounded by such peons?",
+      "message": "Why am I surrounded by such peons?",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 564,
+      "id": 667,
+      "name": "Crownfall_Queen_Imperia_6",
+      "label": "I'm seriously getting tired of this place.",
+      "message": "I'm seriously getting tired of this place.",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 565,
+      "id": 668,
+      "name": "sprays_crownfall_legion_sorla",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 566,
+      "id": 669,
+      "name": "sprays_crownfall_warlock",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 567,
+      "id": 670,
+      "name": "sprays_crownfall_axe_centaur",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 568,
+      "id": 671,
+      "name": "Guild_wisp_strong",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 569,
+      "id": 672,
+      "name": "Guild_ti11_spectre",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 570,
+      "id": 673,
+      "name": "Guild_TI9_Pugna_Magic",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 571,
+      "id": 674,
+      "name": "Guild_Eto_Nenormalno",
+      "label": "Это ненормально, это нечестно!",
+      "message": "Это ненормально, это нечестно!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 572,
+      "id": 675,
+      "name": "Guild_TI11_Caster_Spanish_6",
+      "label": "Hasta Luego, pldldldldldldldldldldld!",
+      "message": "Hasta Luego, pldldldldldldldldldldld!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 573,
+      "id": 676,
+      "name": "Guild_TI11_Nothing_That_Can_Stop_This_Man",
+      "label": "Nothing Can Stop This Man",
+      "message": "There is nothing that can stop this man",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 574,
+      "id": 677,
+      "name": "sprays_crownfall_lich_mvp",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 575,
+      "id": 678,
+      "name": "sprays_crownfall_cm_feast",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 576,
+      "id": 679,
+      "name": "sprays_crownfall_tusk_v_bristle",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 577,
+      "id": 680,
+      "name": "sprays_crownfall_lil_cm",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 578,
+      "id": 681,
+      "name": "TI13_Caster_Legacy_1",
+      "label": "See You Later Nerds",
+      "message": "See you later nerds",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 579,
+      "id": 682,
+      "name": "TI13_Caster_Legacy_2",
+      "label": "毁天灭地, NICE啊！",
+      "message": "毁天灭地, NICE啊！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 580,
+      "id": 683,
+      "name": "TI13_Caster_Legacy_3",
+      "label": "3, 2, 1, aaaadios!",
+      "message": "3, 2, 1, aaaadios!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 581,
+      "id": 684,
+      "name": "TI13_Caster_Legacy_4",
+      "label": "Резать Резать Резать Резать",
+      "message": "Резать Резать Резать Резать",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 582,
+      "id": 685,
+      "name": "TI13_Caster_Legacy_5",
+      "label": "哇~哦！",
+      "message": "哇~哦！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 583,
+      "id": 686,
+      "name": "Guild_TI10_Spray_14",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 584,
+      "id": 687,
+      "name": "Guild_ti11_phantom_lancer",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 585,
+      "id": 688,
+      "name": "Guild_TI9_Ursa_Funny_Bear",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 586,
+      "id": 689,
+      "name": "Guild_Jia_You",
+      "label": "加油！",
+      "message": "加油！",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 587,
+      "id": 690,
+      "name": "Guild_Takaya_Haliava",
+      "label": "Такая халява!",
+      "message": "Такая халява...Ха!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 588,
+      "id": 691,
+      "name": "Guild_Oh_My_God_What",
+      "label": "Oh My God. What?",
+      "message": "Oh my god. What? Oh! Oh!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 589,
+      "id": 692,
+      "name": "crownfall_snotty_bat",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 590,
+      "id": 693,
+      "name": "crownfall_sky_venge",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 591,
+      "id": 694,
+      "name": "crownfall_mine_games",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 592,
+      "id": 695,
+      "name": "crownfall_masked_siblings",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 593,
+      "id": 696,
+      "name": "crownfall_kez",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 594,
+      "id": 697,
+      "name": "crownfall_imperia",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 595,
+      "id": 698,
+      "name": "crownfall_cw_axe_sky",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 596,
+      "id": 699,
+      "name": "crownfall_baby_kez",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 597,
+      "id": 700,
+      "name": "crownfall_bloodseeker_pudge",
+      "label": NaN,
+      "message": NaN,
+      "sound_ext": NaN
+    },
+    {
+      "Unnamed: 0": 598,
+      "id": 701,
+      "name": "Crownfall_Queen_Imperia_7",
+      "label": "Somebody do something!",
+      "message": "Somebody do something!",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 599,
+      "id": 702,
+      "name": "Crownfall_Queen_Imperia_8",
+      "label": "Pathetic",
+      "message": "Pathetic",
+      "sound_ext": "wav"
+    },
+    {
+      "Unnamed: 0": 600,
+      "id": 703,
+      "name": "Crownfall_Queen_Imperia_9",
+      "label": "Your reckoning comes!",
+      "message": "Your reckoning comes!",
+      "sound_ext": "wav"
+    }
+  ]
+}

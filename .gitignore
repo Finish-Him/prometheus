@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+dashboard.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large data files (keep in cloud)
+*.zip
+*.rar
+*.7z
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+
+# ===== DEPLOY SIMPLIFICADO =====
+# Excluir pastas pesadas (ficarão no Google Drive)
+Legacy/
+Sistema-Prometheus/
+Jupiter notebook/
+Images/
+Agentes/
+Configurações/
+Manus-implementação/
+
+# Excluir dados pesados do Database
+Database/Chatgpt/
+Database/Csv/
+Database/docs/
+Database/Json/epl_2025_2026/
+Database/Json/matches/
+Database/Json/players/
+Database/Json/heroes/
+Database/Json/odds/
+Database/Json/predictions/
+
+# Manter apenas:
+# - app.py (entry point)
+# - Database/Json/leagues/ (dados de ligas)
+# - Database/Json/teams/ (dados de times)
+# - Database/Json/events/ (eventos futuros)
+# - Database/Json/bets/ (apostas)
+# - Database/Json/agents/ (agentes)
+# - Database/Json/config/

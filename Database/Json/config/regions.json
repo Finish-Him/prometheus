@@ -1,0 +1,120 @@
+{
+  "$schema": "constants_constants.regions_v1",
+  "metadata": {
+    "source": "OpenDota Constants",
+    "converted_from": "Constants.Regions.csv",
+    "last_updated": "2025-12-07"
+  },
+  "data": [
+    {
+      "Unnamed: 0": 0,
+      "regionid": 1,
+      "0": "US WEST"
+    },
+    {
+      "Unnamed: 0": 1,
+      "regionid": 2,
+      "0": "US EAST"
+    },
+    {
+      "Unnamed: 0": 2,
+      "regionid": 3,
+      "0": "EUROPE"
+    },
+    {
+      "Unnamed: 0": 3,
+      "regionid": 5,
+      "0": "SINGAPORE"
+    },
+    {
+      "Unnamed: 0": 4,
+      "regionid": 6,
+      "0": "DUBAI"
+    },
+    {
+      "Unnamed: 0": 5,
+      "regionid": 7,
+      "0": "AUSTRALIA"
+    },
+    {
+      "Unnamed: 0": 6,
+      "regionid": 8,
+      "0": "STOCKHOLM"
+    },
+    {
+      "Unnamed: 0": 7,
+      "regionid": 9,
+      "0": "AUSTRIA"
+    },
+    {
+      "Unnamed: 0": 8,
+      "regionid": 10,
+      "0": "BRAZIL"
+    },
+    {
+      "Unnamed: 0": 9,
+      "regionid": 11,
+      "0": "SOUTHAFRICA"
+    },
+    {
+      "Unnamed: 0": 10,
+      "regionid": 12,
+      "0": "PW TELECOM SHANGHAI"
+    },
+    {
+      "Unnamed: 0": 11,
+      "regionid": 13,
+      "0": "PW UNICOM"
+    },
+    {
+      "Unnamed: 0": 12,
+      "regionid": 14,
+      "0": "CHILE"
+    },
+    {
+      "Unnamed: 0": 13,
+      "regionid": 15,
+      "0": "PERU"
+    },
+    {
+      "Unnamed: 0": 14,
+      "regionid": 16,
+      "0": "INDIA"
+    },
+    {
+      "Unnamed: 0": 15,
+      "regionid": 17,
+      "0": "PW TELECOM GUANGDONG"
+    },
+    {
+      "Unnamed: 0": 16,
+      "regionid": 18,
+      "0": "PW TELECOM ZHEJIANG"
+    },
+    {
+      "Unnamed: 0": 17,
+      "regionid": 19,
+      "0": "JAPAN"
+    },
+    {
+      "Unnamed: 0": 18,
+      "regionid": 20,
+      "0": "PW TELECOM WUHAN"
+    },
+    {
+      "Unnamed: 0": 19,
+      "regionid": 25,
+      "0": "PW UNICOM TIANJIN"
+    },
+    {
+      "Unnamed: 0": 20,
+      "regionid": 37,
+      "0": "TAIWAN"
+    },
+    {
+      "Unnamed: 0": 21,
+      "regionid": 38,
+      "0": "ARGENTINA"
+    }
+  ]
+}
